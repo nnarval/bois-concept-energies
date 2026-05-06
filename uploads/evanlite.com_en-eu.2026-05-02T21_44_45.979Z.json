@@ -1,0 +1,285 @@
+{
+  "data": {
+    "branding": {
+      "colorScheme": "light",
+      "fonts": [
+        {
+          "family": "Roboto",
+          "role": "body"
+        },
+        {
+          "family": "Montserrat",
+          "role": "heading"
+        },
+        {
+          "family": "Inter",
+          "role": "unknown"
+        }
+      ],
+      "colors": {
+        "primary": "#408267",
+        "secondary": "#14A24B",
+        "accent": "#408267",
+        "background": "#FFFFFF",
+        "textPrimary": "#000000",
+        "link": "#FF0000"
+      },
+      "typography": {
+        "fontFamilies": {
+          "primary": "Roboto",
+          "heading": "Montserrat"
+        },
+        "fontStacks": {
+          "heading": [
+            "Montserrat",
+            "sans-serif"
+          ],
+          "body": [
+            "Roboto",
+            "sans-serif"
+          ],
+          "paragraph": [
+            "Roboto",
+            "sans-serif"
+          ]
+        },
+        "fontSizes": {
+          "h1": "36px",
+          "h2": "14px",
+          "body": "18px"
+        }
+      },
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "4px"
+      },
+      "components": {
+        "input": {
+          "background": "transparent",
+          "textColor": "#151515",
+          "borderColor": null,
+          "borderRadius": "0px",
+          "borderRadiusCorners": {
+            "topLeft": "0px",
+            "topRight": "0px",
+            "bottomRight": "0px",
+            "bottomLeft": "0px"
+          },
+          "shadow": "none"
+        },
+        "buttonPrimary": {
+          "background": "#408267",
+          "textColor": "#FFFFFF",
+          "borderRadius": "5px",
+          "borderRadiusCorners": {
+            "topLeft": "5px",
+            "topRight": "5px",
+            "bottomRight": "5px",
+            "bottomLeft": "5px"
+          },
+          "shadow": "none"
+        },
+        "buttonSecondary": {
+          "background": "#FFFFFF",
+          "textColor": "#000000",
+          "borderRadius": "2px",
+          "borderRadiusCorners": {
+            "topLeft": "2px",
+            "topRight": "2px",
+            "bottomRight": "2px",
+            "bottomLeft": "2px"
+          },
+          "shadow": "none"
+        }
+      },
+      "images": {
+        "logo": "https://evanlite.com/cdn/shop/files/logo-evanlite-white.svg?v=1751457496&width=170",
+        "favicon": "https://evanlite.com/cdn/shop/files/favenv.png?crop=center&height=32&v=1762787014&width=32",
+        "ogImage": "http://evanlite.com/cdn/shop/files/bgevan_d632e4a7-bec5-4e42-9af0-3bccfbfe0134.png?v=1762356158",
+        "logoHref": "/en-eu",
+        "logoAlt": "EVANLITE"
+      },
+      "__llm_logo_reasoning": {
+        "selectedIndex": 2,
+        "reasoning": "Selected #0 because it is visible, located in the header, and matches the brand name 'EVANLITE'. It is the most prominent logo fitting the brand identity.",
+        "confidence": 0.9,
+        "source": "llm"
+      },
+      "__llm_button_reasoning": {
+        "primary": {
+          "index": 8,
+          "text": "Confirm",
+          "reasoning": "Button #8 has a vibrant green background (#408267), which is the brand's accent color, making it stand out as the primary call-to-action. The text 'Confirm' suggests a decisive action, reinforcing its primary status."
+        },
+        "secondary": {
+          "index": 3,
+          "text": "Check how Evanlite Wheels Are Made",
+          "reasoning": "Button #3 has a white background (#FFFFFF), contrasting with the primary button's green. It offers additional information with 'Check how Evanlite Wheels Are Made', making it suitable as a secondary action."
+        },
+        "confidence": 0.95
+      },
+      "personality": {
+        "tone": "professional",
+        "energy": "medium",
+        "targetAudience": "cycling enthusiasts and athletes"
+      },
+      "designSystem": {
+        "framework": "custom",
+        "componentLibrary": ""
+      },
+      "confidence": {
+        "buttons": 0.95,
+        "colors": 0.9,
+        "overall": 0.925
+      },
+      "__llm_metadata": {
+        "logoSelection": {
+          "llmCalled": true,
+          "llmSucceeded": true,
+          "finalSource": "llm",
+          "rawLogoSelection": {
+            "selectedLogoIndex": 0,
+            "selectedLogoReasoning": "Selected #0 because it is visible, located in the header, and matches the brand name 'EVANLITE'. It is the most prominent logo fitting the brand identity.",
+            "confidence": 0.9
+          }
+        },
+        "buttonClassification": {
+          "llmCalled": true,
+          "llmSucceeded": true
+        }
+      }
+    },
+    "metadata": {
+      "ogSiteName": "EVANLITE",
+      "description": "Road, Gravel, MTB. Handbuilt and Made in Poland. Carbon wheels. Boost your performance with Evanlite wheels.",
+      "shopify-checkout-api-token": "193305405c200d631a2bbb13d514917b",
+      "og:description": "Road, Gravel, MTB. Handbuilt and Made in Poland. Carbon wheels. Boost your performance with Evanlite wheels.",
+      "twitter:card": "summary_large_image",
+      "language": "en",
+      "og:image:secure_url": "https://evanlite.com/cdn/shop/files/bgevan_d632e4a7-bec5-4e42-9af0-3bccfbfe0134.png?v=1762356158",
+      "ogTitle": "EVANLITE – High Performance Carbon Wheels | Made in Europe",
+      "viewport": [
+        "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+        "width=device-width, initial-scale=1.0,\n                                 maximum-scale=1.0, user-scalable=no",
+        "width=device-width, initial-scale=1.0,\n                                 maximum-scale=1.0, user-scalable=no"
+      ],
+      "theme-color": [
+        "",
+        "#fff",
+        "#fff"
+      ],
+      "og:title": "EVANLITE – High Performance Carbon Wheels | Made in Europe",
+      "twitter:description": "Road, Gravel, MTB. Handbuilt and Made in Poland. Carbon wheels. Boost your performance with Evanlite wheels.",
+      "ogUrl": "https://evanlite.com/en-eu",
+      "color-scheme": [
+        "light dark",
+        "light dark"
+      ],
+      "og:url": "https://evanlite.com/en-eu",
+      "ogDescription": "Road, Gravel, MTB. Handbuilt and Made in Poland. Carbon wheels. Boost your performance with Evanlite wheels.",
+      "twitter:title": "EVANLITE – High Performance Carbon Wheels | Made in Europe",
+      "ogImage": "http://evanlite.com/cdn/shop/files/bgevan_d632e4a7-bec5-4e42-9af0-3bccfbfe0134.png?v=1762356158",
+      "og:type": "website",
+      "og:image:width": "1920",
+      "og:image": "http://evanlite.com/cdn/shop/files/bgevan_d632e4a7-bec5-4e42-9af0-3bccfbfe0134.png?v=1762356158",
+      "google-site-verification": "uMpz1gwCqGfclLICRW_4urE5yFKx65Q7XVGzILn7aq8",
+      "shopify-digital-wallet": "/96978338131/digital_wallets/dialog",
+      "og:image:height": "1080",
+      "title": "EVANLITE – High Performance Carbon Wheels | Made in Europe",
+      "og:site_name": "EVANLITE",
+      "favicon": "https://evanlite.com/cdn/shop/files/favenv.png?crop=center&height=32&v=1762787014&width=32",
+      "scrapeId": "019deaa6-b74e-75de-bd99-8bec8ba56fa8",
+      "sourceURL": "https://evanlite.com/en-eu",
+      "url": "https://evanlite.com/en-eu",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "indexId": "aa5d2cab-b0d8-49a8-866d-464242eadfe8",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    }
+  },
+  "scrape_id": "019deaa6-b74e-75de-bd99-8bec8ba56fa8",
+  "id": "iuprpC_N3eCrjCOrB76s9",
+  "startedAt": "2026-05-02T21:44:45.979Z",
+  "endedAt": "2026-05-02T21:44:55.478Z",
+  "endpoint": "scrape",
+  "formState": {
+    "parseFile": null,
+    "parseFileMeta": null,
+    "extractSetupCompleted": false,
+    "urls": [],
+    "extractSchema": {
+      "type": "object",
+      "required": [],
+      "properties": {
+        "company_mission": {
+          "type": "string"
+        },
+        "supports_sso": {
+          "type": "boolean"
+        },
+        "is_open_source": {
+          "type": "boolean"
+        },
+        "is_in_yc": {
+          "type": "boolean"
+        }
+      }
+    },
+    "extractPrompt": "Extract the company details, following the schema.",
+    "enableWebSearch": false,
+    "constrainUrls": false,
+    "options": {
+      "onlyMainContent": false,
+      "parsePDF": true,
+      "stealthMode": false,
+      "excludeTags": [],
+      "includeTags": [],
+      "waitFor": "",
+      "timeout": "",
+      "maxAge": "2 days",
+      "ignoreSitemap": false,
+      "crawlEntireDomain": false,
+      "sitemap": "include",
+      "limit": "10",
+      "maxDepth": "",
+      "excludePaths": [],
+      "includePaths": [],
+      "includeSubdomains": false,
+      "search": "",
+      "scrapeContentFromSearchResults": true,
+      "timeBasedSearch": "",
+      "location": "",
+      "prompt": ""
+    },
+    "formats": [
+      "branding"
+    ],
+    "sources": [
+      "web"
+    ],
+    "categories": [],
+    "jsonSchema": {
+      "type": "object",
+      "required": [],
+      "properties": {
+        "company_name": {
+          "type": "string"
+        },
+        "company_description": {
+          "type": "string"
+        }
+      }
+    },
+    "jsonPrompt": "",
+    "queryPrompt": "",
+    "agent": {},
+    "url": "evanlite.com/en-eu",
+    "endpoint": "scrape"
+  },
+  "status": "success",
+  "version": "94ZoLPlnXhJEVqnQ8pu4r",
+  "isPreview": false
+}

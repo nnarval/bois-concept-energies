@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "marque": "CMG",
+    "nomComplet": "Caminetti Montegrappa",
+    "categorie": "inserts-granules",
+    "categorieLabel": "Inserts à granulés",
+    "sourceUrl": "https://www.cmg-fire.fr/categorie-produit/inserts-et-foyer/insert-a-granules/",
+    "scrapedAt": "2025-05-03",
+    "totalMoteurs": 2,
+    "totalEntriesCatalogue": 6,
+    "availabilityForBce": "propose",
+    "fabricant": "CMG (Caminetti Montegrappa) — Italie",
+    "distributeurFrance": "CMG Europe / cmg-fire.fr",
+    "certifications": ["Ecodesign 2022", "CE EN16510"],
+    "ficheTechniqueCommune": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2025/07/INSIDE-M9-M11CFRv02_01-25p.pdf",
+    "note": "Les inserts CMG reprennent la même logique moteur × cadre que les poêles. Les 2 moteurs (INSIDE M9 et INSIDE M11 C) partagent les mêmes 3 cadres (KPV70P, KPV80C, KPV80P). Couleur unique : NOIR (Verre + Vitre Magic Light). La fiche technique PDF est commune aux deux moteurs. Différences clés : M9 = ventilation forcée / M11 C = canalisable."
+  },
+  "cadresReference": {
+    "note": "Les 3 cadres disponibles pour les inserts INSIDE M, avec leurs dimensions et images",
+    "cadres": [
+      {
+        "slug": "kpv70p",
+        "label": "KPV70P",
+        "description": "Cadre plat pour ouverture de 70 cm de large. Format standard.",
+        "largeurOuvertureCm": 70,
+        "typePose": "Plat",
+        "couleurs": [
+          {
+            "slug": "noir",
+            "label": "NOIR",
+            "hex": "#1A1A1A",
+            "imageUrl": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-spento-1-600x600.jpg",
+            "imageUrlAllumee": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-acceso-1024x1024.jpg",
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "slug": "kpv80c",
+        "label": "KPV80C",
+        "description": "Cadre courbe pour ouverture de 80 cm. Design arrondi, effet de profondeur.",
+        "largeurOuvertureCm": 80,
+        "typePose": "Courbe",
+        "couleurs": [
+          {
+            "slug": "noir",
+            "label": "NOIR",
+            "hex": "#1A1A1A",
+            "imageUrl": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-80C_fuoco-spento-1-600x600.jpg",
+            "imageUrlAllumee": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/KPV-80C_logo-vetro-CMG_asola-600x600.jpg",
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "slug": "kpv80p",
+        "label": "KPV80P",
+        "description": "Cadre plat pour ouverture de 80 cm. Grand format, finition vitre noire Magic Light.",
+        "largeurOuvertureCm": 80,
+        "typePose": "Plat",
+        "couleurs": [
+          {
+            "slug": "noir",
+            "label": "NOIR",
+            "hex": "#1A1A1A",
+            "imageUrl": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-spento-3-600x600.jpg",
+            "imageUrlAllumee": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-spento-7-600x600.jpg",
+            "disponible": true
+          }
+        ]
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "cmg-inside-m9",
+      "marque": "CMG",
+      "fabricant": "Caminetti Montegrappa",
+      "origine": "Italie",
+      "categorie": "inserts-granules",
+      "categorieLabel": "Inserts à granulés",
+      "serie": "INSIDE M",
+      "nom": "INSIDE M9",
+      "slug": "inside-m9",
+      "urlSource": "https://www.cmg-fire.fr/categorie-produit/inserts-et-foyer/insert-a-granules/",
+      "urlFicheProduitExemple": "https://www.cmg-fire.fr/produit/inside-m9-kpv70p/",
+      "imageUrl": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-acceso-1024x1024.jpg",
+      "imageThumbnail": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-spento-5-600x600.jpg",
+      "descriptionCourte": "Insert à granulés INSIDE M9 — ventilation forcée multi-vitesses. Adapté rénovation cheminée à foyer ouvert ou création. Grande porte vitrée Magic Light. KCC + radiocommande série. WiFi en option (kit classique ou Beefire).",
+      "cadreParDefaut": "kpv70p",
+      "cadresDisponibles": ["kpv70p", "kpv80c", "kpv80p"],
+      "couleurUnique": "NOIR",
+      "specifications": {
+        "puissanceNominalekW": 8.5,
+        "modulationPuissancekW": "4,1 – 8,5",
+        "surfaceChauffeeM2": 97,
+        "classeEnergetique": "A+",
+        "rendementPct": "90,9 – 92,3",
+        "rendementSaisonnierPct": 80,
+        "emissionCO_mg": 155,
+        "emissionParticulesPM_mg": 15,
+        "emissionCOG_mg": 2,
+        "emissionNOx_mg": 114,
+        "efficaciteEnergetiqueIEE": 121,
+        "debitMassiqueFumeesGs": "4,0 – 6,2",
+        "temperatureFumeesDegC": "98 – 145",
+        "tiragePa": 11,
+        "combustible": "Granulés",
+        "capaciteReservoirKg": 15,
+        "consommationKgH": "0,92 – 1,94",
+        "autonomieH": "7,5 – 16",
+        "diametreFumeesMm": 80,
+        "entreeAirCombustion": "min. 400 cm² — optimal 630 cm²",
+        "puissanceElecW": 350,
+        "chambreEtanche": false,
+        "debouchConduit": "Zone 1 (Toiture au-dessus du faitage)",
+        "dimensionsCm": "70 × 57 × 60",
+        "poidsKg": 102,
+        "matiereHabillage": "Verre, Vitre noire Magic Light",
+        "couleur": "NOIR"
+      },
+      "equipements": [
+        "Ventilation forcée multi-vitesses",
+        "KCC (Kit Contrôle de Combustion)",
+        "Radiocommande série (écran digital, sonde température intégrée)",
+        "Programmable",
+        "Grande porte vitrée Magic Light",
+        "Ecodesign 2022",
+        "CE EN16510"
+      ],
+      "options": [
+        "Kit WiFi INSIDE M (version classique)",
+        "Kit WiFi Beefire",
+        "Thermostat d'ambiance filaire",
+        "Kit piédestal (pour création)",
+        "Kit trémie de chargement",
+        "Kit cassette de chargement",
+        "Kit aération (2 grilles avec cadre)",
+        "Cadre de compensation (pour porte 80 cm)"
+      ],
+      "ventilationType": "forcee",
+      "canalisable": false,
+      "etanche": false,
+      "wifiSerie": false,
+      "wifiOption": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "ficheTechnique": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2025/07/INSIDE-M9-M11CFRv02_01-25p.pdf",
+      "references": {
+        "kpv70p": "6192310400C",
+        "kpv80c": "2050008600C",
+        "kpv80p": null
+      }
+    },
+    {
+      "id": "cmg-inside-m11-c",
+      "marque": "CMG",
+      "fabricant": "Caminetti Montegrappa",
+      "origine": "Italie",
+      "categorie": "inserts-granules",
+      "categorieLabel": "Inserts à granulés",
+      "serie": "INSIDE M",
+      "nom": "INSIDE M11 C",
+      "slug": "inside-m11-c",
+      "urlSource": "https://www.cmg-fire.fr/categorie-produit/inserts-et-foyer/insert-a-granules/",
+      "urlFicheProduitExemple": "https://www.cmg-fire.fr/produit/inside-m11-c-kpv70p/",
+      "imageUrl": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-acceso-1024x1024.jpg",
+      "imageThumbnail": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2021/05/INSIDE-M_KPV-70P_fuoco-spento-1-600x600.jpg",
+      "descriptionCourte": "Insert à granulés INSIDE M11 C — canalisable pour répartir la chaleur dans une grande pièce ou pièces adjacentes. 10,2 kW. Grande porte vitrée Magic Light. KCC + radiocommande série. WiFi en option.",
+      "cadreParDefaut": "kpv70p",
+      "cadresDisponibles": ["kpv70p", "kpv80c", "kpv80p"],
+      "couleurUnique": "NOIR",
+      "specifications": {
+        "puissanceNominalekW": 10.2,
+        "modulationPuissancekW": "4,7 – 10,2",
+        "surfaceChauffeeM2": 117,
+        "classeEnergetique": "A+",
+        "rendementPct": "90,3 – 93,2",
+        "rendementSaisonnierPct": 86,
+        "emissionCO_mg": 98,
+        "emissionParticulesPM_mg": 15,
+        "emissionCOG_mg": 2,
+        "emissionNOx_mg": 119,
+        "efficaciteEnergetiqueIEE": 127,
+        "debitMassiqueFumeesGs": "4,2 – 6,9",
+        "temperatureFumeesDegC": "96 – 172",
+        "tiragePa": 10,
+        "combustible": "Granulés",
+        "capaciteReservoirKg": 15,
+        "consommationKgH": "1,04 – 2,35",
+        "autonomieH": "6 – 14",
+        "diametreFumeesMm": 80,
+        "entreeAirCombustion": "minimum 630 cm²",
+        "puissanceElecW": 350,
+        "chambreEtanche": false,
+        "debouchConduit": "Zone 1 (Toiture au-dessus du faitage)",
+        "dimensionsCm": "70 × 57 × 60",
+        "poidsKg": 117,
+        "matiereHabillage": "Verre, Vitre noire Magic Light",
+        "couleur": "NOIR"
+      },
+      "equipements": [
+        "Ventilation canalisable",
+        "KCC (Kit Contrôle de Combustion)",
+        "Radiocommande série (écran digital, sonde température intégrée)",
+        "Programmable",
+        "Grande porte vitrée Magic Light",
+        "Ecodesign 2022",
+        "CE EN16510"
+      ],
+      "options": [
+        "Kit WiFi INSIDE M (version classique)",
+        "Kit WiFi Beefire",
+        "Thermostat d'ambiance filaire",
+        "Kit piédestal (pour création)",
+        "Kit trémie de chargement",
+        "Kit cassette de chargement",
+        "Kit aération (2 grilles avec cadre)",
+        "Cadre de compensation (pour porte 80 cm)"
+      ],
+      "ventilationType": "canalisable",
+      "canalisable": true,
+      "etanche": false,
+      "wifiSerie": false,
+      "wifiOption": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "ficheTechnique": "https://www.cmg-fire.fr/wp-content/uploads/sites/4/2025/07/INSIDE-M9-M11CFRv02_01-25p.pdf",
+      "references": {
+        "kpv70p": "6192410400C",
+        "kpv80c": "2050008600C",
+        "kpv80p": null
+      }
+    }
+  ]
+}

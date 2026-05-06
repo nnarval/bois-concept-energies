@@ -1,0 +1,1293 @@
+﻿{
+    "generatedAt":  "2026-05-03 19:24:43",
+    "source":  "https://kunststoves.com/fr/poeles-a-bois/",
+    "brand":  "Kunst",
+    "category":  "poeles-a-bois",
+    "categoryLabel":  "Poêles à bois",
+    "totalProducts":  24,
+    "language":  "fr",
+    "filters":  {
+                    "brands":  [
+                                   "Kunst"
+                               ],
+                    "categories":  [
+                                       {
+                                           "id":  "poeles-a-bois",
+                                           "label":  "Poêles à bois"
+                                       }
+                                   ],
+                    "series":  [
+                                   {
+                                       "id":  "ebano",
+                                       "label":  "Ebano",
+                                       "count":  2
+                                   },
+                                   {
+                                       "id":  "ficus",
+                                       "label":  "Ficus",
+                                       "count":  3
+                                   },
+                                   {
+                                       "id":  "h",
+                                       "label":  "H",
+                                       "count":  2
+                                   },
+                                   {
+                                       "id":  "i",
+                                       "label":  "I",
+                                       "count":  2
+                                   },
+                                   {
+                                       "id":  "quercus",
+                                       "label":  "Quercus",
+                                       "count":  2
+                                   },
+                                   {
+                                       "id":  "sequoia",
+                                       "label":  "Sequoia",
+                                       "count":  3
+                                   },
+                                   {
+                                       "id":  "vista",
+                                       "label":  "Vista",
+                                       "count":  3
+                                   },
+                                   {
+                                       "id":  "wengue",
+                                       "label":  "Wengue",
+                                       "count":  4
+                                   },
+                                   {
+                                       "id":  "willow",
+                                       "label":  "Willow",
+                                       "count":  3
+                                   }
+                               ]
+                },
+    "products":  [
+                     {
+                         "id":  "kunst-poele-ebano",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "EBANO",
+                         "slug":  "ebano",
+                         "series":  "Ebano",
+                         "seriesSlug":  "ebano",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/ebano/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign de la gamme Ebano. Format compact sans coffre à bois, porte en verre sérigraphiée double face.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "197",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "550x1000x525 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/EBA_FIT_FR-2.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/EBA_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "Ebano",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ebano",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/EBANO-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/EBANO-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst EBANO",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-ebano-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "EBANO STORE",
+                         "slug":  "ebano-store",
+                         "series":  "Ebano",
+                         "seriesSlug":  "ebano",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/ebano-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign de la gamme Ebano avec coffre à bois latéral (Store). Même puissance que l\u0027Ebano, poids supérieur.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "263",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "912x1000x525 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/EBA_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/EBA_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Ebano",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ebano",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/EBANO-STORE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/EBANO-STORE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst EBANO STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-ficus",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "FICUS",
+                         "slug":  "ficus",
+                         "series":  "Ficus",
+                         "seriesSlug":  "ficus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/ficus/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign gamme Ficus, design compact et élancé. Rendement 80.7%, idéal pour espaces jusqu\u0027à 230 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.5",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "137",
+                                       "volumeChauffageM3":  "230",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "702x481x480 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/FIC_FIT_FR-3.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/FIC_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Ficus",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ficus",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/FICUS-ambiente-WEB-1200x1200-2.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/FICUS-ambiente-WEB-1200x1200-2-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst FICUS",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-ficus-side-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "FICUS SIDE STORE",
+                         "slug":  "ficus-side-store",
+                         "series":  "Ficus",
+                         "seriesSlug":  "ficus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/ficus-side-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ficus avec coffre à bois sur le côté (Side Store). Configuration asymétrique adaptée aux espaces latéraux.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.5",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "160",
+                                       "volumeChauffageM3":  "230",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "968x761x480 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/FIC_FIT_FR-4.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/FIC_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Ficus",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ficus",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/FICUS-SIDE-STORE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/FICUS-SIDE-STORE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst FICUS SIDE STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-ficus-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "FICUS STORE",
+                         "slug":  "ficus-store",
+                         "series":  "Ficus",
+                         "seriesSlug":  "ficus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/ficus-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ficus avec coffre à bois frontal (Store). Allonge la largeur du poêle avec espace de stockage intégré.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.5",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "147",
+                                       "volumeChauffageM3":  "230",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "968x481x480 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/FIC_FIT_FR-5.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/FIC_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "Ficus",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ficus",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/03/FICUS-STORE-ambiente-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/03/FICUS-STORE-ambiente-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst FICUS STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-h-70",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "H-70",
+                         "slug":  "h-70",
+                         "series":  "H",
+                         "seriesSlug":  "h",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/h-70/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Nouveau poêle à bois compact H-70 (2025). Design épuré, léger (85 kg), idéal pour petits espaces jusqu\u0027à 200 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "6.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "85",
+                                       "volumeChauffageM3":  "200",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "570x753x451 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/H70_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/I70_I80_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "H",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "h",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/H-70-AMBIENTE-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/H-70-AMBIENTE-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst H-70",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-h-80",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "H-80",
+                         "slug":  "h-80",
+                         "series":  "H",
+                         "seriesSlug":  "h",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/h-80/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Nouveau poêle à bois compact H-80 (2025). Version plus haute que le H-70 (+10 cm), même puissance, légèrement plus lourd.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "6.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "93",
+                                       "volumeChauffageM3":  "200",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "570x853x451 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/H80_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/I70_I80_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "H",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "h",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/H-80-AMBIENTE-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/H-80-AMBIENTE-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst H-80",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-i-70",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "I-70",
+                         "slug":  "i-70",
+                         "series":  "I",
+                         "seriesSlug":  "i",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/i-70/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign I-70. Design sobre et fonctionnel pour espaces jusqu\u0027à 200 m³, 6.7 kW.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "6.7",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "105",
+                                       "volumeChauffageM3":  "200",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "570x753x470 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/I70_FIT_FR-3.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/I70_I80_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "I",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "i",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/H-70-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/H-70-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst I-70",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-i-80",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "I-80",
+                         "slug":  "i-80",
+                         "series":  "I",
+                         "seriesSlug":  "i",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/i-80/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign I-80, version haute du I-70. 6.9 kW pour une surface jusqu\u0027à 200 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "6.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "113",
+                                       "volumeChauffageM3":  "200",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "570x853x470 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/I80_FIT_FR-2.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/I70_I80_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "I",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "i",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/03/I-80-ambiente-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/03/I-80-ambiente-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst I-80",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-quercus",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "QUERCUS",
+                         "slug":  "quercus",
+                         "series":  "Quercus",
+                         "seriesSlug":  "quercus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/quercus/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign gamme Quercus. Format carré compact, 7 kW pour espaces jusqu\u0027à 210 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "177",
+                                       "volumeChauffageM3":  "210",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "594x835x552 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/QUE_FIT_FR-2.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/QUE_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Quercus",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "quercus",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/QUERCUS-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/QUERCUS-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst QUERCUS",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-quercus-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "QUERCUS STORE",
+                         "slug":  "quercus-store",
+                         "series":  "Quercus",
+                         "seriesSlug":  "quercus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/quercus-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Quercus avec coffre à bois intégré (Store). Même puissance 7 kW, largeur augmentée pour le stockage du bois.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "232",
+                                       "volumeChauffageM3":  "210",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "878x835x552 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/QUE_FIT_FR-3.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/QUE_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Quercus",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "quercus",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/QUERCUS-STORE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/QUERCUS-STORE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst QUERCUS STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-sequoia",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "SEQUOIA",
+                         "slug":  "sequoia",
+                         "series":  "Sequoia",
+                         "seriesSlug":  "sequoia",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/sequoia/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign gamme Sequoia, grande puissance 7.9 kW. Format large panoramique pour volumes jusqu\u0027à 240 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "200",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "911x639x508 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQ_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQ_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Sequoia",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "sequoia",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/SEQUOIA-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/SEQUOIA-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst SEQUOIA",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-sequoia-side-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "SEQUOIA SIDE STORE",
+                         "slug":  "sequoia-side-store",
+                         "series":  "Sequoia",
+                         "seriesSlug":  "sequoia",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/sequoia-side-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Sequoia avec coffre latéral (Side Store). Configuration asymétrique pour un stockage du bois en coin.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "225",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "962x919x508 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQSS_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQ_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Sequoia",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "sequoia",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/SEQUOIA-SIDE-STORE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/SEQUOIA-SIDE-STORE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst SEQUOIA SIDE STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-sequoia-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "SEQUOIA STORE",
+                         "slug":  "sequoia-store",
+                         "series":  "Sequoia",
+                         "seriesSlug":  "sequoia",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/sequoia-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Sequoia avec grand coffre frontal (Store). Version la plus large de la gamme, 1173 mm de largeur totale.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "219",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "1173x639x508 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQ_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQ_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "Sequoia",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "sequoia",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQUOIA-STORE-ambiente-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/03/SEQUOIA-STORE-ambiente-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst SEQUOIA STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-vista",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "VISTA",
+                         "slug":  "vista",
+                         "series":  "Vista",
+                         "seriesSlug":  "vista",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/vista/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Vista (2025), la plus haute puissance de la gamme Kunst : 9.3 kW pour 280 m³. Sortie fumées Ø 200 mm.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "9.3",
+                                       "rendementPourcent":  "75.0",
+                                       "poidsKg":  "175",
+                                       "volumeChauffageM3":  "280",
+                                       "sortieFumees":  "Ø 200 mm Vertical",
+                                       "dimensions":  "579x1000x467 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/02/VIS_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/02/VIS_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Vista",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "vista",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/VISTA-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/VISTA-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst VISTA",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-vista-pie",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "VISTA PIE",
+                         "slug":  "vista-pie",
+                         "series":  "Vista",
+                         "seriesSlug":  "vista",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/vista-pie/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle Vista avec piédestal (PIE). Version surélevée, 9.3 kW, coffre à bois côté droit. Poids 200 kg.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "9.3",
+                                       "rendementPourcent":  "75.0",
+                                       "poidsKg":  "200",
+                                       "volumeChauffageM3":  "280",
+                                       "sortieFumees":  "Ø 200 mm Vertical",
+                                       "dimensions":  "920x1000x467 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/02/VIS_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/02/VIS_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Vista",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "vista",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/VISTA-PIE-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/VISTA-PIE-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst VISTA PIE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-vista-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "VISTA STORE",
+                         "slug":  "vista-store",
+                         "series":  "Vista",
+                         "seriesSlug":  "vista",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/vista-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle Vista avec coffre à bois Store. 9.3 kW, 215 kg, grand espace de stockage de bûches intégré.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "9.3",
+                                       "rendementPourcent":  "75.0",
+                                       "poidsKg":  "215",
+                                       "volumeChauffageM3":  "280",
+                                       "sortieFumees":  "Ø 200 mm Vertical",
+                                       "dimensions":  "920x1000x467 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/02/VIS_FIT_FR-2.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/02/VIS_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "Vista",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "vista",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/VISTA-LENERO-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/VISTA-LENERO-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst VISTA STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-wengue",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "WENGUE",
+                         "slug":  "wengue",
+                         "series":  "Wengue",
+                         "seriesSlug":  "wengue",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/wengue/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign Wengue, modèle de base de la gamme. 5.8 kW, le plus léger de la gamme Wengue (115 kg).",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "5.8",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "115",
+                                       "volumeChauffageM3":  "175",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "551x646x476 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Wengue",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "wengue",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/WENGUE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/WENGUE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst WENGUE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-wengue-asymmetric-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "WENGUE ASYMMETRIC STORE",
+                         "slug":  "wengue-asymmetric-store",
+                         "series":  "Wengue",
+                         "seriesSlug":  "wengue",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/wengue-asymmetric-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle Wengue avec coffre à bois asymétrique (Asymmetric Store). Design singulier avec compartiment de stockage en L.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "5.8",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "158",
+                                       "volumeChauffageM3":  "175",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "817x983x476 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Wengue",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "wengue",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/WENGUE-STORE-ASIMETRICO-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/WENGUE-STORE-ASIMETRICO-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst WENGUE ASYMMETRIC STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-wengue-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "WENGUE STORE",
+                         "slug":  "wengue-store",
+                         "series":  "Wengue",
+                         "seriesSlug":  "wengue",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/wengue-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle Wengue avec coffre frontal standard (Store). Extension droite pour stockage des bûches, 146 kg.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "5.8",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "146",
+                                       "volumeChauffageM3":  "175",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "817x646x476 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_FIT_FR-2.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "Wengue",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "wengue",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/WENGUE-STORE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/WENGUE-STORE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst WENGUE STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-yucca",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "YUCCA",
+                         "slug":  "yucca",
+                         "series":  "Wengue",
+                         "seriesSlug":  "wengue",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/yucca/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Yucca (2025), variante panoramique de la gamme Wengue. Format extra-large 1326 mm, 5.8 kW pour 175 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "5.8",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "210",
+                                       "volumeChauffageM3":  "175",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "1326x646x483 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/YUC_FIT_FR-2.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WEN_MAN_ESP-3.pdf"
+                                       },
+                         "tags":  [
+                                      "Wengue",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "wengue",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/YUCCA-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/YUCCA-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst YUCCA",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-willow",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "WILLOW",
+                         "slug":  "willow",
+                         "series":  "Willow",
+                         "seriesSlug":  "willow",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/willow/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle à bois Ecodesign Willow, format horizontal bas et large. 8 kW, design contemporain pour espaces jusqu\u0027à 240 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "155",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "835x472x501 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/WIL_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WIL_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Willow",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "willow",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/03/WILLOW-ambiente-1200x1200-2.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/03/WILLOW-ambiente-1200x1200-2-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst WILLOW",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-willow-stand",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "WILLOW STAND",
+                         "slug":  "willow-stand",
+                         "series":  "Willow",
+                         "seriesSlug":  "willow",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/willow-stand/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle Willow avec piédestal Stand. Version surélevée, 8 kW, largeur 1014 mm avec support intégré.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "185",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "1014x472x501 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/WILND_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WIL_MAN_ESP-1.pdf"
+                                       },
+                         "tags":  [
+                                      "Willow",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "willow",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/WILLOW-STAND-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/WILLOW-STAND-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst WILLOW STAND",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-poele-willow-store",
+                         "brand":  "Kunst",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "WILLOW STORE",
+                         "slug":  "willow-store",
+                         "series":  "Willow",
+                         "seriesSlug":  "willow",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/willow-store/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle Willow avec coffre à bois Store. Format horizontal étendu, stockage bûches intégré, 191 kg.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "191",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Verticale",
+                                       "dimensions":  "881x752x486 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2023/03/WILST_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2023/03/WIL_MAN_ESP-2.pdf"
+                                       },
+                         "tags":  [
+                                      "Willow",
+                                      "Poêles à bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "willow",
+                                          "poeles-a-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2023/01/WILLOW-STORE-ambiente-WEB-1200x1200-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2023/01/WILLOW-STORE-ambiente-WEB-1200x1200-1-600x600.jpg",
+                                       "alt":  "Poêle à bois Kunst WILLOW STORE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=Kunst."
+                     }
+                 ]
+}

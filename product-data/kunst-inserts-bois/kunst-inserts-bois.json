@@ -1,0 +1,417 @@
+﻿{
+    "generatedAt":  "2026-05-03 19:26:57",
+    "source":  "https://kunststoves.com/fr/poeles-a-bois/",
+    "brand":  "Kunst",
+    "category":  "inserts-bois",
+    "categoryLabel":  "Inserts bois",
+    "totalProducts":  7,
+    "language":  "fr",
+    "note":  "Les inserts Kunst sont listés dans la section poêles à bois du site fabricant.",
+    "filters":  {
+                    "brands":  [
+                                   "Kunst"
+                               ],
+                    "categories":  [
+                                       {
+                                           "id":  "inserts-bois",
+                                           "label":  "Inserts bois"
+                                       }
+                                   ],
+                    "series":  [
+                                   {
+                                       "id":  "ebano",
+                                       "label":  "Ebano",
+                                       "count":  1
+                                   },
+                                   {
+                                       "id":  "ficus",
+                                       "label":  "Ficus",
+                                       "count":  1
+                                   },
+                                   {
+                                       "id":  "quercus",
+                                       "label":  "Quercus",
+                                       "count":  1
+                                   },
+                                   {
+                                       "id":  "sequoia",
+                                       "label":  "Sequoia",
+                                       "count":  1
+                                   },
+                                   {
+                                       "id":  "vista",
+                                       "label":  "Vista",
+                                       "count":  1
+                                   },
+                                   {
+                                       "id":  "wengue",
+                                       "label":  "Wengue",
+                                       "count":  1
+                                   },
+                                   {
+                                       "id":  "willow",
+                                       "label":  "Willow",
+                                       "count":  1
+                                   }
+                               ]
+                },
+    "products":  [
+                     {
+                         "id":  "kunst-insert-ebano",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT EBANO",
+                         "slug":  "insert-ebano",
+                         "series":  "Ebano",
+                         "seriesSlug":  "ebano",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-ebano/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Kunst gamme Ebano (2025). 8 kW, 207 kg, pour volumes jusqu\u0027à 240 m³. Cadre habillage avec porte vitrée sérigraphiée.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "207",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "585x1083x525 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/EBA_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/EBA_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Ebano",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ebano",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-EBANO-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-EBANO-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT EBANO",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-insert-ficus",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT FICUS",
+                         "slug":  "insert-ficus",
+                         "series":  "Ficus",
+                         "seriesSlug":  "ficus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-ficus/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Kunst gamme Ficus (2025). 7.5 kW, 147 kg, jusqu\u0027à 230 m³. Design moderne avec porte vitrée sérigraphiée.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.5",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "147",
+                                       "volumeChauffageM3":  "230",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "750x567x480 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/FIC_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/FIC_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Ficus",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "ficus",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-FICUS-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-FICUS-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT FICUS",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-insert-quercus",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT QUERCUS",
+                         "slug":  "insert-quercus",
+                         "series":  "Quercus",
+                         "seriesSlug":  "quercus",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-quercus/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Kunst gamme Quercus (2025). 7 kW, 187 kg, format haut élancé pour espaces jusqu\u0027à 210 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "187",
+                                       "volumeChauffageM3":  "210",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "636x921x552 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/QUE_FIT_FR-1.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/QUE_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Quercus",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "quercus",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-QUERCUS-AMBIENTE-WEB-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-QUERCUS-AMBIENTE-WEB-1-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT QUERCUS",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-insert-sequoia",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT SEQUOIA",
+                         "slug":  "insert-sequoia",
+                         "series":  "Sequoia",
+                         "seriesSlug":  "sequoia",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-sequoia/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Kunst gamme Sequoia (2025). 7.9 kW, 210 kg, grand cadre panoramique pour volumes jusqu\u0027à 240 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "7.9",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "210",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "956x725x508 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/SEQ_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/SEQ_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Sequoia",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "sequoia",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-SEQUOIA-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-SEQUOIA-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT SEQUOIA",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-insert-vista",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT VISTA",
+                         "slug":  "insert-vista",
+                         "series":  "Vista",
+                         "seriesSlug":  "vista",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-vista/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Vista (2025), le plus puissant des inserts Kunst : 9.3 kW pour 280 m³. Sortie Ø 200 mm.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "9.3",
+                                       "rendementPourcent":  "75.0",
+                                       "poidsKg":  "182",
+                                       "volumeChauffageM3":  "280",
+                                       "sortieFumees":  "Ø 200 mm Vertical",
+                                       "dimensions":  "594x1000x477 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/VIS_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/VIS_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Vista",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "vista",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-VISTA-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-VISTA-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT VISTA",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-insert-wengue",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT WENGUE",
+                         "slug":  "insert-wengue",
+                         "series":  "Wengue",
+                         "seriesSlug":  "wengue",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-wengue/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Wengue (2025). 5.8 kW, le plus compact des inserts Kunst (125 kg), pour espaces jusqu\u0027à 175 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "5.8",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "125",
+                                       "volumeChauffageM3":  "175",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "594x732x476 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/WEN_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/WEN_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Wengue",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "wengue",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-WENGUE-AMBIENTE-WEB.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-WENGUE-AMBIENTE-WEB-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT WENGUE",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     },
+                     {
+                         "id":  "kunst-insert-willow",
+                         "brand":  "Kunst",
+                         "category":  "inserts-bois",
+                         "categoryLabel":  "Inserts bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "INSERT WILLOW",
+                         "slug":  "insert-willow",
+                         "series":  "Willow",
+                         "seriesSlug":  "willow",
+                         "sourceUrl":  "https://kunststoves.com/fr/producto/insert-willow/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Insert bois Willow (2025). 8 kW, format horizontal panoramique extra-large (878 mm), pour 240 m³.",
+                         "specs":  {
+                                       "puissanceNominaleKw":  "8.0",
+                                       "rendementPourcent":  "80.7",
+                                       "poidsKg":  "165",
+                                       "volumeChauffageM3":  "240",
+                                       "sortieFumees":  "Ø 150-153 mm Vertical",
+                                       "dimensions":  "878x559x501 mm",
+                                       "ecodesign":  true
+                                   },
+                         "options":  [
+                                         "Prise d\u0027air extérieure",
+                                         "Revêtement en vermiculite",
+                                         "Porte en verre sérigraphiée",
+                                         "Système de verre propre"
+                                     ],
+                         "documents":  {
+                                           "ficheTechnique":  "https://kunststoves.com/wp-content/uploads/2025/05/WIL_FIT_FR.pdf",
+                                           "manuel":  "https://kunststoves.com/wp-content/uploads/2025/05/WIL_MAN_ESP.pdf"
+                                       },
+                         "tags":  [
+                                      "Willow",
+                                      "Inserts bois",
+                                      "Kunst"
+                                  ],
+                         "tagSlugs":  [
+                                          "willow",
+                                          "inserts-bois",
+                                          "kunst"
+                                      ],
+                         "image":  {
+                                       "url":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-WILLOW-AMBIENTE-WEB-1.jpg",
+                                       "thumbnail":  "https://kunststoves.com/wp-content/uploads/2025/05/HOGAR-WILLOW-AMBIENTE-WEB-1-600x600.jpg",
+                                       "alt":  "Insert bois Kunst INSERT WILLOW",
+                                       "width":  null,
+                                       "height":  null
+                                   },
+                         "integrationNotes":  "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois et marque=Kunst."
+                     }
+                 ]
+}

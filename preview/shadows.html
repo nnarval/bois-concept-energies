@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Shadows</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:32px;background:var(--bg);min-height:150px;display:flex;gap:32px}
+  .b{width:160px;height:80px;background:var(--surface);border-radius:var(--radius-md)}
+  .lab{font-family:var(--font-mono);font-size:11px;color:var(--oak);margin-top:10px}
+  .col{display:flex;flex-direction:column;align-items:center}
+</style></head><body>
+  <div class="col"><div class="b" style="box-shadow:var(--shadow-1)"></div><div class="lab">shadow-1 · resting</div></div>
+  <div class="col"><div class="b" style="box-shadow:var(--shadow-2)"></div><div class="lab">shadow-2 · hover</div></div>
+  <div class="col"><div class="b" style="box-shadow:var(--shadow-3)"></div><div class="lab">shadow-3 · modal</div></div>
+</body></html>

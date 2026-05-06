@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Buttons</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:32px;background:var(--bg);min-height:150px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+  .btn{font-family:var(--font-body);font-weight:600;font-size:15px;padding:12px 22px;border-radius:var(--radius-sm);border:none;cursor:pointer;transition:all var(--dur-base) var(--ease);display:inline-flex;align-items:center;gap:8px}
+  .primary{background:var(--ink);color:var(--bg)}
+  .primary:hover{background:#000}
+  .leaf{background:var(--leaf);color:var(--bg)}
+  .leaf:hover{background:var(--leaf-2)}
+  .secondary{background:transparent;color:var(--ink);border:1px solid var(--ink)}
+  .secondary:hover{background:var(--ink);color:var(--bg)}
+  .ghost{background:transparent;color:var(--leaf);padding:12px 0;border-radius:0;border-bottom:1px solid currentColor}
+  .ghost:hover{color:var(--leaf-2)}
+</style></head><body>
+  <button class="btn primary">Nous contacter <span aria-hidden>→</span></button>
+  <button class="btn leaf">Demander un devis</button>
+  <button class="btn secondary">Voir nos réalisations</button>
+  <button class="btn ghost">Découvrir nos services <span aria-hidden>→</span></button>
+</body></html>

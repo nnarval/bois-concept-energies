@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/nos-produits", "destination": "/nos-produits.html" },
+    { "source": "/a-propos", "destination": "/a-propos.html" },
+    { "source": "/xavier-grieumard", "destination": "/xavier-grieumard.html" },
+    { "source": "/mentions-legales", "destination": "/mentions-legales.html" },
+    { "source": "/politique-confidentialite", "destination": "/politique-confidentialite.html" }
+  ]
+}

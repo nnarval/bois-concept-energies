@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Accents</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--bg);min-height:150px}
+  .row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  .sw{height:120px;border-radius:var(--radius-md);display:flex;flex-direction:column;justify-content:flex-end;padding:14px;color:#FBF8F2}
+  .name{font-family:var(--font-body);font-weight:600;font-size:13px}
+  .hex{font-family:ui-monospace,Menlo,monospace;font-size:11px;opacity:.85;margin-top:2px}
+  .note{margin-top:14px;font-size:13px;color:var(--ash);font-family:var(--font-body)}
+  .note b{color:var(--ink)}
+</style></head><body>
+  <div class="row">
+    <div class="sw" style="background:#46821B"><div class="name">Leaf · BCE</div><div class="hex">#46821B · primary</div></div>
+    <div class="sw" style="background:#356416"><div class="name">Leaf 2</div><div class="hex">#356416 · hover</div></div>
+    <div class="sw" style="background:#7FB539;color:#141414"><div class="name">Leaf 3</div><div class="hex">#7FB539 · rare highlight</div></div>
+    <div class="sw" style="background:#D9531E"><div class="name">Ember</div><div class="hex">#D9531E · flame only</div></div>
+  </div>
+  <p class="note"><b>Règle.</b> Vert = accent UI (liens, CTA, focus). Ember est réservé aux représentations de flamme — jamais utilisé pour un bouton.</p>
+</body></html>

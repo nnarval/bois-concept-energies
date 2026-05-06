@@ -1,0 +1,2899 @@
+{
+  "generatedAt": "2026-05-03 19:46:54",
+  "source": "https://fondis.com/cheminees-fondis/",
+  "brand": "Fondis",
+  "manufacturer": "Fondis",
+  "origin": "France - Vieux-Thann (Alsace)",
+  "category": "inserts-bois",
+  "categoryLabel": "Inserts bois",
+  "totalProducts": 33,
+  "language": "fr",
+  "note": "Ce catalogue regroupe les foyers fermés Fondis et les inserts de rénovation. Les foyers fermés sont classés en inserts-bois pour le référentiel BCE, faute de catégorie séparée foyers-bois.",
+  "filters": {
+    "brands": [
+      "Fondis"
+    ],
+    "categories": [
+      {
+        "id": "inserts-bois",
+        "label": "Inserts bois"
+      }
+    ],
+    "typesAppareil": [
+      {
+        "id": "foyer-ferm",
+        "label": "Foyer fermé",
+        "count": 17
+      },
+      {
+        "id": "insert-de-r-novation",
+        "label": "Insert de rénovation",
+        "count": 15
+      },
+      {
+        "id": "insert-sur-mesure",
+        "label": "Insert sur mesure",
+        "count": 1
+      }
+    ],
+    "manufacturers": [
+      {
+        "id": "fondis",
+        "label": "Fondis",
+        "count": 33
+      }
+    ],
+    "series": [
+      {
+        "id": "inserts",
+        "label": "Inserts",
+        "count": 15
+      },
+      {
+        "id": "inserts-sur-mesure",
+        "label": "Inserts sur mesure",
+        "count": 1
+      },
+      {
+        "id": "stella",
+        "label": "Stella",
+        "count": 8
+      },
+      {
+        "id": "ulys",
+        "label": "Ulys",
+        "count": 9
+      }
+    ],
+    "subSeries": [
+      {
+        "id": "eclipse",
+        "label": "Eclipse",
+        "count": 1
+      },
+      {
+        "id": "s-rie-f",
+        "label": "Série F",
+        "count": 2
+      },
+      {
+        "id": "s-rie-t",
+        "label": "Série T",
+        "count": 2
+      },
+      {
+        "id": "s-rie-v",
+        "label": "Série V",
+        "count": 10
+      },
+      {
+        "id": "stella-3",
+        "label": "Stella 3",
+        "count": 5
+      },
+      {
+        "id": "stella-4-pure",
+        "label": "Stella 4 Pure",
+        "count": 3
+      },
+      {
+        "id": "sur-mesure",
+        "label": "Sur mesure",
+        "count": 1
+      },
+      {
+        "id": "ulys",
+        "label": "Ulys",
+        "count": 9
+      }
+    ],
+    "featureFlags": [
+      "doubleFace",
+      "configurationAngle",
+      "configurationSurMesure",
+      "ventilateurOption",
+      "compatibleRE2020"
+    ]
+  },
+  "products": [
+    {
+      "id": "fondis-foyer-stella-3-h1000",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 3 H1000",
+      "slug": "stella-3-h1000",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 3",
+      "subSeriesSlug": "stella-3",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-3/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 3 — format panoramique H1000. Très grand format 980 mm de large. Vue exceptionnelle sur le feu.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 490 mm x L 980 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H1000",
+        "orientationVitre": "Horizontale panoramique",
+        "interieur": "Vermiculite haute densité"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Vermiculite",
+        "Porte étanche",
+        "Visiocéram®",
+        "Format panoramique"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/qp06dj7qgs3y",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 3",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-3",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-3-h1000.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-3-h1000.jpg",
+        "alt": "Insert bois Fondis Stella 3 H1000",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/qp06dj7qgs3y",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-3-h1000.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-3-h600",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 3 H600",
+      "slug": "stella-3-h600",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 3",
+      "subSeriesSlug": "stella-3",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-3/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 3 — format Horizontal 600. Chauffe rapide vermiculite, porte étanche, cadres de finition au choix. Compatible RE2020.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 410 mm x L 610 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H600",
+        "orientationVitre": "Horizontale",
+        "interieur": "Vermiculite haute densité"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable (cadres acier/verre)",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Vermiculite",
+        "Porte étanche",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/6tkwo768vdtm",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 3",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-3",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-3-h600.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-3-h600.jpg",
+        "alt": "Insert bois Fondis Stella 3 H600",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/6tkwo768vdtm",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-3-h600.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-3-h700",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 3 H700",
+      "slug": "stella-3-h700",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 3",
+      "subSeriesSlug": "stella-3",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-3/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 3 — format Horizontal 700. Chauffe rapide vermiculite. Grande ouverture de 710 mm de large.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 470 mm x L 710 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H700",
+        "orientationVitre": "Horizontale",
+        "interieur": "Vermiculite haute densité"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Vermiculite",
+        "Porte étanche",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/jbtjph1y373j",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 3",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-3",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-3-h700.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-3-h700.jpg",
+        "alt": "Insert bois Fondis Stella 3 H700",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/jbtjph1y373j",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-3-h700.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-3-h700-double-face",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 3 H700 double face",
+      "slug": "stella-3-h700-double-face",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 3",
+      "subSeriesSlug": "stella-3",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-3/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 3 — format H700 double face. Vue du feu des deux côtés, idéal pour séparer deux espaces. Vitre 710 mm de large.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 470 mm x L 710 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H700 double face",
+        "doubleFace": true,
+        "interieur": "Vermiculite haute densité"
+      },
+      "options": [
+        "Double face",
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Vermiculite",
+        "Double face",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": true,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/3duto44ibzs3",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 3",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-3",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-3-h700-double-face.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-3-h700-double-face.jpg",
+        "alt": "Insert bois Fondis Stella 3 H700 double face",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/3duto44ibzs3",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-3-h700-double-face.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-3-v350",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 3 V350",
+      "slug": "stella-3-v350",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 3",
+      "subSeriesSlug": "stella-3",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-3/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé intégré Stella 3 — format Vertical 350. Chauffe rapide grâce à la vermiculite haute densité. Porte étanche escamotable. Compatible RE2020 avec prise d'air extérieur.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 490 mm x L 330 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "V350",
+        "orientationVitre": "Verticale",
+        "interieur": "Vermiculite haute densité"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable (cadres acier/verre)",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Vermiculite",
+        "Porte étanche",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/rumor4kspdl2",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 3",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-3",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-3-v350.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-3-v350.jpg",
+        "alt": "Insert bois Fondis Stella 3 V350",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/rumor4kspdl2",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-3-v350.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-4-pure-h1000",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 4 Pure H1000",
+      "slug": "stella-4-pure-h1000",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 4 Pure",
+      "subSeriesSlug": "stella-4-pure",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-4-pure/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 4 Pure H1000 — filtration intégrée brevetée, format panoramique 980 mm. Idéal grandes pièces.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Livrée au diamètre installation",
+        "dimensions": "",
+        "dimensionsVitre": "H 490 mm x L 980 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H1000",
+        "orientationVitre": "Horizontale panoramique",
+        "systemeFiltrationType": "Filtration Fondis intégrée (brevetée)"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Filtration anti-pollution intégrée",
+        "Réduction CO",
+        "Format panoramique",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/5nidqje0e1d4",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 4 Pure",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-4-pure",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h1000.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h1000.jpg",
+        "alt": "Insert bois Fondis Stella 4 Pure H1000",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/5nidqje0e1d4",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h1000.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-4-pure-h600",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 4 Pure H600",
+      "slug": "stella-4-pure-h600",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 4 Pure",
+      "subSeriesSlug": "stella-4-pure",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-4-pure/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 4 Pure H600 — filtration anti-pollution intégrée (système Fondis breveté). Réduction CO et oxydation des matières organiques. Porte haute étanchéité, compatible RE2020.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Livrée au diamètre installation",
+        "dimensions": "",
+        "dimensionsVitre": "H 410 mm x L 610 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H600",
+        "orientationVitre": "Horizontale",
+        "systemeFiltrationType": "Filtration Fondis intégrée (brevetée)"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable (cadres/fourreaux acier/verre)",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Filtration anti-pollution intégrée",
+        "Réduction CO",
+        "Porte haute étanchéité",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/0io008x004jt",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 4 Pure",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-4-pure",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h600.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h600.jpg",
+        "alt": "Insert bois Fondis Stella 4 Pure H600",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/0io008x004jt",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h600.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-stella-4-pure-h700",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Stella 4 Pure H700",
+      "slug": "stella-4-pure-h700",
+      "series": "Stella",
+      "seriesSlug": "stella",
+      "subSeries": "Stella 4 Pure",
+      "subSeriesSlug": "stella-4-pure",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-stella/cheminees-stella-4-pure/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Stella 4 Pure H700 — filtration anti-pollution intégrée. Grand format 710 mm, porte haute étanchéité. La cheminée pensée pour l'avenir.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Livrée au diamètre installation",
+        "dimensions": "",
+        "dimensionsVitre": "H 470 mm x L 710 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "H700",
+        "orientationVitre": "Horizontale",
+        "systemeFiltrationType": "Filtration Fondis intégrée (brevetée)"
+      },
+      "options": [
+        "Vitre autonettoyante Visiocéram®",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Filtration anti-pollution intégrée",
+        "Réduction CO",
+        "Porte haute étanchéité",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/2eahmnmwwskq",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Stella",
+        "Stella 4 Pure",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "stella",
+        "stella-4-pure",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h700.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h700.jpg",
+        "alt": "Insert bois Fondis Stella 4 Pure H700",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/2eahmnmwwskq",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-stella-4-pure-h700.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-1100",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 1100",
+      "slug": "ulys-1100",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 1100 — très grand format XXL 1120 mm. Pierre réfractaire, puissance jusqu'à 18 kW. Idéal grandes pièces.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "jusqu'à 18 kW",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 400 mm x L 1120 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "1100",
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Format XXL",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/zmet2cgsnoo3",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-1100.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-1100.jpg",
+        "alt": "Insert bois Fondis Ulys 1100",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/zmet2cgsnoo3",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-1100.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-1100-xxl",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 1100 XXL",
+      "slug": "ulys-1100-xxl",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 1100 XXL — version haute du 1100, vitre 510 mm de haut × 1120 mm de large. Le plus grand foyer de la gamme Ulys.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "jusqu'à 18 kW",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 1120 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "1100 XXL",
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Format XXL maximal",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/ymcnv13gedbl",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-1100-xxl.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-1100-xxl.jpg",
+        "alt": "Insert bois Fondis Ulys 1100 XXL",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/ymcnv13gedbl",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-1100-xxl.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-600",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 600",
+      "slug": "ulys-600",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 600 — intérieur pierre réfractaire pour diffusion douce et prolongée. Double arrivée d'air, vitre propre longtemps. Puissance 4 à 18 kW selon modèle.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 640 mm x L 660 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "600",
+        "interieur": "Pierre réfractaire",
+        "doubleFace": false
+      },
+      "options": [
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Double arrivée d'air préchauffé",
+        "Acier soudé avec carénage"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/9p1v2ae8iuhg",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-600.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-600.jpg",
+        "alt": "Insert bois Fondis Ulys 600",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/9p1v2ae8iuhg",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-600.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-700",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 700",
+      "slug": "ulys-700",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 700 — pierre réfractaire, grand format horizontal 740 mm. Double arrivée d'air, vitre auto-nettoyante par air.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 400 mm x L 740 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "700",
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/6j47et9hky4e",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-700.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-700.jpg",
+        "alt": "Insert bois Fondis Ulys 700",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/6j47et9hky4e",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-700.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-700-angle",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 700 angle",
+      "slug": "ulys-700-angle",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 700 angle (nouveau) — configuration d'angle, vue du feu en biais. Pierre réfractaire.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 440 mm x L 740 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "700 angle",
+        "configurationAngle": true,
+        "interieur": "Pierre réfractaire",
+        "nouveaute": true
+      },
+      "options": [
+        "Configuration angle",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Configuration angle",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": true,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/1saktfs2088z",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-700-angle.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-700-angle.jpg",
+        "alt": "Insert bois Fondis Ulys 700 angle",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/1saktfs2088z",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-700-angle.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-800v",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 800V",
+      "slug": "ulys-800v",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 800V — format vertical, vitre haute 790 mm. Pierre réfractaire, double arrivée d'air. Vue du feu en hauteur.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 790 mm x L 660 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "800V",
+        "orientationVitre": "Verticale haute",
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Format vertical",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/au0jkjkcxrpf",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-800v.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-800v.jpg",
+        "alt": "Insert bois Fondis Ulys 800V",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/au0jkjkcxrpf",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-800v.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-900",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 900",
+      "slug": "ulys-900",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 900 — grand format panoramique 890 mm. Pierre réfractaire pour chaleur prolongée. Double arrivée d'air préchauffé.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 890 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "900",
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Double arrivée d'air préchauffé",
+        "Format panoramique"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/up3i3anjmjp0",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-900.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-900.jpg",
+        "alt": "Insert bois Fondis Ulys 900",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/up3i3anjmjp0",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-900.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-900-angle",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 900 angle",
+      "slug": "ulys-900-angle",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 900 angle — configuration d'angle, vitre 840 mm. Pierre réfractaire. Idéal pour coins de pièce.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 440 mm x L 840 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "900 angle",
+        "configurationAngle": true,
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Configuration angle",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Configuration angle",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": true,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/i9jq4gv357lj",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-900-angle.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-900-angle.jpg",
+        "alt": "Insert bois Fondis Ulys 900 angle",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/i9jq4gv357lj",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-900-angle.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-foyer-ulys-900-double-face",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "foyer-ferme",
+      "typeAppareilLabel": "Foyer fermé",
+      "availabilityForBce": "propose",
+      "name": "Ulys 900 double face",
+      "slug": "ulys-900-double-face",
+      "series": "Ulys",
+      "seriesSlug": "ulys",
+      "subSeries": "Ulys",
+      "subSeriesSlug": "ulys",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/gamme-ulys/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Foyer fermé Ulys 900 double face — vue du feu des deux côtés. Grand format 890 mm. Pierre réfractaire.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 890 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "formatCode": "900 double face",
+        "doubleFace": true,
+        "interieur": "Pierre réfractaire"
+      },
+      "options": [
+        "Double face",
+        "Habillage personnalisable",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Pierre réfractaire",
+        "Double face",
+        "Double arrivée d'air préchauffé"
+      ],
+      "features": {
+        "doubleFace": true,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/j2lya562nbs1",
+        "manuel": null
+      },
+      "tags": [
+        "foyer-ferme",
+        "Foyer fermé",
+        "Ulys",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "foyer-ferme",
+        "foyer-ferm",
+        "ulys",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-foyer-ulys-900-double-face.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-foyer-ulys-900-double-face.jpg",
+        "alt": "Insert bois Fondis Ulys 900 double face",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/j2lya562nbs1",
+        "previousUrl": "../../assets/products/fondis/fondis-foyer-ulys-900-double-face.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-eclipse",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert Eclipse",
+      "slug": "insert-eclipse",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Eclipse",
+      "subSeriesSlug": "eclipse",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert Eclipse — version encastrable du poêle Eclipse. Façades interchangeables (Arbre, Feuilles, Lignes, Nid d'abeilles, Sur-mesure). Vitre 297 mm. Compatible BBC/RE2020.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Dessus ou arrière",
+        "dimensions": "",
+        "dimensionsVitre": "H 382 mm x L 297 mm",
+        "ecodesign": true,
+        "compatibleRE2020": true,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "Eclipse",
+        "arriveAirExterieur": true
+      },
+      "options": [
+        "Façades interchangeables (Arbre, Feuilles, Lignes, Nid d'abeilles, Sur-mesure)",
+        "Prise d'air extérieur (RE2020)",
+        "Pierres réfractaires"
+      ],
+      "technologies": [
+        "Façades personnalisables",
+        "Vermiculite"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": true
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/foclb8xa0r36",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Eclipse",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "eclipse",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-eclipse.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-eclipse.jpg",
+        "alt": "Insert bois Fondis Insert Eclipse",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/foclb8xa0r36",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-eclipse.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-f2",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert F2",
+      "slug": "insert-f2",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série F",
+      "subSeriesSlug": "s-rie-f",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert de rénovation Fondis série F2. Triple combustion, boîte à fumée brevetée, vitre Visiocéram® autonettoyante. Jusqu'à 5h d'autonomie.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 290 mm x L 470 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "F"
+      },
+      "options": [
+        "Habillage (Linéar / Matignon / Epure / Fourreau)",
+        "Prise d'air extérieur (BBC)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Visiocéram® autonettoyant"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/3ffkupn0hrre",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série F",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-f",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-f2.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-f2.jpg",
+        "alt": "Insert bois Fondis Insert F2",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/3ffkupn0hrre",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-f2.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-f6",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert F6",
+      "slug": "insert-f6",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série F",
+      "subSeriesSlug": "s-rie-f",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert de rénovation Fondis série F6. Format plus grand que F2, vitre 610 mm. Triple combustion, boîte à fumée, Visiocéram®.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 370 mm x L 610 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "F"
+      },
+      "options": [
+        "Habillage (Linéar / Matignon / Epure / Fourreau)",
+        "Prise d'air extérieur (BBC)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Visiocéram® autonettoyant"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/2br41w4xdvyn",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série F",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-f",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-f6.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-f6.jpg",
+        "alt": "Insert bois Fondis Insert F6",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/2br41w4xdvyn",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-f6.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-t1",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert T1",
+      "slug": "insert-t1",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série T",
+      "subSeriesSlug": "s-rie-t",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert de rénovation Fondis série T1. Vitre 470 mm. Triple combustion, boîte à fumée brevetée, Visiocéram®.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 290 mm x L 470 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "T"
+      },
+      "options": [
+        "Habillage",
+        "Prise d'air extérieur (BBC)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Visiocéram® autonettoyant"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/7hq4gmhrwjz5",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série T",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-t",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-t1.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-t1.jpg",
+        "alt": "Insert bois Fondis Insert T1",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/7hq4gmhrwjz5",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-t1.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-t6",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert T6",
+      "slug": "insert-t6",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série T",
+      "subSeriesSlug": "s-rie-t",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert de rénovation Fondis série T6. Format plus grand, vitre 610 mm. Triple combustion, Visiocéram®.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 370 mm x L 610 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "T"
+      },
+      "options": [
+        "Habillage",
+        "Prise d'air extérieur (BBC)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Visiocéram® autonettoyant"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/8jit8zr4i4ff",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série T",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-t",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-t6.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-t6.jpg",
+        "alt": "Insert bois Fondis Insert T6",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/8jit8zr4i4ff",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-t6.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v100-double-face",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V100 double face",
+      "slug": "insert-v100-double-face",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V100 double face — très grand format panoramique 980 mm, vision des deux côtés. La combinaison XXL + double face.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 980 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "doubleFace": true
+      },
+      "options": [
+        "Double face",
+        "Habillage",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Double face",
+        "Format panoramique",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": true,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/ft8lx3lulxyh",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v100-double-face.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v100-double-face.jpg",
+        "alt": "Insert bois Fondis Insert V100 double face",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/ft8lx3lulxyh",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v100-double-face.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v100l",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V100L",
+      "slug": "insert-v100l",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V100L — très grand format panoramique 980 mm. Triple combustion, poignée froide, ventilateur en option.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 980 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "poigneFroide": true,
+        "ouvertureDroiteGauche": true
+      },
+      "options": [
+        "Habillage",
+        "Bloc ventilateur",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Poignée froide silicone",
+        "Format panoramique",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": true,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/5cy7r43w9u1d",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v100l.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v100l.jpg",
+        "alt": "Insert bois Fondis Insert V100L",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/5cy7r43w9u1d",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v100l.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v100l-angle",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V100L angle",
+      "slug": "insert-v100l-angle",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V100L angle — configuration d'angle, très grand format 980 mm. Pour rénovation de cheminées d'angle XXL.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 980 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "configurationAngle": true
+      },
+      "options": [
+        "Configuration angle",
+        "Habillage",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Configuration angle",
+        "Format panoramique",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": true,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/skvb9skzii4u",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v100l-angle.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v100l-angle.jpg",
+        "alt": "Insert bois Fondis Insert V100L angle",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/skvb9skzii4u",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v100l-angle.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v50l",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V50L",
+      "slug": "insert-v50l",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert série V50L — gamme V haute gamme avec poignée froide silicone et ouverture droite/gauche. Triple combustion, boîte à fumée, ventilateur en option.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 420 mm x L 480 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "poigneFroide": true,
+        "ouvertureDroiteGauche": true
+      },
+      "options": [
+        "Habillage (Linéar / Epure ventilé / Fourreau)",
+        "Bloc ventilateur",
+        "Prise d'air extérieur (BBC/RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Poignée froide silicone",
+        "Visiocéram® autonettoyant"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": true,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/1f8ttgzotxz7",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v50l.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v50l.jpg",
+        "alt": "Insert bois Fondis Insert V50L",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/1f8ttgzotxz7",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v50l.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v60-double-face",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V60 double face",
+      "slug": "insert-v60-double-face",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V60 double face — vision du feu des deux côtés. Idéal pour séparation de pièces. Vitre 580 mm.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 420 mm x L 580 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "doubleFace": true
+      },
+      "options": [
+        "Double face",
+        "Habillage",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Double face",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": true,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/czam5a9rutq2",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v60-double-face.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v60-double-face.jpg",
+        "alt": "Insert bois Fondis Insert V60 double face",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/czam5a9rutq2",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v60-double-face.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v60l",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V60L",
+      "slug": "insert-v60l",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert série V60L — vitre 580 mm. Poignée froide, ouverture droite/gauche, ventilateur en option. Triple combustion.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 420 mm x L 580 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "poigneFroide": true,
+        "ouvertureDroiteGauche": true
+      },
+      "options": [
+        "Habillage",
+        "Bloc ventilateur",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Poignée froide silicone",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": true,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/h7znkeggcw2m",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v60l.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v60l.jpg",
+        "alt": "Insert bois Fondis Insert V60L",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/h7znkeggcw2m",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v60l.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v60l-angle",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V60L angle",
+      "slug": "insert-v60l-angle",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V60L angle — configuration d'angle. Vitre 580 mm. Insert de rénovation pour cheminées d'angle.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 420 mm x L 580 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "configurationAngle": true
+      },
+      "options": [
+        "Configuration angle",
+        "Habillage",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Configuration angle",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": true,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/t3lcqqfsruum",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v60l-angle.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v60l-angle.jpg",
+        "alt": "Insert bois Fondis Insert V60L angle",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/t3lcqqfsruum",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v60l-angle.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v80l",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V80L",
+      "slug": "insert-v80l",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V80L — grand format 720 mm. Poignée froide, ouverture droite/gauche, ventilateur en option. Triple combustion haute performance.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 720 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "poigneFroide": true,
+        "ouvertureDroiteGauche": true
+      },
+      "options": [
+        "Habillage",
+        "Bloc ventilateur",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Poignée froide silicone",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": true,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/gw6aj0uy9vsi",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v80l.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v80l.jpg",
+        "alt": "Insert bois Fondis Insert V80L",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/gw6aj0uy9vsi",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v80l.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v80l-angle",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V80L angle",
+      "slug": "insert-v80l-angle",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V80L angle — configuration d'angle, grand format 720 mm. Rénovation de cheminées d'angle.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 720 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "configurationAngle": true
+      },
+      "options": [
+        "Configuration angle",
+        "Habillage",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Configuration angle",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": true,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/m5kgbkj16pj5",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v80l-angle.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v80l-angle.jpg",
+        "alt": "Insert bois Fondis Insert V80L angle",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/m5kgbkj16pj5",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v80l-angle.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-v80l-double-face",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert",
+      "typeAppareilLabel": "Insert de rénovation",
+      "availabilityForBce": "propose",
+      "name": "Insert V80L double face",
+      "slug": "insert-v80l-double-face",
+      "series": "Inserts",
+      "seriesSlug": "inserts",
+      "subSeries": "Série V",
+      "subSeriesSlug": "s-rie-v",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/inserts-2-2/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert V80L double face — grand format 720 mm, vision des deux côtés. Idéal pour cloisonnements intérieurs.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 510 mm x L 720 mm",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "serieCode": "V",
+        "doubleFace": true
+      },
+      "options": [
+        "Double face",
+        "Habillage",
+        "Prise d'air extérieur (RE2020)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Double face",
+        "Visiocéram®"
+      ],
+      "features": {
+        "doubleFace": true,
+        "configurationAngle": false,
+        "configurationSurMesure": false,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/02i73v3v0999",
+        "manuel": null
+      },
+      "tags": [
+        "insert",
+        "Insert de rénovation",
+        "Inserts",
+        "Série V",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert",
+        "insert-de-r-novation",
+        "inserts",
+        "s-rie-v",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-v80l-double-face.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-v80l-double-face.jpg",
+        "alt": "Insert bois Fondis Insert V80L double face",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/02i73v3v0999",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-v80l-double-face.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    },
+    {
+      "id": "fondis-insert-sur-mesure",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France — Vieux-Thann (Alsace)",
+      "category": "inserts-bois",
+      "categoryLabel": "Inserts bois",
+      "typeAppareil": "insert-sur-mesure",
+      "typeAppareilLabel": "Insert sur mesure",
+      "availabilityForBce": "propose",
+      "name": "Insert sur mesure",
+      "slug": "insert-sur-mesure",
+      "series": "Inserts sur mesure",
+      "seriesSlug": "inserts-sur-mesure",
+      "subSeries": "Sur mesure",
+      "subSeriesSlug": "sur-mesure",
+      "sourceUrl": "https://fondis.com/cheminees-fondis/insert-sur-mesure/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Insert sur mesure Fondis — dimensions personnalisées (hauteur, largeur, profondeur, sortie de fumées) fabriquées dans les ateliers alsaciens. Triple combustion, boîte à fumée brevetée, cadre ventilé, double vitrage. Disponible simple face, angle ou 3 faces.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "puissancePlageKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Sur mesure selon installation",
+        "dimensions": "Sur mesure — H, L, P selon cheminée existante",
+        "dimensionsVitre": "Sur mesure",
+        "ecodesign": true,
+        "compatibleRE2020": null,
+        "puissancekW": null,
+        "rendementPct": null,
+        "configurationSurMesure": true,
+        "configurationsDisponibles": [
+          "Simple face",
+          "Angle",
+          "3 faces"
+        ],
+        "doubleVitrage": true
+      },
+      "options": [
+        "Dimensions personnalisées",
+        "Simple face / Angle / 3 faces",
+        "Fabrication express possible"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Boîte à fumée brevetée",
+        "Cadre ventilé",
+        "Double vitrage"
+      ],
+      "features": {
+        "doubleFace": false,
+        "configurationAngle": false,
+        "configurationSurMesure": true,
+        "ventilateurOption": false,
+        "compatibleRE2020": false
+      },
+      "documents": {
+        "ficheTechnique": "https://fondis.com/wp-content/uploads/2023/09/Fiche-produit-ISM-2023-V1.pdf",
+        "manuel": null
+      },
+      "tags": [
+        "insert-sur-mesure",
+        "Insert sur mesure",
+        "Inserts sur mesure",
+        "Sur mesure",
+        "Inserts bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "insert-sur-mesure",
+        "inserts-sur-mesure",
+        "sur-mesure",
+        "inserts-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-insert-sur-mesure.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-insert-sur-mesure.jpg",
+        "alt": "Insert bois Fondis Insert sur mesure",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://fondis.com/wp-content/uploads/2023/09/Fiche-produit-ISM-2023-V1.pdf",
+        "previousUrl": "../../assets/products/fondis/fondis-insert-sur-mesure.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=inserts-bois, marque=Fondis, type d appareil, serie et sous-gamme."
+    }
+  ]
+}

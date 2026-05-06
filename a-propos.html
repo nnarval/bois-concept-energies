@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>À propos de Bois Concept Énergies | Installateur RGE à Nègrepelisse</title>
+  <meta name="description" content="Découvrez Bois Concept Énergies, entreprise locale à Nègrepelisse spécialisée dans le conseil, la vente, l'installation et le suivi de poêles et inserts bois ou granulés.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://www.boisconceptenergies.fr/a-propos">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="À propos | Bois Concept Énergies">
+  <meta property="og:description" content="Un atelier local pour vos projets de chauffage bois et granulés dans le Tarn-et-Garonne.">
+  <meta property="og:url" content="https://www.boisconceptenergies.fr/a-propos">
+  <meta property="og:image" content="https://www.boisconceptenergies.fr/assets/photography/hero-poele-flamme.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="colors_and_type.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body { margin: 0; }
+    .about-header {
+      background: var(--ink);
+      color: var(--bg);
+      padding: 28px 32px;
+    }
+    .about-nav {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+    .about-logo {
+      display: block;
+      width: 150px;
+      height: auto;
+    }
+    .about-back {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 18px;
+      border: 1px solid rgba(245,241,234,0.34);
+      border-radius: var(--radius-sm);
+      color: var(--bg);
+      font-size: 14px;
+      font-weight: 600;
+      border-bottom: 1px solid rgba(245,241,234,0.34);
+    }
+    .about-back:hover {
+      color: var(--bg);
+      border-color: var(--bg);
+    }
+    .about-hero {
+      min-height: 560px;
+      position: relative;
+      display: grid;
+      align-items: end;
+      overflow: hidden;
+      color: var(--bg);
+      background: var(--ink);
+      padding: 120px 32px 96px;
+    }
+    .about-hero img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.46;
+    }
+    .about-hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(105deg, rgba(20,20,20,0.86), rgba(20,20,20,0.56) 52%, rgba(20,20,20,0.22));
+    }
+    .about-hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+    }
+    .about-hero h1 {
+      color: var(--bg);
+      max-width: 14ch;
+      margin-top: 18px;
+      margin-bottom: 24px;
+    }
+    .about-hero p {
+      color: #E8E2D4;
+      max-width: 640px;
+    }
+    .about-main {
+      background: var(--bg);
+    }
+    .about-section {
+      padding: 104px 32px;
+      border-bottom: 1px solid var(--sand);
+    }
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 0.9fr 1.35fr;
+      gap: 88px;
+      align-items: start;
+    }
+    .about-copy p {
+      color: var(--fg-2);
+      font-size: 17px;
+      line-height: 1.75;
+    }
+    .about-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-top: 36px;
+    }
+    .about-card {
+      background: var(--surface);
+      border: 1px solid var(--sand);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      min-height: 100%;
+    }
+    .about-card h3 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    .about-card p {
+      margin: 0;
+      color: var(--fg-2);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+    .about-band {
+      background: var(--anthracite);
+      color: var(--bg);
+      padding: 96px 32px;
+    }
+    .about-band-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 64px;
+      align-items: center;
+    }
+    .about-band h2 { color: var(--bg); }
+    .about-band p {
+      color: #C9C2B3;
+      max-width: 560px;
+    }
+    .about-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 16px;
+    }
+    .about-list li {
+      display: flex;
+      gap: 14px;
+      color: #E8E2D4;
+      font-size: 16px;
+      line-height: 1.65;
+    }
+    .about-list span {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--leaf-3);
+      flex: 0 0 auto;
+      margin-top: 8px;
+    }
+    .about-cta {
+      background: var(--surface);
+      padding: 88px 32px;
+    }
+    .about-cta-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 32px;
+      border-top: 1px solid var(--sand);
+      padding-top: 48px;
+    }
+    .about-button {
+      min-height: 46px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 22px;
+      border-radius: var(--radius-sm);
+      background: var(--ink);
+      color: var(--bg);
+      font-size: 15px;
+      font-weight: 700;
+      border-bottom: none;
+      white-space: nowrap;
+    }
+    .about-button:hover {
+      color: var(--bg);
+      background: var(--leaf-2);
+    }
+    .about-footer {
+      background: var(--ink);
+      color: #8A8A85;
+      padding: 32px;
+      font-size: 12px;
+    }
+    .about-footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+    @media (max-width: 900px) {
+      .about-inner,
+      .about-band-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .about-grid {
+        grid-template-columns: 1fr;
+      }
+      .about-cta-inner {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+    @media (max-width: 720px) {
+      .about-header,
+      .about-hero,
+      .about-section,
+      .about-band,
+      .about-cta,
+      .about-footer { padding-left: 24px; padding-right: 24px; }
+      .about-nav { align-items: flex-start; flex-direction: column; }
+      .about-logo { width: 132px; }
+      .about-hero {
+        min-height: 640px;
+        padding-top: 96px;
+      }
+      .about-button {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="about-header">
+    <nav class="about-nav" aria-label="Navigation à propos">
+      <a href="index.html" aria-label="Retour à l'accueil">
+        <img class="about-logo" src="assets/logo/bce-logo-final-knockout-header.png" alt="Bois Concept Énergies">
+      </a>
+      <a class="about-back" href="index.html">Retour au site</a>
+    </nav>
+  </header>
+
+  <section class="about-hero">
+    <img src="assets/photography/hero-poele-flamme.png" alt="">
+    <div class="about-hero-inner">
+      <span class="eyebrow" style="color: var(--leaf-3)">À propos</span>
+      <h1>Un atelier local pour votre chaleur au quotidien.</h1>
+      <p class="lead">Bois Concept Énergies accompagne les particuliers dans la vente, la pose et le suivi des appareils installés par BCE : poêles à granulés, poêles à bois et inserts dans le Tarn-et-Garonne.</p>
+    </div>
+  </section>
+
+  <main class="about-main">
+    <section class="about-section">
+      <div class="about-inner">
+        <div>
+          <span class="eyebrow">Notre métier</span>
+          <h2>Conseiller, installer, suivre.</h2>
+        </div>
+        <div class="about-copy">
+          <p>Installée à Nègrepelisse, l’entreprise intervient auprès des particuliers pour transformer un projet de chauffage en installation fiable, propre et adaptée à l’habitation.</p>
+          <p>Le rôle de Bois Concept Énergies ne se limite pas à vendre un appareil. L’équipe étudie le volume à chauffer, le conduit existant, les usages du foyer et les contraintes techniques avant de proposer une solution cohérente.</p>
+          <p>Après la pose, l’entreprise reste présente pour l’entretien, le ramonage et le suivi annuel des appareils installés par BCE, afin que l’installation conserve ses performances dans le temps.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="about-section">
+      <div class="about-inner">
+        <div>
+          <span class="eyebrow">Prestations</span>
+          <h2>Des solutions bois et granulés adaptées à chaque intérieur.</h2>
+        </div>
+        <div>
+          <div class="about-grid">
+            <article class="about-card">
+              <h3>Poêles à granulés</h3>
+              <p>Des appareils programmables, autonomes et performants pour un chauffage confortable au quotidien.</p>
+            </article>
+            <article class="about-card">
+              <h3>Poêles à bois</h3>
+              <p>Une solution simple et chaleureuse pour profiter d’une vraie flamme et d’une chaleur radiante.</p>
+            </article>
+            <article class="about-card">
+              <h3>Inserts</h3>
+              <p>La transformation d’une cheminée existante en foyer plus efficace, plus sûr et mieux intégré.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="about-band">
+      <div class="about-band-inner">
+        <div>
+          <span class="eyebrow" style="color: var(--leaf-3)">Méthode</span>
+          <h2>Une approche terrain, du premier rendez-vous au suivi.</h2>
+          <p>Chaque projet commence par une lecture concrète de la maison : implantation, arrivée d’air, conduit, habitudes de chauffe et attentes esthétiques.</p>
+        </div>
+        <ul class="about-list">
+          <li><span></span><div>Visite à domicile pour comprendre le projet et les contraintes techniques.</div></li>
+          <li><span></span><div>Devis détaillé avec appareil, pose, fumisterie et mise en service.</div></li>
+          <li><span></span><div>Installation réalisée proprement, avec explication du fonctionnement.</div></li>
+          <li><span></span><div>Entretien et ramonage réservés aux appareils installés par BCE pour garder une installation fiable dans la durée.</div></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="about-cta">
+      <div class="about-cta-inner">
+        <div>
+          <span class="eyebrow">Votre projet</span>
+          <h2 style="margin-top: 14px; margin-bottom: 0;">Besoin d’un avis sur votre installation ?</h2>
+        </div>
+        <a class="about-button" href="index.html#contact">Nous contacter</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="about-footer">
+    <div class="about-footer-inner">
+      <span>© 2026 Bois Concept Énergies · Tous droits réservés</span>
+      <span>Certifié RGE Qualibois · SIRET à compléter</span>
+    </div>
+  </footer>
+</body>
+</html>
+
+

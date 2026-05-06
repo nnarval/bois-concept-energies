@@ -1,0 +1,1885 @@
+{
+  "generatedAt": "2026-05-03 19:35:17",
+  "source": "https://fondis.com/poeles-a-bois/",
+  "brand": "Fondis",
+  "brandRole": "distributeur multi-marques",
+  "category": "poeles-a-bois",
+  "categoryLabel": "Poêles à bois",
+  "totalProducts": 28,
+  "language": "fr",
+  "note": "Fondis distribue plusieurs fabricants : Fondis, Agni, Thermocet/Woody et Wodtke. Certaines spécifications ne sont pas publiées sur le site et restent indiquées comme non publiées quand la fiche source ne donne pas la valeur.",
+  "filters": {
+    "brands": [
+      "Fondis"
+    ],
+    "categories": [
+      {
+        "id": "poeles-a-bois",
+        "label": "Poêles à bois"
+      }
+    ],
+    "manufacturers": [
+      {
+        "id": "agni-fonte-japonaise-gifu-japon-depuis-1560",
+        "label": "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+        "count": 3
+      },
+      {
+        "id": "fondis",
+        "label": "Fondis",
+        "count": 2
+      },
+      {
+        "id": "thermocet",
+        "label": "Thermocet",
+        "count": 4
+      },
+      {
+        "id": "wodtke",
+        "label": "Wodtke",
+        "count": 19
+      }
+    ],
+    "series": [
+      {
+        "id": "agni",
+        "label": "Agni",
+        "count": 3
+      },
+      {
+        "id": "eclipse",
+        "label": "Eclipse",
+        "count": 1
+      },
+      {
+        "id": "orion",
+        "label": "Orion",
+        "count": 1
+      },
+      {
+        "id": "wodtke",
+        "label": "Wodtke",
+        "count": 19
+      },
+      {
+        "id": "woody",
+        "label": "Woody",
+        "count": 4
+      }
+    ],
+    "subSeries": [
+      {
+        "id": "casa",
+        "label": "Casa",
+        "count": 2
+      },
+      {
+        "id": "ceo",
+        "label": "CEO",
+        "count": 1
+      },
+      {
+        "id": "club11",
+        "label": "Club11",
+        "count": 1
+      },
+      {
+        "id": "cookie",
+        "label": "Cookie",
+        "count": 1
+      },
+      {
+        "id": "dance",
+        "label": "Dance",
+        "count": 1
+      },
+      {
+        "id": "fire-sl",
+        "label": "Fire SL",
+        "count": 1
+      },
+      {
+        "id": "giro",
+        "label": "Giro",
+        "count": 1
+      },
+      {
+        "id": "hot-box",
+        "label": "Hot Box",
+        "count": 1
+      },
+      {
+        "id": "momo",
+        "label": "Momo",
+        "count": 1
+      },
+      {
+        "id": "new-look",
+        "label": "New Look",
+        "count": 2
+      },
+      {
+        "id": "porto",
+        "label": "Porto",
+        "count": 2
+      },
+      {
+        "id": "samurai",
+        "label": "Samurai",
+        "count": 1
+      },
+      {
+        "id": "spencer",
+        "label": "Spencer",
+        "count": 1
+      },
+      {
+        "id": "stage",
+        "label": "Stage",
+        "count": 2
+      },
+      {
+        "id": "twin",
+        "label": "Twin",
+        "count": 1
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "fondis-poele-agni-c",
+      "brand": "Fondis",
+      "manufacturer": "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+      "origin": "Japon",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Agni C",
+      "slug": "agni-c",
+      "series": "Agni",
+      "seriesSlug": "agni",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois-agni/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle en fonte japonaise Agni C. Triple combustion (primaire + secondaire + tertiaire catalytique). Rendement jusqu'à 85.7%. Plaques de cuisson fonte intégrées. Système vitre propre breveté.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "85.7",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 28 mm x L 38 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Triple combustion catalytique",
+        "Plaques cuisson fonte",
+        "Vitre propre brevetée",
+        "Grille cuisson en fonte (option)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Catalyse tertiaire",
+        "Fonte massive"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/mbk93jyxnpuv",
+        "manuel": null
+      },
+      "tags": [
+        "Agni",
+        "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+        "Japon",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "agni",
+        "agni-fonte-japonaise-gifu-japon-depuis-1560",
+        "japon",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-agni-c.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-agni-c.jpg",
+        "alt": "Poêle à bois Agni / Fonte japonaise (Gifu, Japon – depuis 1560) Agni C",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/mbk93jyxnpuv",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-agni-c.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-agni-cc",
+      "brand": "Fondis",
+      "manufacturer": "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+      "origin": "Japon",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Agni CC",
+      "slug": "agni-cc",
+      "series": "Agni",
+      "seriesSlug": "agni",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois-agni/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle en fonte japonaise Agni CC — version plus large que le C. Triple combustion catalytique, rendement jusqu'à 85.7%. Plaques et grilles de cuisson fonte.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "85.7",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 25 mm x L 34 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Triple combustion catalytique",
+        "Plaques cuisson fonte",
+        "Vitre propre brevetée",
+        "Grille cuisson en fonte (option)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Catalyse tertiaire",
+        "Fonte massive"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/mbk93jyxnpuv",
+        "manuel": null
+      },
+      "tags": [
+        "Agni",
+        "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+        "Japon",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "agni",
+        "agni-fonte-japonaise-gifu-japon-depuis-1560",
+        "japon",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-agni-cc.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-agni-cc.jpg",
+        "alt": "Poêle à bois Agni / Fonte japonaise (Gifu, Japon – depuis 1560) Agni CC",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/mbk93jyxnpuv",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-agni-cc.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-agni-hutte",
+      "brand": "Fondis",
+      "manufacturer": "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+      "origin": "Japon",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Agni Hutte",
+      "slug": "agni-hutte",
+      "series": "Agni",
+      "seriesSlug": "agni",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois-agni/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle en fonte japonaise Agni Hutte, format cabane sculpturale. Triple combustion catalytique, plaque latérale en fonte en option. Le modèle le plus distinctif de la gamme Agni.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "85.7",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 27.5 mm x L 18 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Triple combustion catalytique",
+        "Plaques cuisson fonte",
+        "Vitre propre brevetée",
+        "Grille cuisson en fonte (option)",
+        "Plaque latérale fonte (option)"
+      ],
+      "technologies": [
+        "Triple combustion",
+        "Catalyse tertiaire",
+        "Fonte massive"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/mbk93jyxnpuv",
+        "manuel": null
+      },
+      "tags": [
+        "Agni",
+        "Agni / Fonte japonaise (Gifu, Japon – depuis 1560)",
+        "Japon",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "agni",
+        "agni-fonte-japonaise-gifu-japon-depuis-1560",
+        "japon",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-agni-hutte.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-agni-hutte.jpg",
+        "alt": "Poêle à bois Agni / Fonte japonaise (Gifu, Japon – depuis 1560) Agni Hutte",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/mbk93jyxnpuv",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-agni-hutte.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-eclipse",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France – Vieux-Thann (Alsace)",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Poêle à bois Eclipse",
+      "slug": "poele-a-bois-eclipse",
+      "series": "Eclipse",
+      "seriesSlug": "eclipse",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poele-a-bois-eclipse/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle compact fabriqué en Alsace, façades interchangeables (motifs Arbre, Feuilles, Lignes, Nid d'abeilles, Sur-mesure). Petite puissance idéale BBC/RE2020. Socle acier ou bois au choix. Version encastrée possible.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Dessus ou arrière",
+        "dimensions": "",
+        "dimensionsVitre": "H 382 mm x L 297 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Prise d'air extérieur",
+        "Pierres réfractaires",
+        "Pare-bûches",
+        "Façades interchangeables"
+      ],
+      "technologies": [
+        "Vermiculite",
+        "Façades personnalisables"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/foclb8xa0r36",
+        "manuel": null
+      },
+      "tags": [
+        "Eclipse",
+        "Fondis",
+        "France – Vieux-Thann (Alsace)",
+        "Poêles à bois"
+      ],
+      "tagSlugs": [
+        "eclipse",
+        "fondis",
+        "france-vieux-thann-alsace",
+        "poeles-a-bois"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-eclipse.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-eclipse.jpg",
+        "alt": "Poêle à bois Fondis Poêle à bois Eclipse",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/foclb8xa0r36",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-eclipse.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-orion",
+      "brand": "Fondis",
+      "manufacturer": "Fondis",
+      "origin": "France – Vieux-Thann (Alsace)",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Poêle à accumulation Orion",
+      "slug": "poele-a-accumulation-orion",
+      "series": "Orion",
+      "seriesSlug": "orion",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poele-a-accumulation-orion/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle à accumulation fabriqué en Alsace. Plus de 200 kg de pierres d'inertie pour une diffusion douce et prolongée de la chaleur. Catalyseur intégré, double vitrage, compatible RE2020 avec prise d'air extérieur.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 470 mm x L 414 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Prise d'air extérieur",
+        "Catalyseur métallique",
+        "Double vitrage",
+        "Compatible RE2020"
+      ],
+      "technologies": [
+        "Accumulation inertie",
+        "Catalyse des fumées",
+        "Double vitrage"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/kqru8xaqwvg8",
+        "manuel": null
+      },
+      "tags": [
+        "Orion",
+        "Fondis",
+        "France – Vieux-Thann (Alsace)",
+        "Poêles à bois"
+      ],
+      "tagSlugs": [
+        "orion",
+        "fondis",
+        "france-vieux-thann-alsace",
+        "poeles-a-bois"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-orion.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-orion.jpg",
+        "alt": "Poêle à bois Fondis Poêle à accumulation Orion",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/kqru8xaqwvg8",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-orion.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-casa",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Casa de Wodtke",
+      "slug": "wodtke-casa",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Casa",
+      "subSeriesSlug": "casa",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle-cheminée mural Wodtke. Design épuré, grande vitre, géométrie de chambre de combustion éprouvée. Adapté installation murale encastrée.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Chambre combustion Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/5ftj50pbc0uj",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Casa",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "casa",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-casa.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-casa.jpg",
+        "alt": "Poêle à bois Wodtke Casa de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/5ftj50pbc0uj",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-casa.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-casa-duo",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Casa Duo de Wodtke",
+      "slug": "wodtke-casa-duo",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Casa",
+      "subSeriesSlug": "casa",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Casa Duo avec console. Grande vitre, géométrie de chambre de combustion éprouvée. Prix attractif. Idéal comme poêle-cheminée design à prix accessible.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Chambre combustion Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/5ftj50pbc0uj",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Casa",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "casa",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-casa-duo.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-casa-duo.jpg",
+        "alt": "Poêle à bois Wodtke Casa Duo de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/5ftj50pbc0uj",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-casa-duo.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-ceo-water",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Ceo Water+ de Wodtke",
+      "slug": "wodtke-ceo-water",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "CEO",
+      "subSeriesSlug": "ceo",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle cylindrique Water+ Wodtke avec échangeur thermique eau. Raccordement au circuit de chauffage central. Forme cylindrique sobre et élégante. Rendement supérieur à 85%, 70% vers le ballon-tampon.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "85",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "Water+ échangeur thermique",
+        "Forme cylindrique"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/710w2couj2xr",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "CEO",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "ceo",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-ceo-water.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-ceo-water.jpg",
+        "alt": "Poêle à bois Wodtke Ceo Water+ de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/710w2couj2xr",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-ceo-water.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-club11",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Club11 de Wodtke",
+      "slug": "wodtke-club11",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Club11",
+      "subSeriesSlug": "club11",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle-cheminée Wodtke Club11 avec foyer pivotant et module accumulateur de chaleur. Foyer orientable à 360° pour une flexibilité maximale dans l'installation.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "Foyer pivotant",
+        "Module accumulation chaleur"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/majvf5ebrq8r",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Club11",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "club11",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-club11.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-club11.jpg",
+        "alt": "Poêle à bois Wodtke Club11 de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/majvf5ebrq8r",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-club11.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-cookie",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Cookie de Wodtke",
+      "slug": "wodtke-cookie",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Cookie",
+      "subSeriesSlug": "cookie",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke Cookie avec plaque chauffante intégrée. Permet de cuisiner directement sur le poêle. Polyvalence chauffage + cuisson.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": "Plaque chauffante intégrée",
+      "technologies": "Cuisson intégrée",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/hdpwsiaqtocf",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Cookie",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "cookie",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-cookie.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-cookie.jpg",
+        "alt": "Poêle à bois Wodtke Cookie de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/hdpwsiaqtocf",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-cookie.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-dance",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Dance de Wodtke",
+      "slug": "wodtke-dance",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Dance",
+      "subSeriesSlug": "dance",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle-cheminée Wodtke Dance. Silhouette élancée et design raffiné. Ligne verticale très distinctive pour les intérieurs contemporains.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Design Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/z7ovfpx4msnc",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Dance",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "dance",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-dance.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-dance.jpg",
+        "alt": "Poêle à bois Wodtke Dance de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/z7ovfpx4msnc",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-dance.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-fire-sl",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Fire SL de Wodtke",
+      "slug": "wodtke-fire-sl",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Fire SL",
+      "subSeriesSlug": "fire-sl",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke Fire SL extra-large avec foyer pivotant. Élégance incomparable dans un format imposant. Foyer orientable pour une flexibilité de placement.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "Foyer pivotant",
+        "Format XXL"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/2f8cb4b96q8r",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Fire SL",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "fire-sl",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-fire-sl.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-fire-sl.jpg",
+        "alt": "Poêle à bois Wodtke Fire SL de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/2f8cb4b96q8r",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-fire-sl.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-giro-water",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Giro Water+ de Wodtke",
+      "slug": "wodtke-giro-water",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Giro",
+      "subSeriesSlug": "giro",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Water+ Wodtke Giro avec échangeur thermique eau. Raccordement au chauffage central, compatible solaire. Rendement supérieur à 85%.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "85",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Water+ échangeur thermique",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/iq12shjvwiip",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Giro",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "giro",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-giro-water.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-giro-water.jpg",
+        "alt": "Poêle à bois Wodtke Giro Water+ de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/iq12shjvwiip",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-giro-water.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-hot-box-2000",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Hot Box 2000 de Wodtke",
+      "slug": "wodtke-hot-box-2000",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Hot Box",
+      "subSeriesSlug": "hot-box",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke Hot Box 2000. Forme épurée et intemporelle, design cubique. Avec modules de rangement Boxes intégrés.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Design cubique modulable",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/ljlvl4uolbv8",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Hot Box",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "hot-box",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-hot-box-2000.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-hot-box-2000.jpg",
+        "alt": "Poêle à bois Wodtke Hot Box 2000 de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/ljlvl4uolbv8",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-hot-box-2000.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-momo-water",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Momo Water+ de Wodtke",
+      "slug": "wodtke-momo-water",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Momo",
+      "subSeriesSlug": "momo",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Water+ Wodtke Momo avec échangeur thermique eau et habillage pierre ollaire (Speckstein). Raccordement au chauffage central, compatible solaire.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "85",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "Water+ échangeur thermique",
+        "Pierre ollaire"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/yjghmfeaw6kk",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Momo",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "momo",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-momo-water.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-momo-water.jpg",
+        "alt": "Poêle à bois Wodtke Momo Water+ de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/yjghmfeaw6kk",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-momo-water.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-new-look-f9",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "New Look F9 de Wodtke",
+      "slug": "wodtke-new-look-f9",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "New Look",
+      "subSeriesSlug": "new-look",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke New Look F9. Technique de filtration HiClean® Wodtke. Feu visible sur 3 côtés pour une vue panoramique. Très faibles émissions de particules.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "HiClean® filtration",
+        "3 faces vitrées"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/9up4d9zj0vqs",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "New Look",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "new-look",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-new-look-f9.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-new-look-f9.jpg",
+        "alt": "Poêle à bois Wodtke New Look F9 de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/9up4d9zj0vqs",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-new-look-f9.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-new-look-fs12",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "New Look FS12 de Wodtke",
+      "slug": "wodtke-new-look-fs12",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "New Look",
+      "subSeriesSlug": "new-look",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke New Look FS12. Version plus large que F9. Technique HiClean® et feu visible sur 3 côtés. Très faibles émissions.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "HiClean® filtration",
+        "3 faces vitrées"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/yhlji4d56e5v",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "New Look",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "new-look",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-new-look-fs12.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-new-look-fs12.jpg",
+        "alt": "Poêle à bois Wodtke New Look FS12 de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/yhlji4d56e5v",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-new-look-fs12.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-porto",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Porto de Wodtke",
+      "slug": "wodtke-porto",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Porto",
+      "subSeriesSlug": "porto",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke Porto très tendance, s'adapte à tous styles d'intérieurs. Design contemporain et polyvalent.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Design Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/fbqkphg36q9x",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Porto",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "porto",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-porto.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-porto.jpg",
+        "alt": "Poêle à bois Wodtke Porto de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/fbqkphg36q9x",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-porto.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-porto-largo",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Porto Largo de Wodtke",
+      "slug": "wodtke-porto-largo",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Porto",
+      "subSeriesSlug": "porto",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke Porto Largo, version majestueux fin et discret mais très puissant. Vendu avec ou sans accumulateur de chaleur.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": "Avec ou sans accumulateur de chaleur",
+      "technologies": "Design fin Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/69n8yya15l6m",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Porto",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "porto",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-porto-largo.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-porto-largo.jpg",
+        "alt": "Poêle à bois Wodtke Porto Largo de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/69n8yya15l6m",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-porto-largo.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-samurai",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Samurai / Samurai OKI de Wodtke",
+      "slug": "wodtke-samurai",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Samurai",
+      "subSeriesSlug": "samurai",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Dernier né Wodtke, bijou de technologie. Très beau et performant. Version OKI disponible (indépendant de l'air ambiant).",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Haute technologie Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/33n0orncb6kw",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Samurai",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "samurai",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-samurai.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-samurai.jpg",
+        "alt": "Poêle à bois Wodtke Samurai / Samurai OKI de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/33n0orncb6kw",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-samurai.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-spencer",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Spencer de Wodtke",
+      "slug": "wodtke-spencer",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Spencer",
+      "subSeriesSlug": "spencer",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle compact Wodtke Spencer indépendant de l'air ambiant (étanche). Porte fermeture douce et silencieuse, poignée inox élégante. Idéal maisons BBC.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "Foyer étanche (indépendant air ambiant)",
+        "Fermeture douce silencieuse"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/6y4us7un4f2g",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Spencer",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "spencer",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-spencer.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-spencer.jpg",
+        "alt": "Poêle à bois Wodtke Spencer de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/6y4us7un4f2g",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-spencer.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-stage-f9",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Stage F9 de Wodtke",
+      "slug": "wodtke-stage-f9",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Stage",
+      "subSeriesSlug": "stage",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle-cheminée Wodtke Stage F9. Structure compacte alliant élégance et haute technologie. Grande valeur pratique.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Haute technologie Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/mrh92oj9vaaz",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Stage",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "stage",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-stage-f9.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-stage-f9.jpg",
+        "alt": "Poêle à bois Wodtke Stage F9 de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/mrh92oj9vaaz",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-stage-f9.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-stage-fs14",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Stage FS14 de Wodtke",
+      "slug": "wodtke-stage-fs14",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Stage",
+      "subSeriesSlug": "stage",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle-cheminée Wodtke Stage FS14, version plus large que F9. Structure compacte haute technologie, grande valeur pratique.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": "Haute technologie Wodtke",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/b3538we7mrrw",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Stage",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "stage",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-stage-fs14.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-stage-fs14.jpg",
+        "alt": "Poêle à bois Wodtke Stage FS14 de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/b3538we7mrrw",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-stage-fs14.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-wodtke-twin",
+      "brand": "Fondis",
+      "manufacturer": "Wodtke",
+      "origin": "Allemagne",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Twin de Wodtke",
+      "slug": "wodtke-twin",
+      "series": "Wodtke",
+      "seriesSlug": "wodtke",
+      "subSeries": "Twin",
+      "subSeriesSlug": "twin",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poeles-a-bois/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Wodtke Twin. Pierres ollaires latérales pour accumulation thermique. Robuste aux chocs. Idéal pour familles avec enfants.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "",
+        "ecodesign": true
+      },
+      "options": {},
+      "technologies": [
+        "Pierre ollaire latérale",
+        "Accumulation thermique"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/gvrpt9uqjge5",
+        "manuel": null
+      },
+      "tags": [
+        "Wodtke",
+        "Twin",
+        "Allemagne",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "wodtke",
+        "twin",
+        "allemagne",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-wodtke-twin.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-wodtke-twin.jpg",
+        "alt": "Poêle à bois Wodtke Twin de Wodtke",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/gvrpt9uqjge5",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-wodtke-twin.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-woody-grid",
+      "brand": "Fondis",
+      "manufacturer": "Thermocet",
+      "origin": "Pays-Bas",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Woody Grid",
+      "slug": "woody-grid",
+      "series": "Woody",
+      "seriesSlug": "woody",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poele-bois-woody/poele-a-bois-woody-grid/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle modulable Thermocet Woody Grid. Casiers carrés et rectangles interchangeables avec portes et étagères colorées (Blanc Lunaire, Bleu Glacier, Jaune Safran, Rouge Lie de vin, Gris anthracite). ~6 kW, 80%.",
+      "specs": {
+        "puissanceNominaleKw": "6",
+        "rendementPourcent": "80",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 380 mm x L 290 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Prise d'air extérieur",
+        "Casiers modulables carré/rectangle",
+        "Portes et étagères colorées"
+      ],
+      "technologies": "Design modulable",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/04q3687okykc",
+        "manuel": null
+      },
+      "tags": [
+        "Woody",
+        "Thermocet",
+        "Pays-Bas",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "woody",
+        "thermocet",
+        "pays-bas",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-woody-grid.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-woody-grid.jpg",
+        "alt": "Poêle à bois Thermocet Woody Grid",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/04q3687okykc",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-woody-grid.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-woody-loft",
+      "brand": "Fondis",
+      "manufacturer": "Thermocet",
+      "origin": "Pays-Bas",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Woody Loft",
+      "slug": "woody-loft",
+      "series": "Woody",
+      "seriesSlug": "woody",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poele-bois-woody/poele-a-bois-woody-loft/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle compact Thermocet gamme Woody Loft. ~6 kW, rendement 80%. Socle bois ou acier (4 options). Prise d'air extérieur. Raccordement dessus ou arrière. Bûches 25 cm.",
+      "specs": {
+        "puissanceNominaleKw": "6",
+        "rendementPourcent": "80",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "Dessus ou arrière",
+        "dimensions": "",
+        "dimensionsVitre": "H 400 mm x L 290 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Prise d'air extérieur",
+        "Socle interchangeable"
+      ],
+      "technologies": "Combustion performante",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/v6dtbfjb1u8c",
+        "manuel": null
+      },
+      "tags": [
+        "Woody",
+        "Thermocet",
+        "Pays-Bas",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "woody",
+        "thermocet",
+        "pays-bas",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-woody-loft.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-woody-loft.jpg",
+        "alt": "Poêle à bois Thermocet Woody Loft",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/v6dtbfjb1u8c",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-woody-loft.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-woody-loft-3s",
+      "brand": "Fondis",
+      "manufacturer": "Thermocet",
+      "origin": "Pays-Bas",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Woody Loft 3S",
+      "slug": "woody-loft-3s",
+      "series": "Woody",
+      "seriesSlug": "woody",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poele-bois-woody/poele-a-bois-woody-loft-3s/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Poêle Thermocet 3 faces vitrées. Double vitrage + verre latéral céramique HR. Système autonettoyant. Vue panoramique des flammes. Jeu de lumière par rainures latérales.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 454 mm x L 268 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Triple vue feu",
+        "Double vitrage",
+        "Verre céramique HR",
+        "Autonettoyant"
+      ],
+      "technologies": [
+        "3 faces vitrées",
+        "Verre céramique HR"
+      ],
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/bco2q3btooo7",
+        "manuel": null
+      },
+      "tags": [
+        "Woody",
+        "Thermocet",
+        "Pays-Bas",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "woody",
+        "thermocet",
+        "pays-bas",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-woody-loft-3s.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-woody-loft-3s.jpg",
+        "alt": "Poêle à bois Thermocet Woody Loft 3S",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/bco2q3btooo7",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-woody-loft-3s.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    },
+    {
+      "id": "fondis-poele-woody-orbit",
+      "brand": "Fondis",
+      "manufacturer": "Thermocet",
+      "origin": "Pays-Bas",
+      "category": "poeles-a-bois",
+      "categoryLabel": "Poêles à bois",
+      "availabilityForBce": "propose",
+      "name": "Woody Orbit",
+      "slug": "woody-orbit",
+      "series": "Woody",
+      "seriesSlug": "woody",
+      "subSeries": "",
+      "subSeriesSlug": "",
+      "sourceUrl": "https://fondis.com/poeles-a-bois/poele-bois-woody/poele-a-bois-woody-orbit/",
+      "sourceFetchedAt": "2026-05-03",
+      "description": "Nouveau poêle Thermocet 2025. Corps de chauffe Woody Loft. Socle Classic (minimaliste) ou Design (découpes géométriques). Rangement bois intégré au socle. Large vitre panoramique.",
+      "specs": {
+        "puissanceNominaleKw": "",
+        "rendementPourcent": "",
+        "poidsKg": "",
+        "volumeChauffageM3": "",
+        "sortieFumees": "",
+        "dimensions": "",
+        "dimensionsVitre": "H 401 mm x L 293 mm",
+        "ecodesign": true
+      },
+      "options": [
+        "Rangement bois intégré",
+        "Choix socle Classic ou Design"
+      ],
+      "technologies": "Corps chauffe Woody Loft éprouvé",
+      "documents": {
+        "ficheTechnique": "https://media.fondis.com/p/8huzpnrkab2g",
+        "manuel": null
+      },
+      "tags": [
+        "Woody",
+        "Thermocet",
+        "Pays-Bas",
+        "Poêles à bois",
+        "Fondis"
+      ],
+      "tagSlugs": [
+        "woody",
+        "thermocet",
+        "pays-bas",
+        "poeles-a-bois",
+        "fondis"
+      ],
+      "image": {
+        "url": "../../assets/products/fondis/fondis-poele-woody-orbit.jpg",
+        "thumbnail": "../../assets/products/fondis/fondis-poele-woody-orbit.jpg",
+        "alt": "Poêle à bois Thermocet Woody Orbit",
+        "width": null,
+        "height": null,
+        "source": "pdf-fondis",
+        "pdfSource": "https://media.fondis.com/p/8huzpnrkab2g",
+        "previousUrl": "../../assets/products/fondis/fondis-poele-woody-orbit.jpg"
+      },
+      "integrationNotes": "Fiche normalisee pour la future page Nos produits avec filtres categorie=poeles-a-bois, marque=Fondis, fabricant et serie."
+    }
+  ]
+}

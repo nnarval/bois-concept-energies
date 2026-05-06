@@ -1,0 +1,486 @@
+{
+  "meta": {
+    "marque": "Lasian",
+    "categorie": "poeles-a-granules",
+    "categorieLabel": "Poêles à granulés",
+    "sourceUrl": "https://lasian.es/fr/poeles-a-granules/",
+    "scrapedAt": "2025-05-03",
+    "totalProduits": 5,
+    "totalVariantes": 18,
+    "availabilityForBce": "propose",
+    "fabricant": "Lasian Tecnología del Calor S.L.",
+    "origine": "Espagne — Muel, Zaragoza",
+    "note": "Chaque modèle Lasian est disponible en plusieurs puissances ET plusieurs couleurs. La structure 'couleurs' est conçue pour alimenter un sélecteur de couleur interactif côté client — chaque couleur a son propre slug, imageUrl et imageUrlBg pour affichage en temps réel. Les produits 'variants' JSON représentent chaque combinaison modèle × puissance, avec le tableau 'couleurs' permettant le choix dynamique de finition."
+  },
+  "products": [
+    {
+      "id": "lasian-eriste",
+      "marque": "Lasian",
+      "fabricant": "Lasian",
+      "origine": "Espagne",
+      "categorie": "poeles-a-granules",
+      "categorieLabel": "Poêles à granulés",
+      "typeAppareil": "poele-a-granules-air",
+      "typeAppareilLabel": "Poêle à granulés à air",
+      "serie": "Poêles à air",
+      "nom": "Eriste",
+      "slug": "eriste",
+      "urlSource": "https://lasian.es/fr/poeles-a-granules/poeles-a-air/poeles-a-air-eriste/",
+      "imageUrl": "https://lasian.es/wp-content/uploads/2022/10/Eriste-lateral.png",
+      "imageThumbnail": "https://lasian.es/wp-content/uploads/2022/10/Eriste-lateral.png",
+      "descriptionCourte": "Poêle à granulés à air Eriste — Wifi intégré série, compatible Alexa & Google Home. Brûleur auto-nettoyant, échangeur fonte, chambre vermiculite. Entretien 1 fois par mois. Canalisable en option.",
+      "couleurParDefaut": "blanc-opaque",
+      "couleurs": [
+        {
+          "slug": "blanc-opaque",
+          "label": "Blanc opaque",
+          "labelEs": "Blanco opaco",
+          "hex": "#F5F5F5",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_blancoopaco_fon.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_blancoopaco_fon.png",
+          "disponible": true
+        },
+        {
+          "slug": "noir",
+          "label": "Noir",
+          "labelEs": "Negro",
+          "hex": "#1A1A1A",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_efectooxido_fon.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_efectooxido_fon.png",
+          "disponible": true
+        }
+      ],
+      "puissancesDisponibleskW": [8, 10, 12, 14],
+      "versionsSH": ["8 kW SH", "10 kW SH"],
+      "specifications": {
+        "puissanceskW": [8, 10, 12, 14],
+        "rendementPct": null,
+        "poidsKg": null,
+        "volumeChauffageM3": null,
+        "sortieFumees": null,
+        "dimensions": null,
+        "capaciteTremieKg": null,
+        "technologieCombustion": "EfiPLUS"
+      },
+      "equipementSerie": [
+        "Wifi intégré (Lasian Wi-Fi Control)",
+        "Compatible Alexa & Google Home",
+        "Chrono-thermostat hebdomadaire",
+        "Télécommande radio",
+        "Panneau de commande",
+        "Système vitre propre",
+        "Sécurité anti-déflagration",
+        "Brûleur auto-nettoyant",
+        "Échangeur en fonte",
+        "Chambre de combustion vermiculite",
+        "Nettoyage cendrier 1×/mois"
+      ],
+      "options": [
+        "Kit de canalisation indépendante",
+        "Thermostat indépendant radio"
+      ],
+      "technologies": ["EfiPLUS", "Brûleur auto-nettoyant", "Échangeur fonte", "Wifi série", "Alexa/Google Home"],
+      "canalisable": true,
+      "wifiSerie": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "documents": {
+        "catalogue": "https://lasian.es/wp-content/uploads/2024/03/IF-188.01_FR_Junio_23_Triptico-Estufas-Eriste-Aspe-Ara_FRANCES.pdf",
+        "manuelEriste8_10kW": "https://lasian.es/wp-content/uploads/2024/06/MN2112308-02_ESTUFAS-ASPE_ARA_ERISTE_8_10-KW-usuario-e-instalacion_ESP_FR_Feb24.pdf",
+        "manuelEriste12_14kW": "https://lasian.es/wp-content/uploads/2024/06/MN2112312_00_ESTUFAS-ASPE_ARA_ERISTE_12_14-KW-usuario-e-instalacion_ESP_FR_Ene24.pdf",
+        "manuelWifi": "https://lasian.es/wp-content/uploads/2024/02/MN90340-01_MANUAL-LASIAN-WiFi-CONTROL_ESP_FR_Ene24.pdf",
+        "ficheTechniqueEriste8_10kW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Eriste-21308-10_Francais.pdf",
+        "ficheTechniqueEriste8_10SHkW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Eriste-21308-10-SH_Francais.pdf",
+        "ficheTechniqueEriste12_14kW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Eriste-21312-14.pdf",
+        "ficheProduitEriste8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Ficha-producto-Estufa-ERISTE-8kW.pdf",
+        "ficheProduitEriste12_14kW": "https://lasian.es/wp-content/uploads/2023/11/Ficha-producto-Estufa-ERISTE-12-14-kW.pdf",
+        "etiquetteEnergieEriste8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Etiqueta-Energética-ERISTE-8kW.pdf",
+        "etiquetteEnergieEriste12_14kW": "https://lasian.es/wp-content/uploads/2023/11/Etiqueta-Energetica-ERISTE-12-14.pdf",
+        "declarationPerf8kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ERISTE-8-KW.pdf",
+        "declarationPerf10kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ERISTE-10-KW.pdf",
+        "declarationPerf12kW": "https://lasian.es/wp-content/uploads/2023/11/Declaracion-de-Prestaciones-ERISTE-12-KW.pdf",
+        "declarationPerf14kW": "https://lasian.es/wp-content/uploads/2023/11/Declaracion-de-Prestaciones-ERISTE-14-KW.pdf",
+        "declarationConformite8_10kW": "https://lasian.es/wp-content/uploads/2024/03/Declaracion-Conformidad-Ecodiseno_Estufas-ERISTE_FR.pdf",
+        "declarationConformite12_14kW": "https://lasian.es/wp-content/uploads/2024/03/Declaracion-Conformidad-Ecodiseno_Estufas-ERISTE-12-14_FR.pdf"
+      }
+    },
+    {
+      "id": "lasian-aspe",
+      "marque": "Lasian",
+      "fabricant": "Lasian",
+      "origine": "Espagne",
+      "categorie": "poeles-a-granules",
+      "categorieLabel": "Poêles à granulés",
+      "typeAppareil": "poele-a-granules-air",
+      "typeAppareilLabel": "Poêle à granulés à air",
+      "serie": "Poêles à air",
+      "nom": "Aspe",
+      "slug": "aspe",
+      "urlSource": "https://lasian.es/fr/poeles-a-granules/poeles-a-air/poele-a-air-aspe/",
+      "imageUrl": "https://lasian.es/wp-content/uploads/2022/10/Aspe-oxido.jpg",
+      "imageThumbnail": "https://lasian.es/wp-content/uploads/2022/10/Aspe-oxido.jpg",
+      "descriptionCourte": "Poêle à granulés à air Aspe — 3 finitions au choix (blanc, rouille, noir). Wifi intégré série, compatible Alexa & Google Home. Brûleur auto-nettoyant, échangeur fonte. Entretien 1×/mois.",
+      "couleurParDefaut": "effet-rouille",
+      "couleurs": [
+        {
+          "slug": "blanc-opaque",
+          "label": "Blanc opaque",
+          "labelEs": "Blanco opaco",
+          "hex": "#F5F5F5",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_blancoopaco_fon.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_blancoopaco_fon.png",
+          "disponible": true
+        },
+        {
+          "slug": "effet-rouille",
+          "label": "Effet rouille",
+          "labelEs": "Efecto óxido",
+          "hex": "#8B4513",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2022/10/Aspe-oxido.jpg",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_efectooxido_fon.png",
+          "disponible": true
+        },
+        {
+          "slug": "noir",
+          "label": "Noir",
+          "labelEs": "Negro",
+          "hex": "#1A1A1A",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_negro_fon.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_negro_fon.png",
+          "disponible": true
+        }
+      ],
+      "puissancesDisponibleskW": [8, 10, 12, 14],
+      "specifications": {
+        "puissanceskW": [8, 10, 12, 14],
+        "rendementPct": null,
+        "poidsKg": null,
+        "volumeChauffageM3": null,
+        "sortieFumees": null,
+        "dimensions": null,
+        "technologieCombustion": "EfiPLUS"
+      },
+      "equipementSerie": [
+        "Wifi intégré (Lasian Wi-Fi Control)",
+        "Compatible Alexa & Google Home",
+        "Chrono-thermostat hebdomadaire",
+        "Télécommande radio",
+        "Panneau de commande",
+        "Système vitre propre",
+        "Sécurité anti-déflagration",
+        "Brûleur auto-nettoyant",
+        "Échangeur en fonte",
+        "Chambre de combustion vermiculite",
+        "Nettoyage cendrier 1×/mois"
+      ],
+      "options": [
+        "Kit de canalisation indépendante",
+        "Thermostat indépendant radio"
+      ],
+      "technologies": ["EfiPLUS", "Brûleur auto-nettoyant", "Échangeur fonte", "Wifi série", "Alexa/Google Home"],
+      "canalisable": true,
+      "wifiSerie": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "documents": {
+        "catalogue": "https://lasian.es/wp-content/uploads/2024/03/IF-188.01_FR_Junio_23_Triptico-Estufas-Eriste-Aspe-Ara_FRANCES.pdf",
+        "manuelAspe8_10kW": "https://lasian.es/wp-content/uploads/2024/06/MN2112308-02_ESTUFAS-ASPE_ARA_ERISTE_8_10-KW-usuario-e-instalacion_ESP_FR_Feb24.pdf",
+        "manuelAspe12_14kW": "https://lasian.es/wp-content/uploads/2024/06/MN2112312_00_ESTUFAS-ASPE_ARA_ERISTE_12_14-KW-usuario-e-instalacion_ESP_FR_Ene24.pdf",
+        "manuelWifi": "https://lasian.es/wp-content/uploads/2024/02/MN90340-01_MANUAL-LASIAN-WiFi-CONTROL_ESP_FR_Ene24.pdf",
+        "ficheTechniqueAspe8_10kW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Aspe-21108-10_Francais.pdf",
+        "ficheTechniqueAspe12_14kW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Aspe-21112-14_Francais.pdf",
+        "ficheProduitAspe8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Ficha-producto-Estufa-ASPE-8kW.pdf",
+        "ficheProduitAspe12_14kW": "https://lasian.es/wp-content/uploads/2023/11/Ficha-producto-Estufa-ASPE-12-14-kW.pdf",
+        "etiquetteEnergieAspe8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Etiqueta-Energética-ASPE-8kW-.pdf",
+        "etiquetteEnergieAspe12_14kW": "https://lasian.es/wp-content/uploads/2023/11/Etiqueta-Energetica-ASPE-12-14.pdf",
+        "declarationPerf8kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ASPE-8-KW.pdf",
+        "declarationPerf10kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ASPE-10-KW.pdf",
+        "declarationPerf12kW": "https://lasian.es/wp-content/uploads/2023/11/Declaracion-de-Prestaciones-ASPE-12-KW.pdf",
+        "declarationPerf14kW": "https://lasian.es/wp-content/uploads/2023/11/Declaracion-de-Prestaciones-ASPE-14-KW.pdf",
+        "declarationConformite8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ASPE-10-KW.pdf",
+        "declarationConformite12_14kW": "https://lasian.es/wp-content/uploads/2024/03/Declaracion-Conformidad-Ecodiseno_Estufas-ASPE_FR.pdf"
+      }
+    },
+    {
+      "id": "lasian-ara",
+      "marque": "Lasian",
+      "fabricant": "Lasian",
+      "origine": "Espagne",
+      "categorie": "poeles-a-granules",
+      "categorieLabel": "Poêles à granulés",
+      "typeAppareil": "poele-a-granules-air",
+      "typeAppareilLabel": "Poêle à granulés à air",
+      "serie": "Poêles à air",
+      "nom": "Ara",
+      "slug": "ara",
+      "urlSource": "https://lasian.es/fr/poeles-a-granules/poeles-a-air/poele-a-air-ara/",
+      "imageUrl": "https://lasian.es/wp-content/uploads/2022/10/Ara-blanco.jpg",
+      "imageThumbnail": "https://lasian.es/wp-content/uploads/2022/10/Ara-blanco.jpg",
+      "descriptionCourte": "Poêle à granulés à air Ara — design contemporain, 3 finitions au choix. Wifi série, Alexa/Google Home, brûleur auto-nettoyant. Canalisable. Entretien 1×/mois.",
+      "couleurParDefaut": "blanc-opaque",
+      "couleurs": [
+        {
+          "slug": "blanc-opaque",
+          "label": "Blanc opaque",
+          "labelEs": "Blanco opaco",
+          "hex": "#F5F5F5",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2022/10/Ara-blanco.jpg",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_blancoopaco_fon.png",
+          "disponible": true
+        },
+        {
+          "slug": "effet-rouille",
+          "label": "Effet rouille",
+          "labelEs": "Efecto óxido",
+          "hex": "#8B4513",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_efectooxido_fon.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_efectooxido_fon.png",
+          "disponible": true
+        },
+        {
+          "slug": "noir",
+          "label": "Noir",
+          "labelEs": "Negro",
+          "hex": "#1A1A1A",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_negro_fon.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/qube_10kW_negro_fon.png",
+          "disponible": true
+        }
+      ],
+      "puissancesDisponibleskW": [8, 10, 12],
+      "versionsSH": ["8 kW SH", "10 kW SH"],
+      "specifications": {
+        "puissanceskW": [8, 10, 12],
+        "rendementPct": null,
+        "poidsKg": null,
+        "volumeChauffageM3": null,
+        "sortieFumees": null,
+        "dimensions": null,
+        "technologieCombustion": "EfiPLUS"
+      },
+      "equipementSerie": [
+        "Wifi intégré (Lasian Wi-Fi Control)",
+        "Compatible Alexa & Google Home",
+        "Chrono-thermostat hebdomadaire",
+        "Télécommande radio",
+        "Panneau de commande",
+        "Système vitre propre",
+        "Sécurité anti-déflagration",
+        "Brûleur auto-nettoyant",
+        "Échangeur en fonte",
+        "Chambre de combustion vermiculite",
+        "Nettoyage cendrier 1×/mois"
+      ],
+      "options": [
+        "Kit de canalisation indépendante",
+        "Thermostat indépendant radio"
+      ],
+      "technologies": ["EfiPLUS", "Brûleur auto-nettoyant", "Échangeur fonte", "Wifi série", "Alexa/Google Home"],
+      "canalisable": true,
+      "wifiSerie": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "documents": {
+        "catalogue": "https://lasian.es/wp-content/uploads/2024/03/IF-188.01_FR_Junio_23_Triptico-Estufas-Eriste-Aspe-Ara_FRANCES.pdf",
+        "manuelAra8_10kW": "https://lasian.es/wp-content/uploads/2024/06/MN2112308-02_ESTUFAS-ASPE_ARA_ERISTE_8_10-KW-usuario-e-instalacion_ESP_FR_Feb24.pdf",
+        "manuelAra12_14kW": "https://lasian.es/wp-content/uploads/2024/06/MN2112312_00_ESTUFAS-ASPE_ARA_ERISTE_12_14-KW-usuario-e-instalacion_ESP_FR_Ene24.pdf",
+        "manuelWifi": "https://lasian.es/wp-content/uploads/2024/02/MN90340-01_MANUAL-LASIAN-WiFi-CONTROL_ESP_FR_Ene24.pdf",
+        "ficheTechniqueAra8_10kW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Ara-21208-10_Francais.pdf",
+        "ficheTechniqueAra8_10SHkW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Ara-21208-10-SH_Francais.pdf",
+        "ficheTechniqueAra12_14kW": "https://lasian.es/wp-content/uploads/2024/03/FM-127-00_Ara-21212-14_Francais.pdf",
+        "ficheProduitAra8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Ficha-producto-Estufa-ARA-8kW.pdf",
+        "ficheProduitAra12_14kW": "https://lasian.es/wp-content/uploads/2023/11/Ficha-producto-Estufa-ARA-12-14-kW.pdf",
+        "etiquetteEnergieAra8_10kW": "https://lasian.es/wp-content/uploads/2022/10/Etiqueta-Energética-ARA-8kW.pdf",
+        "etiquetteEnergieAra12_14kW": "https://lasian.es/wp-content/uploads/2023/11/Etiqueta-Energetica-ARA-12-14.pdf",
+        "declarationPerf8kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ARA-8-KW.pdf",
+        "declarationPerf10kW": "https://lasian.es/wp-content/uploads/2022/10/Declaración-de-Prestaciones-ARA-10-KW.pdf",
+        "declarationPerf12kW": "https://lasian.es/wp-content/uploads/2023/11/Declaracion-de-Prestaciones-ARA-12-KW.pdf",
+        "declarationPerf14kW": "https://lasian.es/wp-content/uploads/2023/11/Declaracion-de-Prestaciones-ARA-14-KW.pdf",
+        "declarationConformite8_10kW": "https://lasian.es/wp-content/uploads/2024/03/Declaracion-Conformidad-Ecodiseno_Estufas-ARA_FR.pdf",
+        "declarationConformite12_14kW": "https://lasian.es/wp-content/uploads/2024/03/Declaracion-Conformidad-Ecodiseno_Estufas-ASPE-12-14_FR.pdf"
+      }
+    },
+    {
+      "id": "lasian-audax",
+      "marque": "Lasian",
+      "fabricant": "Lasian",
+      "origine": "Espagne",
+      "categorie": "poeles-a-granules",
+      "categorieLabel": "Poêles à granulés",
+      "typeAppareil": "poele-a-granules-air-etanche",
+      "typeAppareilLabel": "Poêle à granulés à air étanche",
+      "serie": "Audax",
+      "nom": "Audax",
+      "slug": "audax",
+      "urlSource": "https://lasian.es/fr/poeles-a-granules/poeles-a-air/poeles-a-air-audax/",
+      "imageUrl": "https://lasian.es/wp-content/uploads/2022/10/Menu-Audax2022.jpg",
+      "imageThumbnail": "https://lasian.es/wp-content/uploads/2022/10/Menu-Audax2022.jpg",
+      "descriptionCourte": "Poêle à granulés étanche Audax — foyer étanche (indépendant air ambiant), idéal maisons BBC/RE2020. 3 coloris au choix. Wifi en option. Chrono-thermostat hebdomadaire série.",
+      "badge": "ÉTANCHE",
+      "couleurParDefaut": "blanc-opaque",
+      "couleurs": [
+        {
+          "slug": "blanc-opaque",
+          "label": "Blanc opaque",
+          "labelEs": "Blanco opaco",
+          "hex": "#F5F5F5",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/audax_blanco-opaco.jpg",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/audax_blanco-opaco.jpg",
+          "disponible": true
+        },
+        {
+          "slug": "bordeaux",
+          "label": "Bordeaux",
+          "labelEs": "Burdeos",
+          "hex": "#7B1D3C",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/audax_burdeos.jpg",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/audax_burdeos.jpg",
+          "disponible": true
+        },
+        {
+          "slug": "noir",
+          "label": "Noir",
+          "labelEs": "Negro",
+          "hex": "#1A1A1A",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/audax_negro.jpg",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/audax_negro.jpg",
+          "disponible": true
+        }
+      ],
+      "puissancesDisponibleskW": [6, 8, 10],
+      "specifications": {
+        "puissanceskW": [6, 8, 10],
+        "rendementPct": null,
+        "poidsKg": null,
+        "volumeChauffageM3": null,
+        "sortieFumees": null,
+        "dimensions": null,
+        "technologieCombustion": "EfiPLUS",
+        "typeEtancheite": "Foyer étanche — indépendant de l'air ambiant"
+      },
+      "equipementSerie": [
+        "Foyer étanche (indépendant air ambiant)",
+        "Chrono-thermostat hebdomadaire",
+        "Système vitre propre",
+        "Sécurité anti-déflagration",
+        "EfiPLUS technologie régulation"
+      ],
+      "options": [
+        "Module Wifi Lasian",
+        "Modem GSM Lasian (sans connexion internet)"
+      ],
+      "technologies": ["EfiPLUS", "Foyer étanche", "Chrono-thermostat", "Wifi option"],
+      "canalisable": false,
+      "wifiSerie": false,
+      "wifiOption": true,
+      "etanche": true,
+      "compatibleBBC": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "documents": {
+        "catalogue": "https://lasian.es/wp-content/uploads/2022/10/IF-160.03_Triptico-LASIAN-AUDAX_Julio-2022.pdf",
+        "manuelAudaxEtanche": "https://lasian.es/wp-content/uploads/2024/02/MN214BF-00_POELE-ETANCHE-6_8_10-KW-utiliasateur-et-installation_Fev24.pdf",
+        "ficheProduit": "https://lasian.es/wp-content/uploads/2022/10/Ficha-producto-Estufa-AUDAX.pdf",
+        "ficheTechnique": "https://lasian.es/wp-content/uploads/2023/03/FM-127-00_Audax-2319-27_01_Francais.pdf",
+        "etiquetteEnergie": "https://lasian.es/wp-content/uploads/2022/01/Etiqueta-Energetica-AUDAX.pdf",
+        "declarationPerf6kW": "https://lasian.es/wp-content/uploads/2022/01/Declaracion-de-Prestaciones-AUDAX-6-kW.pdf",
+        "declarationPerf8kW": "https://lasian.es/wp-content/uploads/2022/01/Declaracion-de-Prestaciones-AUDAX-8-kW.pdf",
+        "declarationPerf10kW": "https://lasian.es/wp-content/uploads/2022/01/Declaracion-de-Prestaciones-AUDAX-10-kW.pdf"
+      }
+    },
+    {
+      "id": "lasian-sigma",
+      "marque": "Lasian",
+      "fabricant": "Lasian",
+      "origine": "Espagne",
+      "categorie": "poeles-a-granules",
+      "categorieLabel": "Poêles à granulés",
+      "typeAppareil": "poele-a-granules-hydro",
+      "typeAppareilLabel": "Poêle à granulés hydro (eau)",
+      "serie": "Sigma",
+      "nom": "Sigma",
+      "slug": "sigma",
+      "urlSource": "https://lasian.es/fr/poeles-a-granules/poeles-hydro/poeles-hydro-sigma/",
+      "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/fondo_presentacion_hydro-2.png",
+      "imageThumbnail": "https://lasian.es/wp-content/uploads/2020/07/fondo_presentacion_hydro-2.png",
+      "descriptionCourte": "Poêle hydro Sigma — échange air-eau, raccordement radiateurs/plancher chauffant. 15-18-24 kW. 4 finitions. EfiPLUS + nettoyage automatique EVO. Wifi en option.",
+      "couleurParDefaut": "blanc-opaque",
+      "couleurs": [
+        {
+          "slug": "blanc-opaque",
+          "label": "Blanc opaque",
+          "labelEs": "Blanco opaco",
+          "hex": "#F5F5F5",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_blanco-opaco.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_blanco-opaco.png",
+          "disponible": true
+        },
+        {
+          "slug": "effet-rouille",
+          "label": "Effet rouille",
+          "labelEs": "Efecto óxido",
+          "hex": "#8B4513",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_efecto-oxido.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_efecto-oxido.png",
+          "disponible": true
+        },
+        {
+          "slug": "noir",
+          "label": "Noir",
+          "labelEs": "Negro",
+          "hex": "#1A1A1A",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_negro.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_negro.png",
+          "disponible": true
+        },
+        {
+          "slug": "groseille-rouge",
+          "label": "Groseille rouge",
+          "labelEs": "Rojo corinto",
+          "hex": "#C0392B",
+          "imageUrl": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_rojo-corinto.png",
+          "imageUrlBg": "https://lasian.es/wp-content/uploads/2020/07/hydro_sigma_rojo-corinto.png",
+          "disponible": true
+        }
+      ],
+      "puissancesDisponibleskW": [15, 18, 24],
+      "specifications": {
+        "puissanceskW": [15, 18, 24],
+        "rendementPct": null,
+        "poidsKg": null,
+        "volumeChauffageM3": null,
+        "sortieFumees": null,
+        "dimensions": null,
+        "typeEchangeur": "Eau (hydro)",
+        "compatibilite": ["Radiateurs", "Plancher chauffant", "Ballon ECS"],
+        "technologieCombustion": "EfiPLUS",
+        "systemNettoyage": "EVO automatique"
+      },
+      "equipementSerie": [
+        "EfiPLUS (régulation combustion optimale)",
+        "Système de nettoyage automatique EVO",
+        "Chrono-thermostat hebdomadaire",
+        "Système vitre propre",
+        "Sécurité anti-déflagration"
+      ],
+      "options": [
+        "Module Wifi Lasian Wi-Fi Control"
+      ],
+      "technologies": ["EfiPLUS", "EVO nettoyage automatique", "Échange air-eau", "Wifi option"],
+      "canalisable": false,
+      "wifiSerie": false,
+      "wifiOption": true,
+      "typeHydro": true,
+      "ecodesign": true,
+      "availabilityForBce": "propose",
+      "documents": {
+        "catalogue": "https://lasian.es/wp-content/uploads/2023/03/Catalogue-Sigma.pdf",
+        "manuelSigma": "https://lasian.es/wp-content/uploads/2023/03/59940F-01_ESTUFAS-HYDRO-SIGMA_ONIX_BASIC_EVO-usuario-e-instalacion_Ene22.pdf",
+        "ficheProduit": "https://lasian.es/wp-content/uploads/2022/01/Ficha-producto-Estufa-SIGMA.pdf",
+        "ficheTechnique": "https://lasian.es/wp-content/uploads/2023/03/FM-127-00_Sigma_01_Francais.pdf",
+        "etiquetteEnergie": "https://lasian.es/wp-content/uploads/2022/01/Etiqueta-Energetica-SIGMA.pdf",
+        "declarationConformite": "https://lasian.es/wp-content/uploads/2022/01/Declaracion-Conformidad-SIGMA.pdf"
+      }
+    }
+  ]
+}

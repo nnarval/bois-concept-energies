@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Inputs</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px 32px;background:var(--bg);min-height:150px;display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  label{display:flex;flex-direction:column;gap:6px;font-family:var(--font-body);font-size:13px;font-weight:600;color:var(--fg-2)}
+  input,select{font-family:var(--font-body);font-size:16px;padding:12px 14px;background:var(--surface);border:var(--border-soft);border-radius:var(--radius-sm);color:var(--ink);transition:border-color var(--dur-base) var(--ease)}
+  input:focus,select:focus{outline:none;border-color:var(--leaf)}
+</style></head><body>
+  <label>Nom complet<input placeholder="Marie Dubois"></label>
+  <label>Téléphone<input placeholder="06 12 34 56 78"></label>
+  <label>Type de projet<select><option>Poêle à granulés</option><option>Poêle à bois</option><option>Insert</option></select></label>
+  <label>Code postal<input value="82800" style="border-color:var(--leaf)"></label>
+</body></html>

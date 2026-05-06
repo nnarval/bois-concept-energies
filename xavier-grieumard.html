@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Xavier Grieumard, fondateur de Bois Concept Énergies</title>
+  <meta name="description" content="Présentation de Xavier Grieumard, fondateur de Bois Concept Énergies, artisan spécialisé depuis 15 ans dans les solutions de chauffage bois et granulés.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://www.boisconceptenergies.fr/xavier-grieumard">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Xavier Grieumard | Bois Concept Énergies">
+  <meta property="og:description" content="Artisan du chauffage bois et granulés, fondateur de Bois Concept Énergies à Nègrepelisse.">
+  <meta property="og:url" content="https://www.boisconceptenergies.fr/xavier-grieumard">
+  <meta property="og:image" content="https://www.boisconceptenergies.fr/assets/logo/bce-logo-final-transparent.png">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="colors_and_type.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body { margin: 0; }
+    .founder-header {
+      background: var(--ink);
+      color: var(--bg);
+      padding: 28px 32px;
+    }
+    .founder-nav {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+    .founder-logo {
+      display: block;
+      width: 150px;
+      height: auto;
+    }
+    .founder-back {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 18px;
+      border: 1px solid rgba(245,241,234,0.34);
+      border-radius: var(--radius-sm);
+      color: var(--bg);
+      font-size: 14px;
+      font-weight: 600;
+      border-bottom: 1px solid rgba(245,241,234,0.34);
+    }
+    .founder-back:hover {
+      color: var(--bg);
+      border-color: var(--bg);
+    }
+    .founder-hero {
+      background: var(--ink);
+      color: var(--bg);
+      padding: 112px 32px 120px;
+      border-bottom: 1px solid rgba(232,226,212,0.16);
+    }
+    .founder-hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 0.95fr 1.15fr;
+      gap: 88px;
+      align-items: end;
+    }
+    .founder-hero h1 {
+      color: var(--bg);
+      max-width: 11ch;
+      margin-top: 18px;
+      margin-bottom: 24px;
+    }
+    .founder-hero p {
+      color: #E8E2D4;
+      max-width: 620px;
+    }
+    .founder-portrait {
+      min-height: 460px;
+      border: 1px solid rgba(232,226,212,0.18);
+      border-radius: var(--radius-md);
+      background:
+        linear-gradient(135deg, rgba(70,130,27,0.16), transparent 38%),
+        linear-gradient(180deg, #2A2A2A, #151515);
+      display: flex;
+      align-items: flex-end;
+      padding: 28px;
+      overflow: hidden;
+    }
+    .founder-portrait span {
+      display: inline-flex;
+      padding: 8px 12px;
+      border-radius: var(--radius-pill);
+      background: rgba(245,241,234,0.1);
+      color: #C9C2B3;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .founder-portrait strong {
+      display: block;
+      margin-top: 14px;
+      max-width: 340px;
+      color: var(--bg);
+      font-family: var(--font-display);
+      font-size: 36px;
+      font-weight: 400;
+      line-height: 1.12;
+    }
+    .founder-main {
+      background: var(--bg);
+    }
+    .founder-section {
+      padding: 96px 32px;
+      border-bottom: 1px solid var(--sand);
+    }
+    .founder-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 0.8fr 1.2fr;
+      gap: 80px;
+      align-items: start;
+    }
+    .founder-copy p {
+      color: var(--fg-2);
+      font-size: 17px;
+      line-height: 1.75;
+    }
+    .founder-card-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-top: 36px;
+    }
+    .founder-card {
+      background: var(--surface);
+      border: 1px solid var(--sand);
+      border-radius: var(--radius-md);
+      padding: 24px;
+    }
+    .founder-card h3 {
+      font-size: 23px;
+      margin-bottom: 10px;
+    }
+    .founder-card p {
+      margin: 0;
+      color: var(--fg-2);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+    .founder-note {
+      margin-top: 28px;
+      padding: 18px 20px;
+      background: var(--surface);
+      border: 1px solid var(--sand);
+      border-left: 3px solid var(--leaf);
+      border-radius: var(--radius-sm);
+      color: var(--fg-2);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+    .founder-cta {
+      min-height: 48px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 28px;
+      padding: 0 20px;
+      border-radius: var(--radius-sm);
+      background: var(--ink);
+      color: var(--bg);
+      border-bottom: none;
+      font-size: 14px;
+      font-weight: 700;
+    }
+    .founder-cta:hover {
+      color: var(--bg);
+      transform: translateY(-1px);
+    }
+    .founder-footer {
+      background: var(--ink);
+      color: #8A8A85;
+      padding: 32px;
+      font-size: 12px;
+    }
+    .founder-footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+    @media (max-width: 900px) {
+      .founder-hero-inner,
+      .founder-inner {
+        grid-template-columns: 1fr;
+        gap: 42px;
+      }
+      .founder-card-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    @media (max-width: 720px) {
+      .founder-header,
+      .founder-hero,
+      .founder-section,
+      .founder-footer {
+        padding-left: 24px;
+        padding-right: 24px;
+      }
+      .founder-nav {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+      .founder-logo { width: 132px; }
+      .founder-portrait { min-height: 340px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="founder-header">
+    <nav class="founder-nav" aria-label="Navigation fondateur">
+      <a href="index.html" aria-label="Retour à l'accueil">
+        <img class="founder-logo" src="assets/logo/bce-logo-final-knockout-header.png" alt="Bois Concept Énergies">
+      </a>
+      <a class="founder-back" href="index.html">Retour au site</a>
+    </nav>
+  </header>
+
+  <section class="founder-hero">
+    <div class="founder-hero-inner">
+      <div>
+        <span class="eyebrow" style="color: var(--leaf-3)">Fondateur</span>
+        <h1>Xavier Grieumard.</h1>
+        <p class="lead">Fondateur de Bois Concept Énergies, Xavier Grieumard accompagne les particuliers depuis 15 ans dans le choix, l’installation et le suivi de leur chauffage bois ou granulés.</p>
+      </div>
+      <div class="founder-portrait" aria-label="Emplacement portrait de Xavier Grieumard">
+        <div>
+          <span>15 ans de terrain</span>
+          <strong>Un parcours construit autour du geste, du conseil et du chauffage juste.</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="founder-main">
+    <section class="founder-section">
+      <div class="founder-inner">
+        <div>
+          <span class="eyebrow">Présentation</span>
+          <h2>Un artisan du chauffage, proche du terrain.</h2>
+        </div>
+        <div class="founder-copy">
+          <p>Xavier Grieumard s’est lancé il y a 15 ans dans le domaine du chauffage bois et granulés. Depuis ses débuts, il garde une approche simple : comprendre le logement, écouter l’usage réel du client, puis proposer une solution adaptée plutôt qu’un appareil choisi au hasard.</p>
+          <p>Proche de l’artisanat, il a toujours accordé de l’importance au travail bien fait, aux détails de pose et à la qualité du conseil. Avec les années, il s’est perfectionné dans la fumisterie, le raccordement, la mise en service et le suivi des installations.</p>
+          <p>Aujourd’hui, cette expérience structure la manière de travailler de BCE : sélectionner les bons équipements, installer proprement, expliquer le fonctionnement et rester disponible après la pose.</p>
+          <div class="founder-note">Son objectif : offrir à chaque client le chauffage dont il a besoin, avec une installation cohérente, durable et adaptée à son quotidien.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="founder-section">
+      <div class="founder-inner">
+        <div>
+          <span class="eyebrow">Méthode</span>
+          <h2>Une façon de travailler claire.</h2>
+        </div>
+        <div>
+          <div class="founder-card-grid">
+            <article class="founder-card">
+              <h3>Conseiller avant de vendre</h3>
+              <p>Chaque projet commence par le besoin réel : volume à chauffer, habitudes de vie, conduit existant, budget et niveau d’autonomie souhaité.</p>
+            </article>
+            <article class="founder-card">
+              <h3>Savoir-faire</h3>
+              <p>La pose, le raccordement, la mise en service et les réglages sont pensés pour obtenir une installation propre, fiable et conforme.</p>
+            </article>
+            <article class="founder-card">
+              <h3>Suivi durable</h3>
+              <p>BCE accompagne les clients après l’installation, notamment pour le bon usage de l’appareil et l’entretien des équipements posés par l’entreprise.</p>
+            </article>
+          </div>
+          <a class="founder-cta" href="index.html#contact">Parler de votre projet</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="founder-footer">
+    <div class="founder-footer-inner">
+      <span>© 2026 Bois Concept Énergies · Tous droits réservés</span>
+      <span>Certifié RGE Qualibois · SIRET à compléter</span>
+    </div>
+  </footer>
+</body>
+</html>
+
+

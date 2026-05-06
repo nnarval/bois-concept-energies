@@ -1,0 +1,2430 @@
+﻿{
+    "generatedAt":  "2026-05-03 19:00:47",
+    "source":  "https://termatech.com/fr/poele-a-bois/",
+    "brand":  "TermaTech",
+    "category":  "poeles-a-bois",
+    "totalProducts":  49,
+    "filters":  {
+                    "brands":  [
+                                   "TermaTech"
+                               ],
+                    "categories":  [
+                                       {
+                                           "id":  "poeles-a-bois",
+                                           "label":  "Poêles à bois"
+                                       }
+                                   ],
+                    "series":  [
+                                   {
+                                       "id":  "serie-tt20",
+                                       "label":  "Série TT20",
+                                       "sourceId":  379,
+                                       "count":  2
+                                   },
+                                   {
+                                       "id":  "serie-tt21",
+                                       "label":  "Série TT21",
+                                       "sourceId":  380,
+                                       "count":  16
+                                   },
+                                   {
+                                       "id":  "serie-tt22",
+                                       "label":  "Série TT22",
+                                       "sourceId":  381,
+                                       "count":  8
+                                   },
+                                   {
+                                       "id":  "serie-tt23",
+                                       "label":  "Série TT23",
+                                       "sourceId":  382,
+                                       "count":  4
+                                   },
+                                   {
+                                       "id":  "serie-tt30",
+                                       "label":  "Série TT30",
+                                       "sourceId":  383,
+                                       "count":  3
+                                   },
+                                   {
+                                       "id":  "serie-tt44",
+                                       "label":  "Série TT44",
+                                       "sourceId":  787,
+                                       "count":  7
+                                   },
+                                   {
+                                       "id":  "serie-tt55",
+                                       "label":  "Série TT55",
+                                       "sourceId":  663,
+                                       "count":  4
+                                   },
+                                   {
+                                       "id":  "serie-tt80",
+                                       "label":  "Série TT80",
+                                       "sourceId":  385,
+                                       "count":  4
+                                   },
+                                   {
+                                       "id":  "tt23rg-a-flame-serie",
+                                       "label":  "TT23RG A-Flame",
+                                       "sourceId":  1243,
+                                       "count":  1
+                                   }
+                               ]
+                },
+    "products":  [
+                     {
+                         "id":  "termatech-tt20bazic-r",
+                         "sourceId":  9760,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT20BAZIC R",
+                         "slug":  "tt20bazic-r",
+                         "series":  "Série TT20",
+                         "seriesSlug":  "serie-tt20",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt20bazic-r/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT20 Bazic R, avec ses parois arrondies, est le dernier né notre gamme de poêles à bois la plus vendue. Il permet de bénéficier d\u0027un foyer conforme aux exigences européennes les plus strictes dans un poêle très facile d\u0027utilisation. Sa poignée refroidie par convection permet d\u0027utiliser le poêle sans gant de protection. Le TT20Bazic […]",
+                         "specs":  {
+                                       "poidsKg":  "99",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plaque de fi nition pour fl exible d\u0027air, Plaque d\u0027obturation",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Petits poêles",
+                                      "Poêles à côtés arrondis",
+                                      "Orangerie",
+                                      "Série TT20"
+                                  ],
+                         "tagSlugs":  [
+                                          "petits-poeles",
+                                          "poeles-a-cotes-arrondis",
+                                          "orangerie",
+                                          "serie-tt20"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT20BAZIC-R_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt20r",
+                         "sourceId":  9769,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT20R",
+                         "slug":  "tt20r",
+                         "series":  "Série TT20",
+                         "seriesSlug":  "serie-tt20",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt20r/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Forme elliptique, un choix toujours très populaire. Les parois arrondies en acier créent un ensemble harmonieux et apaisant qui s\u0027adapte aussi bien devant un mur droit que dans un angle, à la plupart des intérieurs. Sa forme elliptique est intemporelle, et la combinaison d\u0027une qualité exceptionnelle, d\u0027une grande facilité d\u0027utilisation, et d\u0027un tarif très abordable, […]",
+                         "specs":  {
+                                       "poidsKg":  "117",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plaque de fi nition pour fl exible d\u0027air, Serviteur Porte cache-bûches, pivot. 360° (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Série TT20"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt20"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT20R_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21-classic",
+                         "sourceId":  59166,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21 Classic",
+                         "slug":  "tt21-classic",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21-classic/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21 Classic offre à la fois une qualité supérieure et les fonctionnalités essentielles à un prix très abordable. Son design arrondi en forme d\u0027amande permet de placer le TT21 Classic aussi bien contre un mur droit que dans un angle. Les formes douces se retrouvent dans l\u0027extérieur rustique de la porte en fonte, tout […]",
+                         "specs":  {
+                                       "poidsKg":  "103",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air/travers mur Ø80 mm Eco, Kit air/travers mur Ø80 mm, Kit air/travers sol Ø80/100mm, Poignée inox",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "direct",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "direct",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2026/03/TT21-Classic-transparent.webp",
+                                       "alt":  "",
+                                       "width":  1400,
+                                       "height":  1400
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21r",
+                         "sourceId":  9772,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21R",
+                         "slug":  "tt21r",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21r/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "La forme elliptique du TT21R s\u0027inspire de l\u0027ADN de la gamme TT20 bien connue et prouvée, mais dans cette série mis à jour avec un plateau supérieur et la porte tout en fonte. On retrouve les formes arrondies dans l\u0027élégante porte, qui se ferme à l\u0027aide de deux aimants thermorésistants. Ce système de fermeture permet […]",
+                         "specs":  {
+                                       "poidsKg":  "126",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "direct",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "direct",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21R_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rh",
+                         "sourceId":  9773,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RH",
+                         "slug":  "tt21rh",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rh/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Finesse et élégance sont les principales caractéristiques du TT21RH. L\u0027essence de son design repose sur la demande croissante pour un foyer surélevé, qui permet d\u0027observer plus facilement les flammes captivantes. Cette version allongée confère de la légèreté au modèle, et la porte cache-bûches permet de ranger un serviteur (option) au dos du cache.",
+                         "specs":  {
+                                       "poidsKg":  "136",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RH_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rhs",
+                         "sourceId":  9774,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RHS, Pierre ollaire",
+                         "slug":  "tt21rhs",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rhs/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RHS est le modèle phare de la gamme TT21. Les images parlent d\u0027elles-mêmes, mais parmi les nombreux avantages de ce poêle, nous ne pouvons manquer de mentionner l\u0027abondance de pierre ollaire et les lignes pures et intemporelles. Le TT21RHS est de série livré avec une porte en acier pratique pour le compartiment à bûches. […]",
+                         "specs":  {
+                                       "poidsKg":  "189",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "direct",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "direct",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RHS-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rhs-heatstorage",
+                         "sourceId":  17183,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RHS-HST, Pierre ollaire",
+                         "slug":  "tt21rhs-heatstorage",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rhs-heatstorage/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RHS est le modèle phare de la gamme TT21. Les images parlent d\u0027elles-mêmes, mais parmi les nombreux avantages de ce poêle, nous ne pouvons manquer de mentionner l\u0027abondance de pierre ollaire et les lignes pures et intemporelles. Le TT21RHS est de série livré avec une porte en acier pratique pour le compartiment à bûches. […]",
+                         "specs":  {
+                                       "poidsKg":  "280",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Nous avons mis au point un module d’ accumulation de la chaleur, formé d’une magnifique pierre ollaire, pour une partie de nos poêles à bois.",
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-avec-module-d-accumulation-de-la-chaleur",
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RHS-HST-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rht",
+                         "sourceId":  18188,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RHT",
+                         "slug":  "tt21rht",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rht/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RHT est la toute nouvelle variante de notre populaire série TT21. Dans cette version plus grande et fi ne on retrouve toutes les qualités de la série TT21, porte et sole foyère en fonte et un rendement qui respecte toutes les normes de l\u0027UE les plus récentes. Plus particulièrement, vous pouvez acquérir en option […]",
+                         "specs":  {
+                                       "poidsKg":  "145 + 48 kg de Powerstone",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Powerstone (pierres d\u0027accumulation), Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RHT_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rl",
+                         "sourceId":  9775,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RL",
+                         "slug":  "tt21rl",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rl/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Les petits détails font une grande différence. C\u0027est exactement le cas pour le TT21RL. Ce poêle fait seulement 8 cm de moins que son grand frère le TT21R. Il est ainsi plus compact, ce qui peut s\u0027avérer très utile si par exemple la hauteur au plafond est réduite. L\u0027espace sous le foyer est blindé afin […]",
+                         "specs":  {
+                                       "poidsKg":  "121",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Petits poêles",
+                                      "Poêles à côtés arrondis",
+                                      "Orangerie",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "petits-poeles",
+                                          "poeles-a-cotes-arrondis",
+                                          "orangerie",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RL_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-black",
+                         "sourceId":  9777,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS Black, Pierre peinte",
+                         "slug":  "tt21rs-black",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-black/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Si vous préférez l\u0027aspect d\u0027un poêle noir, mais que vous aimeriez aussi profiter des excellentes propriétés d\u0027accumulation de chaleur de la pierre peinte noire.",
+                         "specs":  {
+                                       "poidsKg":  "174",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-Black-Sandsten_Pack-1.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-grey",
+                         "sourceId":  18069,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS Grey, Pierre en grès",
+                         "slug":  "tt21rs-grey",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-grey/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RS- GREY réuni la sensation des éléments. La grande densité de la pierre de grès grise offrant une excellente accumulation de chaleur, elle est souvent choisie comme alternative à la pierre ollaire. Grâce à son uniformité et sa structure, elle s\u0027adapte parfaitement dans la décoration intérieur moderne. La pierre de grès harmonise avec merveille […]",
+                         "specs":  {
+                                       "poidsKg":  "174",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-Grey-Sandsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs",
+                         "sourceId":  9776,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS, Pierre ollaire « marbrée »",
+                         "slug":  "tt21rs",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RS offre une expérience complète des éléments. La superbe combinaison du jeu des flammes et de l\u0027aspect brut et rustique de la pierre ollaire rappellent la force brute de la nature. Les propriétés exceptionnelles d\u0027accumulation de chaleur de la pierre ollaire s\u0027ajoutent aux formes rondes de l\u0027élégante porte en fonte, qui se ferme à […]",
+                         "specs":  {
+                                       "poidsKg":  "180",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-Classic-Marmoreret-fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-pierre-ollaire-mate",
+                         "sourceId":  18012,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS, Pierre ollaire matte",
+                         "slug":  "tt21rs-pierre-ollaire-mate",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-pierre-ollaire-mate/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RS réuni la sensation des éléments. La capacité d\u0027accumulation de chaleur de la pierre ollaire marie parfaitement la douceur rustique de la belle porte en fonte. La fermeture de la porte est assurée par deux aimants thermorésistants. Cette fermeture évite des pièces mobiles, ce qui offre un grand confort d\u0027utilisation est une grande longévité. […]",
+                         "specs":  {
+                                       "poidsKg":  "180",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-Mat-lys-fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-cg",
+                         "sourceId":  49137,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS-CG Grey, TermaStone",
+                         "slug":  "tt21rs-cg",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-cg/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez le TT21RS-CG Grey, un poêle à bois qui allie style et fonctionnalité dans un design moderne et minimaliste, désormais disponible avec un revêtement en béton exclusif au look pierre naturelle. Ce béton spécial de provenance européenne a été conçu pour garantir un stockage optimal de la chaleur, permettant la maintenance d\u0027une chaleur confortable longtemps […]",
+                         "specs":  {
+                                       "poidsKg":  "161",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée inox, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/01/TT21RS-CG-–-pack-1.webp",
+                                       "alt":  "",
+                                       "width":  899,
+                                       "height":  933
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-cm-mocca-termastone",
+                         "sourceId":  53692,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS-CM Mocca, TermaStone",
+                         "slug":  "tt21rs-cm-mocca-termastone",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-cm-mocca-termastone/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez le TT21RS-CM Mocca – un poêle à bois qui allie élégance moderne avec l\u0027accumulation de chaleur. Le revêtement exclusif en TermaStone couleur Mocca confère au poêle une allure chaleureuse et raffinée, parfaitement adaptée aux intérieurs minimalistes d\u0027aujourd\u0027hui – et cela à un prix attractif. Le TermaStone est un béton spécialement conçu pour absorber efficacement […]",
+                         "specs":  {
+                                       "poidsKg":  "161",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée inox, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/08/TT21RS-CM-Mocca-thumb.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-heatstorage",
+                         "sourceId":  17184,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS-HST, Pierre ollaire « marbrée »",
+                         "slug":  "tt21rs-heatstorage",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-heatstorage/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT21RS offre une expérience complète des éléments. La superbe combinaison du jeu des flammes et de l\u0027aspect brut et rustique de la pierre ollaire rappellent la force brute de la nature. Les propriétés exceptionnelles d\u0027accumulation de chaleur de la pierre ollaire s\u0027ajoutent aux formes rondes de l\u0027élégante porte en fonte, qui se ferme à […]",
+                         "specs":  {
+                                       "poidsKg":  "275",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Nous avons mis au point un module d’ accumulation de la chaleur, formé d’une magnifique pierre ollaire, pour une partie de nos poêles à bois.",
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-avec-module-d-accumulation-de-la-chaleur",
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-HST-Classic-Marmoreret-fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-heatstorage-matte",
+                         "sourceId":  18052,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS-HST, Pierre ollaire matte",
+                         "slug":  "tt21rs-heatstorage-matte",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-heatstorage-matte/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le poêle est dans un bel habillage de pierre ollaire matte brésilienne. Le module d\u0027accumulation complémentaire favorise une accumulation maximale, qui à la fois accumule et rediffuse de la chaleur dans la pièce. La grande densité de la pierre ollaire permet même d\u0027accumuler de la chaleur pour longtemps après les dernières flammes. La diffusion de […]",
+                         "specs":  {
+                                       "poidsKg":  "275",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour flexible d\u0027air, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Nous avons mis au point un module d’ accumulation de la chaleur, formé d’une magnifique pierre ollaire, pour une partie de nos poêles à bois.",
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-avec-module-d-accumulation-de-la-chaleur",
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-HST-Mat-lys-fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt21rs-wh",
+                         "sourceId":  9778,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT21RS-WH, Pierre en grès",
+                         "slug":  "tt21rs-wh",
+                         "series":  "Série TT21",
+                         "seriesSlug":  "serie-tt21",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt21rs-wh/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "La variante en grès couleur crème (Porto White) TT21RS-WH est disponible avec un corps noir et de série muni d\u0027une poignée froide en acier inoxydable. La gamme TT21 est en mesure de répondre à tous les souhaits et à toutes les attentes de l\u0027utilisateur moderne : la facilité d\u0027utilisation, de jolis détails en fonte et […]",
+                         "specs":  {
+                                       "poidsKg":  "174",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur, Porte cache-bûches (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT21"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt21"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT21RS-White-Sandsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22h",
+                         "sourceId":  9780,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22H",
+                         "slug":  "tt22h",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22h/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT22H est construit autour du même foyer que les autres modèles de la série pour offrir une combustion efficace et agréable à observer. TT22H et HS sont dotés d\u0027une porte cache-bûches pour un poêle plus élégant et plus pratique, offrant une grande capacité de stockage de bois et accessoires discrètement derrière la porte.",
+                         "specs":  {
+                                       "poidsKg":  "175",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Plateau obturateur rond en fonte (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22H_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22hs-black",
+                         "sourceId":  9782,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22HS Black, Pierre peinte",
+                         "slug":  "tt22hs-black",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22hs-black/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Un de nos modèles des plus populaires, le TT22HS, est maintenant disponible en version noire, tout comme le plus petit TT21RS Black. Avec le nouveau TT22HS Black vous pouvez alors profiter de l\u0027excellente capacité d\u0027accumulation de chaleur de la pierre peinte noire.",
+                         "specs":  {
+                                       "poidsKg":  "216",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22HS-Black-Sandsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22hs",
+                         "sourceId":  9781,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22HS, Pierre ollaire",
+                         "slug":  "tt22hs",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22hs/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT22HS vous offre le meilleur du monde des poêles à bois. Ce poêle est d\u0027une élégance imposante offrant une vue magnifique sur le jeu des flammes. C\u0027est un poêle exceptionnel d\u0027une grande valeur décorative quel que soit l\u0027environnement dans lequel il se trouve.",
+                         "specs":  {
+                                       "poidsKg":  "236",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22HS-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22hs-cg",
+                         "sourceId":  49194,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22HS-CG Grey, TermaStone",
+                         "slug":  "tt22hs-cg",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22hs-cg/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez le TT22HS-CG Grey, un grand poêle à bois qui combine style et fonctionnalité dans un design moderne et minimaliste, maintenant avec un habillage en béton exclusif au look pierre naturelle. Ce poêle possède un large foyer (57cm de large !) qui crée un impressionnant spectacle de flammes offrant une atmosphère chaleureuse et accueillante dans […]",
+                         "specs":  {
+                                       "poidsKg":  "210",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/01/TT22HS-CG-–-pack-–-1.webp",
+                                       "alt":  "",
+                                       "width":  899,
+                                       "height":  933
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22hst",
+                         "sourceId":  9783,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22HST, Pierre ollaire",
+                         "slug":  "tt22hst",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22hst/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "« HST » est l\u0027acronyme de Heat Storage, pour indiquer qu\u0027il s\u0027agit d\u0027un poêle à accumulation de chaleur. Quatre gros blocs de pierre ollaire sont placés sous le plateau supérieur pour accumuler la chaleur du poêle en plus du reste de l\u0027habillage. De même, une finition de pierre ollaire a été ajoutée dans le compartiment sous le […]",
+                         "specs":  {
+                                       "poidsKg":  "312",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Nous avons mis au point un module d’ accumulation de la chaleur, formé d’une magnifique pierre ollaire, pour une partie de nos poêles à bois.",
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-avec-module-d-accumulation-de-la-chaleur",
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22HST-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22hs-wh",
+                         "sourceId":  18133,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22HS-WH, Pierre en grès",
+                         "slug":  "tt22hs-wh",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22hs-wh/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "L\u0027accumulation de chaleur connue de la pierre de grès peut également être acquise dans un look nouveau et moderne. La pierre Porto White est une pierre de grès extraite au Portugal qui plait à beaucoup de personnes par son uniformité sobre et légèrement cassée par des fins traits pour un look moderne et chaleureux. Cette […]",
+                         "specs":  {
+                                       "poidsKg":  "216",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22HS-White-Sandsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22r",
+                         "sourceId":  9784,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22R",
+                         "slug":  "tt22r",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22r/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le plateau supérieur en fonte et les parois arrondies soulignent la forme galbée de la façade du poêle, pour un résultat plus harmonieux. Le compartiment sous le foyer permet d\u0027y stocker du bois et la poignée froide de la porte assure un toucher sans se brûler.",
+                         "specs":  {
+                                       "poidsKg":  "162",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Plateau obturateur rond en fonte (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles à côtés arrondis",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22R_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt22rp",
+                         "sourceId":  9785,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT22RP",
+                         "slug":  "tt22rp",
+                         "series":  "Série TT22",
+                         "seriesSlug":  "serie-tt22",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt22rp/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Bien qu\u0027il fasse partie de la gamme TT22, le TT22RP se distingue par son style particulièrement léger pour cette série. Les parois extérieures sont arrondies, de façon à renforcer les lignes épurées du poêle. Ce poêle paraît presque suspendu, grâce notamment au pied qui masque l\u0027arrivée intégrée d\u0027air extérieur. Le pied en fonte assure la […]",
+                         "specs":  {
+                                       "poidsKg":  "192",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Plateau obturateur rond en fonte (noir)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Poêles à côtés arrondis",
+                                      "Série TT22"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt22"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT22RP_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt23rg",
+                         "sourceId":  9787,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT23RG",
+                         "slug":  "tt23rg",
+                         "series":  "Série TT23",
+                         "seriesSlug":  "serie-tt23",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt23rg/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Disponible en noir avec des parois en acier arrondies élégantes et un plateau supérieur en fonte. Le TT23RG est muni de série d\u0027une poignée froide et d\u0027une buse d\u0027arrivée d\u0027air frais. La gamme TT23 est l\u0027une des deux nouvelles gammes de poêles de TermaTech cette année. C\u0027est une gamme de poêles à bois en mesure […]",
+                         "specs":  {
+                                       "poidsKg":  "127",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,6",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles avec vitres latérales",
+                                      "Série TT23"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-avec-vitres-laterales",
+                                          "serie-tt23"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT23RG_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt23rgs",
+                         "sourceId":  9788,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT23RGS, Pierre ollaire",
+                         "slug":  "tt23rgs",
+                         "series":  "Série TT23",
+                         "seriesSlug":  "serie-tt23",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt23rgs/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Disponible en noir avec des parois en pierre ollaire arrondies élégantes et un plateau supérieur en pierre ollaire. Le TT23RGS est muni de série d\u0027une poignée froide et d\u0027une buse d\u0027arrivée d\u0027air frais. La gamme TT23 est l\u0027une des deux nouvelles gammes de poêles de TermaTech cette année. C\u0027est une gamme de poêles à bois […]",
+                         "specs":  {
+                                       "poidsKg":  "174",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,6",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles avec vitres latérales",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT23"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-avec-vitres-laterales",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt23"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT23RGS-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt23rgw",
+                         "sourceId":  22589,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT23RGW",
+                         "slug":  "tt23rgw",
+                         "series":  "Série TT23",
+                         "seriesSlug":  "serie-tt23",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt23rgw/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT23RGW encastré allie fonctionnalité, design et aménagement intérieur en un seul élément. En fixant le poêle au mur, on obtient une apparence légère, simple et épurée, faisant du poêle le centre de la pièce lorsqu\u0027il est en usage, tout en restant discret lorsqu\u0027il ne l\u0027est pas.",
+                         "specs":  {
+                                       "poidsKg":  "",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,6",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Poignée noire, Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles avec vitres latérales",
+                                      "Série TT23"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-avec-vitres-laterales",
+                                          "serie-tt23"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT23RGW_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt23rht",
+                         "sourceId":  53740,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT23RHT",
+                         "slug":  "tt23rht",
+                         "series":  "Série TT23",
+                         "seriesSlug":  "serie-tt23",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt23rht/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT23RHT allie fonctionnalité sans compromis et design élégant avec une vue panoramique impressionnante sur les flammes, permettant de profiter du feu sous plusieurs angles. En tant que poêle à convection, il assure une distribution rapide et efficace de la chaleur, tout en offrant la possibilité d\u0027ajouter dans le module supérieur 48 kg de pierres […]",
+                         "specs":  {
+                                       "poidsKg":  "141 + 48 kg",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,6",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée inox, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Powerstone 48 kg, Serviteur, Raccord avec porte si sortie arrière",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles avec vitres latérales",
+                                      "Série TT23"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-avec-vitres-laterales",
+                                          "serie-tt23"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/08/TT23RHT-thumb.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt30",
+                         "sourceId":  9789,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT30",
+                         "slug":  "tt30",
+                         "series":  "Série TT30",
+                         "seriesSlug":  "serie-tt30",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt30/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "La série TT30 se caractérise par son élégance, sa grande qualité et sa facilité d\u0027utilisation. Les portes, le plateau supérieur et le foyer sont réalisés en fonte, un matériau très stable aux changements de températures, qui confère au poêle son expression robuste. Ce poêle est donc plus fin qu\u0027une grande partie de nos autres modèles, […]",
+                         "specs":  {
+                                       "poidsKg":  "126",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau obturateur rond en fonte (noir), Kit chauffe-plat en fonte, Seviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles carrés",
+                                      "Poêles en fonte",
+                                      "Série TT30"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-carres",
+                                          "poeles-en-fonte",
+                                          "serie-tt30"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT30_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt30g-classic",
+                         "sourceId":  9791,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT30G CLASSIC",
+                         "slug":  "tt30g-classic",
+                         "series":  "Série TT30",
+                         "seriesSlug":  "serie-tt30",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt30g-classic/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le modèle TT30G CLASSIC, se caractérise surtout par son design élégant, sa qualité élevée, sa facilité d\u0027utilisation et son prix très abordable. Les deux portes aussi bien que le foyer sont en fonte, un matériau très résistant qui donne au poêle son expression robuste. Ce poêle est plus fin que la majorité de nos autres […]",
+                         "specs":  {
+                                       "poidsKg":  "108",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Patins en pneu 4 pcs",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles avec vitres latérales",
+                                      "Poêles carrés",
+                                      "Poêles en fonte",
+                                      "Série TT30"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-avec-vitres-laterales",
+                                          "poeles-carres",
+                                          "poeles-en-fonte",
+                                          "serie-tt30"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT30G-CLASSIC_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt30s",
+                         "sourceId":  9793,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT30S, Pierre ollaire",
+                         "slug":  "tt30s",
+                         "series":  "Série TT30",
+                         "seriesSlug":  "serie-tt30",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt30s/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT30S se caractérise par son habillage en pierre ollaire, un matériau naturel qui emmagasine la chaleur et la restitue lentement même bien après l\u0027extinction du feu. La façade en fonte souligne parfaitement les lignes épurées du poêle. Une belle combinaison de deux matériaux robustes qui vont bien ensemble.",
+                         "specs":  {
+                                       "poidsKg":  "160",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,0",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau obturateur rond en fonte (noir), Kit chauffe-plat en fonte, Seviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles carrés",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT30"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-carres",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt30"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT30S-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44",
+                         "sourceId":  39846,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44",
+                         "slug":  "tt44",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez le confort et la chaleur avec le TT44, le poêle à bois parfait pour les foyers modernes. Ce modèle classique avec des côtés en acier combine simplicité et efficacité dans une finition élégante et intemporelle. Le TT44 est une véritable beauté avec ses côtés en acier élégants et son dessus robuste en fonte. La […]",
+                         "specs":  {
+                                       "poidsKg":  "116",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en fonte",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-fonte",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2024/08/TT44_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44cg-grey-termastone",
+                         "sourceId":  53787,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44CG Grey, TermaStone",
+                         "slug":  "tt44cg-grey-termastone",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44cg-grey-termastone/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT44CG allie style et fonctionnalité. Créez une atmosphère chaleureuse et accueillante dans votre maison, où vous pourrez profiter de moments agréables tout au long de l\u0027année. Le look élégant et apaisant de la TermaStone grise ne donne pas seulement au poêle un aspect luxueux et naturel. Cette pierre en béton spécialement conçue est développée […]",
+                         "specs":  {
+                                       "poidsKg":  "132",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "direct",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "direct",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/08/TT44CG-Grey-thumb.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44g",
+                         "sourceId":  39858,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44G",
+                         "slug":  "tt44g",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44g/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez les flammes dansantes sous tous les angles avec notre modèle TT44G à vitre latérale. Créez une atmosphère enchantée où les flammes deviennent naturellement le centre de la convivialité et de la chaleur. Le TT44G combine élégance et fonctionnalité de manière exceptionnelle. Avec ses côtés en acier joliment arrondis, son dessus robuste en fonte, un […]",
+                         "specs":  {
+                                       "poidsKg":  "116",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles avec vitres latérales",
+                                      "direct",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-avec-vitres-laterales",
+                                          "direct",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2024/08/TT44G_Pack-–-1.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44h",
+                         "sourceId":  58509,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44H",
+                         "slug":  "tt44h",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44h/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Malgré sa taille compacte et son design élégant, le TT44H ne fait aucun compromis sur la performance de chauffage. Sa forme arrondie apporte à la fois élégance et fonctionnalité pratique. Qu\u0027il soit placé dans un coin ou contre un mur, le TT44H devient un point central élégant dans votre intérieur. Le TT44H combine la robustesse […]",
+                         "specs":  {
+                                       "poidsKg":  "127",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en fonte",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-fonte",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2026/03/TT44H-transparent.webp",
+                                       "alt":  "",
+                                       "width":  1400,
+                                       "height":  1400
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44hg",
+                         "sourceId":  58707,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44HG",
+                         "slug":  "tt44hg",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44hg/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez les flammes dansantes sous plusieurs angles avec notre modèle TT44HG à vitres latérales. Créez une atmosphère envoûtante et laissez les flammes devenir un point central naturel de confort et de convivialité. Le TT44HG allie élégance et fonctionnalité de manière exceptionnelle. Avec ses côtés en acier joliment arrondis, son dessus en fonte robuste, sa grande […]",
+                         "specs":  {
+                                       "poidsKg":  "127",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles avec vitres latérales",
+                                      "direct",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-avec-vitres-laterales",
+                                          "direct",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2026/03/TT44HG-transparent.webp",
+                                       "alt":  "",
+                                       "width":  1400,
+                                       "height":  1400
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44hs-cg-grey-termastone",
+                         "sourceId":  58968,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44HS-CG, Grey TermaStone®",
+                         "slug":  "tt44hs-cg-grey-termastone",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44hs-cg-grey-termastone/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT44HS-CG allie style et fonctionnalité. Créez une atmosphère chaleureuse et accueillante dans votre maison, où vous pourrez profiter de moments conviviaux tout au long de l\u0027année. La surface grise élégante et apaisante de TermaStones® donne au poêle non seulement un aspect luxueux, mais aussi naturel. La pierre en béton spécialement conçue est développée pour […]",
+                         "specs":  {
+                                       "poidsKg":  "145",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "direct",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "direct",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2026/03/TT44HS-CG-transparent.webp",
+                                       "alt":  "",
+                                       "width":  1400,
+                                       "height":  1400
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt44s",
+                         "sourceId":  39864,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT44S, Pierre ollaire « marbrée »",
+                         "slug":  "tt44s",
+                         "series":  "Série TT44",
+                         "seriesSlug":  "serie-tt44",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt44s/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Découvrez la puissance de la nature avec notre modèle TT44S équipé de pierres ollaires, qui conserve la chaleur longtemps après l\u0027extinction du feu. Les propriétés thermiques sensibles des pierres ollaires assurent une répartition uniforme et agréable de la chaleur, créant une température constante et confortable dans votre maison. Le TT44S marie les propriétés uniques de […]",
+                         "specs":  {
+                                       "poidsKg":  "147",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "4,8",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Plateau de couverture rond en fonte (noir), Kit chauffe-plat en fonte",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Ukategoriseret",
+                                      "direct",
+                                      "Série TT44"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "ukategoriseret-fr",
+                                          "direct",
+                                          "serie-tt44"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2024/08/TT44S_Pack-–-2.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt55hst",
+                         "sourceId":  52241,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT55HST, Pierre ollaire « marbrée »",
+                         "slug":  "tt55hst",
+                         "series":  "Série TT55",
+                         "seriesSlug":  "serie-tt55",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt55hst/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Avec le TT55HST, profitez du meilleur de deux mondes – des matériaux naturels élégants et une accumulation de chaleur efficace. Son habillage en pierre ollaire apporte une touche unique, et le dessus du poêle rempli de l\u0027option Powerstone vous permet de prolonger la diffusion de chaleur et ainsi optimiser le confort dans la pièce.",
+                         "specs":  {
+                                       "poidsKg":  "316 + 60 kg de Powerstone",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaue de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Serviteur, Powerstone (pierres d\u0027accumulation)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Série TT55"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "serie-tt55"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/03/TT55HST_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt55r",
+                         "sourceId":  18307,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT55R",
+                         "slug":  "tt55r",
+                         "series":  "Série TT55",
+                         "seriesSlug":  "serie-tt55",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt55r/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT55R est le modèle de base de la série, qui, dès cette version, offre une chaleur intense et une magnifique vue panoramique sur la danse apaisante des flammes.",
+                         "specs":  {
+                                       "poidsKg":  "201",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaue de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Kit chauffe-plat en fonte, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Série TT55"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "serie-tt55"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT55R_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt55rht",
+                         "sourceId":  18324,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT55RHT",
+                         "slug":  "tt55rht",
+                         "series":  "Série TT55",
+                         "seriesSlug":  "serie-tt55",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt55rht/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT55RHT combine un design élégant et intemporel en fonte noire et acier avec une capacité de stockage de chaleur précieuse. Surclassez ce poêle puissant avec 60 kg de Powerstone, pour une chaleur prolongée – même après l\u0027extinction des dernières braises.",
+                         "specs":  {
+                                       "poidsKg":  "226 + 60 kg de Powerstone",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaue de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Serviteur, Powerstone (pierres d\u0027accumulation)",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Série TT55"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "serie-tt55"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2023/05/TT55RHT_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt55rs",
+                         "sourceId":  52168,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT55RS, Pierre ollaire « marbrée »",
+                         "slug":  "tt55rs",
+                         "series":  "Série TT55",
+                         "seriesSlug":  "serie-tt55",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt55rs/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT55RS devient la nouvelle référence en matière d\u0027élégance naturelle grâce à son habillage exclusif en pierre ollaire. Chaque pierre possède une structure inégalée, travaillée par la nature pendant des millions d\u0027années – un détail raffiné qui rend votre poêle à bois véritablement unique.",
+                         "specs":  {
+                                       "poidsKg":  "275",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "7,5",
+                                       "zoneFonctionnementKw":  "5-10",
+                                       "rendementPourcent":  "82",
+                                       "surfaceChauffeeM2":  "40-160"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaue de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Kit chauffe-plat en fonte, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à bois avec foyer pour bûches de 50cm",
+                                      "Série TT55"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-bois-avec-foyer-pour-buches-de-50cm",
+                                          "serie-tt55"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2025/03/TT55RS_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt80",
+                         "sourceId":  9796,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT80",
+                         "slug":  "tt80",
+                         "series":  "Série TT80",
+                         "seriesSlug":  "serie-tt80",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt80/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Le TT80 version acier est disponible en noir et comprend toujours la pierre d\u0027accumulation intégrée au-dessus du foyer. Vous avez le choix entre le chauffage par convection ou par accumulation. Le TT80 est équipé d\u0027une poignée froide, un pare-bûches et une porte cache-bûches.",
+                         "specs":  {
+                                       "poidsKg":  "184",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,5",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Serviteur, Collecteur de cendres",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "direct",
+                                      "Série TT80"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "direct",
+                                          "serie-tt80"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT80_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt80rl",
+                         "sourceId":  9797,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT80RL",
+                         "slug":  "tt80rl",
+                         "series":  "Série TT80",
+                         "seriesSlug":  "serie-tt80",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt80rl/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle de couleur noire avec des parois en acier arrondies élégantes et son plateau supérieur est en fonte. De série équipé d\u0027une poignée froide, d\u0027un pare-bûches et d\u0027une porte cache-bûches.",
+                         "specs":  {
+                                       "poidsKg":  "146",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,5",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Kit chauffe-plat en fonte, Serviteur, Collecteur de cendres",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Série TT80"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "serie-tt80"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT80RL_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt80rls",
+                         "sourceId":  9798,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT80RLS, Pierre ollaire",
+                         "slug":  "tt80rls",
+                         "series":  "Série TT80",
+                         "seriesSlug":  "serie-tt80",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt80rls/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Poêle de couleur noire avec des parois en pierre ollaire arrondies élégantes et un plateau supérieur en fonte. La poignée froide, le pare-bûches et la porte cache-bûches sont de série. Deux nouvelles variantes (TT80RL et TT80RLS) sont venues s\u0027ajouter à la gamme TT80. Cette gamme de poêles possède un design robuste et séduisant avec de […]",
+                         "specs":  {
+                                       "poidsKg":  "175",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,5",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Kit chauffe-plat en fonte, Serviteur, Collecteur de cendres",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT80"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt80"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT80RLS-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt80s",
+                         "sourceId":  9799,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT80S, Pierre ollaire",
+                         "slug":  "tt80s",
+                         "series":  "Série TT80",
+                         "seriesSlug":  "serie-tt80",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt80s/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Cette version habillée en pierre ollaire est disponible en acier noir ou gris et comprend toujours la pierre d\u0027\u0027accumulation intégré au-dessus du foyer. Vous avez le choix entre le chauffage par convection ou par accumulation. Le TT80S est équipé d\u0027une poignée froide, un pare-bûches et une porte cache-bûches.",
+                         "specs":  {
+                                       "poidsKg":  "210",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "Oui",
+                                       "tiretteReglageAir":  "1",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,5",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "Plaque de sol préformée, verre, Plaque de sol préformée, acier, Kit air travers mur Ø100mm, avec clapet, Plateau obturateur rond en fonte (noir), Serviteur, Pierre ollaire frontale, Collecteur de cendres",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles à côtés arrondis",
+                                      "Poêles en pierre ollaire",
+                                      "Série TT80"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-a-cotes-arrondis",
+                                          "poeles-en-pierre-ollaire",
+                                          "serie-tt80"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2022/10/TT80S-Fedtsten_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     },
+                     {
+                         "id":  "termatech-tt23rg-a-flame",
+                         "sourceId":  54431,
+                         "brand":  "TermaTech",
+                         "category":  "poeles-a-bois",
+                         "categoryLabel":  "Poêles à bois",
+                         "availabilityForBce":  "propose",
+                         "name":  "TT23RG A-Flame",
+                         "slug":  "tt23rg-a-flame",
+                         "series":  "TT23RG A-Flame",
+                         "seriesSlug":  "tt23rg-a-flame-serie",
+                         "sourceUrl":  "https://termatech.com/fr/poeles/tt23rg-a-flame/",
+                         "sourceFetchedAt":  "2026-05-03",
+                         "description":  "Facilité d\u0027utilisation et des élégants détails en fonte, réunis dans un design scandinave épuré et intemporel avec une grande vitre frontale courbée et deux grandes vitres latérales. Mécanisme de fermeture unique de la porte en fonte qui, grâce à des aimants thermorésistants, garantit un confort d\u0027utilisation optimal et une longue durée de vie. Parmi les […]",
+                         "specs":  {
+                                       "poidsKg":  "127",
+                                       "raccordementAirExterne":  "Possible",
+                                       "convection":  "Oui",
+                                       "nettoyageVitre":  "Oui",
+                                       "cendrierAvecCouvercle":  "",
+                                       "tiretteReglageAir":  "",
+                                       "raccordementArriereDessus":  "Oui",
+                                       "garantie":  "5 ans",
+                                       "puissanceNominaleKw":  "5,6",
+                                       "zoneFonctionnementKw":  "3-7",
+                                       "rendementPourcent":  "81",
+                                       "surfaceChauffeeM2":  "30-120"
+                                   },
+                         "options":  "pour la série TT23, vous trouverez une poignée en acier laqué noir. De plus, il est possible d\u0027ajouter une plaque de sol préformée soit en verre soit en acier ainsi qu\u0027un serviteur intégrable dans la porte du compartiment à bois. TT23RG A-Flame Spécifications Poids en kg: 127 Raccordement à l\u0027air externe: Possible Poêle à convection: Oui Fonction nettoyage vitre: Oui Cendrier avec couvercle: Oui Gestion automatique électronique de l\u0027air Raccordement arrière/dessus: Oui Garantie/droit à la réclamation: 5 ans Effet Puissance nominale en kW: 5,6 Zone de fonctionnement en kW: 3-7 Rendement %: 81 Nombre de m2 chauffés: 30-120 Options Pare-feu, Plaque de sol préformée, verre, Plaque de sol préformée, acier, Buse d\u0027arrivée d\u0027air, Kit air travers mur Ø80mm, sans clapet, Kit air travers mur Ø80mm, avec clapet, Kit air travers sol Ø80/100mm, Poignée noire, Plateau obturateur rond en fonte (noir), Plaque de fi nition pour fl exible d\u0027air, Kit chauffe-plat en fonte, Serviteur",
+                         "downloadsText":  "​ Notice de montage et d\u0027utilisation​ Attestation RT2012/BBC Label de classe énergétique Fiche technique​ DoP / Déclaration de performance - EN13240​ DoP / Declaration of Performance - EN16510​ DoC / Déclaration de Conformité - EN13240​ DoC / Déclaration de Conformité - EN16510​",
+                         "tags":  [
+                                      "Poêles avec vitres latérales",
+                                      "TT23RG A-Flame"
+                                  ],
+                         "tagSlugs":  [
+                                          "poeles-avec-vitres-laterales",
+                                          "tt23rg-a-flame-serie"
+                                      ],
+                         "image":  {
+                                       "url":  "https://termatech.com/wp-content/uploads/2024/08/TT23RG-A-flame_Pack.webp",
+                                       "alt":  "",
+                                       "width":  900,
+                                       "height":  932
+                                   },
+                         "integrationNotes":  "Fiche preparee pour la future page Nos produits avec filtres categorie=poeles-a-bois et marque=TermaTech."
+                     }
+                 ]
+}

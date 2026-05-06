@@ -1,0 +1,288 @@
+﻿<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Catalogue poêles, inserts bois et granulés | Bois Concept Énergies</title>
+  <meta name="description" content="Consultez le catalogue Bois Concept Énergies : poêles à bois, poêles à granulés, inserts bois et inserts à granulés disponibles pour votre projet dans le Tarn-et-Garonne.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://www.boisconceptenergies.fr/nos-produits">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Catalogue produits | Bois Concept Énergies">
+  <meta property="og:description" content="Poêles à bois, poêles à granulés, inserts bois et granulés sélectionnés par BCE. Filtres par famille, marque et type de chauffage.">
+  <meta property="og:url" content="https://www.boisconceptenergies.fr/nos-produits">
+  <meta property="og:image" content="https://www.boisconceptenergies.fr/assets/photography/catalogue-poele-bois.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Catalogue produits Bois Concept Énergies",
+    "url": "https://www.boisconceptenergies.fr/nos-produits",
+    "description": "Catalogue de poêles à bois, poêles à granulés, inserts bois et inserts à granulés proposés par Bois Concept Énergies.",
+    "mainEntity": {
+      "@type": "OfferCatalog",
+      "name": "Catalogue chauffage bois et granulés",
+      "itemListElement": [
+        { "@type": "OfferCatalog", "name": "Poêles à bois" },
+        { "@type": "OfferCatalog", "name": "Poêles à granulés" },
+        { "@type": "OfferCatalog", "name": "Inserts bois" },
+        { "@type": "OfferCatalog", "name": "Inserts à granulés" }
+      ]
+    }
+  }
+  </script>
+  <link rel="stylesheet" href="../../colors_and_type.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; }
+    body { background: var(--bg); }
+  </style>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+  <script src="ProductData.js"></script>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+    const DATA = window.BCE_PRODUCTS?.products || [];
+
+    const FAMILY_ORDER = [
+      { id: 'all', label: 'Tous les produits' },
+      { id: 'poeles-a-bois', label: 'Poêles à bois' },
+      { id: 'poeles-a-granules', label: 'Poêles à granulés' },
+      { id: 'inserts-bois', label: 'Inserts bois' },
+      { id: 'inserts-granules', label: 'Inserts à granulés' },
+      { id: 'cheminees-contemporaines', label: 'Cheminées contemporaines' },
+    ];
+
+    function unique(values) {
+      return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, 'fr'));
+    }
+
+    function normalize(text) {
+      return String(text || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function countBy(items, key) {
+      return items.reduce((acc, item) => {
+        const value = item[key] || '';
+        acc[value] = (acc[value] || 0) + 1;
+        return acc;
+      }, {});
+    }
+
+    function compactSpec(value, suffix = '') {
+      if (!value || value === 'non publiée') return 'Non publié';
+      return `${value}${suffix}`;
+    }
+
+    function CatalogHeader() {
+      return (
+        <header className="bce-catalog-header">
+          <div className="bce-catalog-header-inner">
+            <a href="/" aria-label="Retour à l'accueil" style={{ borderBottom: 'none' }}>
+              <img src="../../assets/logo/bce-logo-final-header.png" alt="Bois Concept Énergies" height="78" width="124" style={{ display: 'block', objectFit: 'contain' }} />
+            </a>
+            <nav className="bce-catalog-nav" aria-label="Navigation catalogue">
+              <a href="/">Accueil</a>
+              <a href="/#equipements">Équipements</a>
+              <a href="/#realisations">Réalisations</a>
+              <a href="/#contact" className="bce-button" style={{ minHeight: 40, padding: '0 16px', background: 'var(--ink)', color: 'var(--bg)', border: '1px solid var(--ink)' }}>
+                Nous contacter
+              </a>
+            </nav>
+          </div>
+        </header>
+      );
+    }
+
+    function ProductCard({ product }) {
+      const specA = product.power ? compactSpec(product.power, product.power.includes('à') ? '' : ' kW') : compactSpec(product.heatedVolume, product.heatedVolume ? ' m³' : '');
+      const specALabel = product.power ? 'Puissance' : 'Volume';
+      const specB = product.efficiency ? compactSpec(product.efficiency, String(product.efficiency).includes('%') ? '' : ' %') : compactSpec(product.glassDimensions);
+      const specBLabel = product.efficiency ? 'Rendement' : 'Vitre';
+      const specC = product.heatedVolume ? compactSpec(product.heatedVolume, ' m³') : compactSpec(product.weight, product.weight ? ' kg' : '');
+      const specCLabel = product.heatedVolume ? 'Volume' : 'Poids';
+      const specD = product.typeAppareil || product.combustible || product.series || 'Catalogue BCE';
+
+      return (
+        <article className="bce-product-card bce-card">
+          <div className="bce-product-media">
+            <img src={product.imageThumbnail || product.imageUrl || '../../assets/photography/poele-bois-salon.png'} alt={product.name} loading="lazy" />
+          </div>
+          <div className="bce-product-body">
+            <div className="bce-product-kicker">
+              <span className="bce-product-pill">{product.brand}</span>
+              <span className="bce-product-pill">{product.categoryLabel}</span>
+              {product.manufacturer && product.manufacturer !== product.brand && <span className="bce-product-pill">{product.manufacturer}</span>}
+            </div>
+            <h3>{product.name}</h3>
+            <p>{product.description || 'Produit référencé dans le catalogue BCE, à valider selon votre installation et vos contraintes techniques.'}</p>
+            <div className="bce-product-specs">
+              <div className="bce-product-spec"><span>{specALabel}</span><strong>{specA}</strong></div>
+              <div className="bce-product-spec"><span>{specBLabel}</span><strong>{specB}</strong></div>
+              <div className="bce-product-spec"><span>{specCLabel}</span><strong>{specC}</strong></div>
+              <div className="bce-product-spec"><span>Type</span><strong>{specD}</strong></div>
+            </div>
+            <div className="bce-product-actions">
+              <a href="/#contact">Demander un devis</a>
+              <a href={product.sourceUrl} target="_blank" rel="noreferrer">Fiche fabricant</a>
+            </div>
+          </div>
+        </article>
+      );
+    }
+
+    function Filters({ state, setState, brands, manufacturers, combustibles }) {
+      const update = (key, value) => setState(prev => ({ ...prev, [key]: value }));
+      return (
+        <aside className="bce-catalog-filters">
+          <div className="bce-filter-group">
+            <label htmlFor="search">Recherche</label>
+            <input id="search" type="search" value={state.search} placeholder="Modèle, marque, série..."
+              onChange={(e) => update('search', e.target.value)} />
+          </div>
+          <div className="bce-filter-group">
+            <label htmlFor="brand">Marque</label>
+            <select id="brand" value={state.brand} onChange={(e) => update('brand', e.target.value)}>
+              <option value="all">Toutes les marques</option>
+              {brands.map(brand => <option key={brand} value={brand}>{brand}</option>)}
+            </select>
+          </div>
+          <div className="bce-filter-group">
+            <label htmlFor="manufacturer">Fabricant</label>
+            <select id="manufacturer" value={state.manufacturer} onChange={(e) => update('manufacturer', e.target.value)}>
+              <option value="all">Tous les fabricants</option>
+              {manufacturers.map(name => <option key={name} value={name}>{name}</option>)}
+            </select>
+          </div>
+          <div className="bce-filter-group">
+            <label htmlFor="combustible">Type de chauffage</label>
+            <select id="combustible" value={state.combustible} onChange={(e) => update('combustible', e.target.value)}>
+              <option value="all">Tous les types</option>
+              {combustibles.map(name => <option key={name} value={name}>{name}</option>)}
+            </select>
+          </div>
+          <div className="bce-filter-group">
+            <label htmlFor="sort">Tri</label>
+            <select id="sort" value={state.sort} onChange={(e) => update('sort', e.target.value)}>
+              <option value="name">Nom A-Z</option>
+              <option value="brand">Marque</option>
+              <option value="category">Famille</option>
+            </select>
+          </div>
+          <button className="bce-button" type="button" onClick={() => setState({ search: '', category: 'all', brand: 'all', manufacturer: 'all', combustible: 'all', sort: 'name' })}
+            style={{ width: '100%', marginTop: 4, background: 'transparent', border: '1px solid var(--ink)', color: 'var(--ink)' }}>
+            Réinitialiser
+          </button>
+        </aside>
+      );
+    }
+
+    function App() {
+      const [state, setState] = React.useState({
+        search: '',
+        category: 'all',
+        brand: 'all',
+        manufacturer: 'all',
+        combustible: 'all',
+        sort: 'name',
+      });
+
+      const products = DATA;
+      const categoryCounts = countBy(products, 'category');
+      const brands = unique(products.map(p => p.brand));
+      const manufacturers = unique(products.map(p => p.manufacturer));
+      const combustibles = unique(products.map(p => p.combustible));
+
+      const filtered = products
+        .filter(product => state.category === 'all' || product.category === state.category)
+        .filter(product => state.brand === 'all' || product.brand === state.brand)
+        .filter(product => state.manufacturer === 'all' || product.manufacturer === state.manufacturer)
+        .filter(product => state.combustible === 'all' || product.combustible === state.combustible)
+        .filter(product => {
+          const q = normalize(state.search);
+          if (!q) return true;
+          return normalize([
+            product.name, product.brand, product.manufacturer, product.categoryLabel,
+            product.series, product.subSeries, product.combustible, product.description
+          ].join(' ')).includes(q);
+        })
+        .sort((a, b) => {
+          if (state.sort === 'brand') return `${a.brand} ${a.name}`.localeCompare(`${b.brand} ${b.name}`, 'fr');
+          if (state.sort === 'category') return `${a.categoryLabel} ${a.name}`.localeCompare(`${b.categoryLabel} ${b.name}`, 'fr');
+          return a.name.localeCompare(b.name, 'fr');
+        });
+
+      return (
+        <div className="bce-catalog-shell">
+          <CatalogHeader />
+          <main className="bce-catalog-main">
+            <section className="bce-catalog-hero">
+              <div>
+                <span className="eyebrow">Catalogue BCE</span>
+                <h1>Nos produits référencés.</h1>
+                <p className="lead">
+                  Comparez les gammes déjà collectées pour BCE. Les filtres permettent de trier par marque, famille et type de chauffage.
+                </p>
+              </div>
+              <div className="bce-catalog-stats" aria-label="Statistiques catalogue">
+                <div className="bce-catalog-stat"><strong>{products.length}</strong><span>Produits référencés</span></div>
+                <div className="bce-catalog-stat"><strong>{brands.length}</strong><span>Marques principales</span></div>
+                <div className="bce-catalog-stat"><strong>{Object.keys(categoryCounts).length}</strong><span>Familles actives</span></div>
+              </div>
+            </section>
+
+            <div className="bce-category-tabs" aria-label="Filtrer par famille">
+              {FAMILY_ORDER.map(family => {
+                const count = family.id === 'all' ? products.length : (categoryCounts[family.id] || 0);
+                const empty = family.id !== 'all' && count === 0;
+                return (
+                  <button key={family.id} type="button"
+                    className={`bce-category-tab ${state.category === family.id ? 'is-active' : ''} ${empty ? 'is-empty' : ''}`}
+                    onClick={() => setState(prev => ({ ...prev, category: family.id }))}
+                    title={empty ? 'Aucun catalogue intégré pour le moment' : undefined}>
+                    {family.label} · {count}
+                  </button>
+                );
+              })}
+            </div>
+
+            <section className="bce-catalog-layout">
+              <Filters state={state} setState={setState} brands={brands} manufacturers={manufacturers} combustibles={combustibles} />
+              <div>
+                <div className="bce-catalog-toolbar">
+                  <div>
+                    <span className="eyebrow">Résultats</span>
+                    <h2 style={{ marginTop: 10, marginBottom: 0 }}>{filtered.length} produit{filtered.length > 1 ? 's' : ''}</h2>
+                  </div>
+                  <a className="bce-button" href="/#contact" style={{ padding: '0 18px', background: 'var(--leaf)', color: 'var(--bg)', border: '1px solid var(--leaf)' }}>
+                    Être conseillé
+                  </a>
+                </div>
+                {filtered.length ? (
+                  <div className="bce-product-grid">
+                    {filtered.map(product => <ProductCard key={product.id} product={product} />)}
+                  </div>
+                ) : (
+                  <div className="bce-empty-products">
+                    <h3>Aucun produit trouvé.</h3>
+                    <p>Essayez de retirer un filtre ou de changer votre recherche. Les catalogues granulés seront ajoutés dès qu'ils seront disponibles.</p>
+                  </div>
+                )}
+              </div>
+            </section>
+          </main>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>
+
+
