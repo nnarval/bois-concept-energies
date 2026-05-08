@@ -71,7 +71,7 @@
     @media (max-width: 1024px) {
       .primary-nav { display: none !important; }
       section { padding-left: 24px !important; padding-right: 24px !important; }
-      section[id="accueil"] > div { grid-template-columns: 1fr !important; padding-top: 120px !important; }
+      section[id="accueil"] .bce-hero-layout { grid-template-columns: 1fr !important; padding-top: 120px !important; }
       section > div { grid-template-columns: 1fr !important; gap: 48px !important; }
     }
   </style>
@@ -131,6 +131,7 @@
             <Hero onCta={onNavigate} />
             <PartnersStrip />
             <PromoMarquee />
+            <PromoProducts />
             <ProductCatalogTeaser />
             <Services />
             <ProcessBand />

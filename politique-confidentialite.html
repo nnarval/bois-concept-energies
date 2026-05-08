@@ -16,7 +16,13 @@
   <link rel="stylesheet" href="colors_and_type.css">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
-    body { margin: 0; }
+    html,
+    body {
+      width: 100%;
+      max-width: 100%;
+      margin: 0;
+      overflow-x: hidden;
+    }
     .privacy-header {
       background: var(--ink);
       color: var(--bg);
@@ -131,6 +137,15 @@
       .privacy-footer { padding-left: 24px; padding-right: 24px; }
       .privacy-nav { align-items: flex-start; flex-direction: column; }
       .privacy-logo { width: 132px; }
+      .privacy-hero h1 {
+        font-size: clamp(2.25rem, 10vw, 2.85rem);
+      }
+      .privacy-hero p,
+      .privacy-section p,
+      .privacy-list li {
+        max-width: 100%;
+        overflow-wrap: break-word;
+      }
     }
   </style>
 </head>

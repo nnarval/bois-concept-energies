@@ -2,9 +2,9 @@
 function Hero({ onCta }) {
   return (
     <section id="accueil" data-screen-label="01 Hero" style={{ position: 'relative', minHeight: 760, color: 'var(--bg)', overflow: 'hidden' }}>
-      <img src="../../assets/photography/hero-poele-flamme.png" alt=""
+      <img className="bce-hero-photo" src="../../assets/photography/hero-poele-flamme.png" alt=""
            fetchPriority="high"
-           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} />
+           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center center' }} />
       <div aria-hidden style={{
         position: 'absolute', inset: 0,
         background: 'linear-gradient(105deg, rgba(20,20,20,0.78) 0%, rgba(20,20,20,0.55) 45%, rgba(20,20,20,0.15) 100%)',

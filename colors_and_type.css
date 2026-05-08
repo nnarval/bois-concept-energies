@@ -109,6 +109,9 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -117,7 +120,22 @@ body {
   line-height: var(--lh-normal);
   color: var(--fg-1);
   background: var(--bg);
+  width: 100%;
+  max-width: 100%;
   overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+main,
+section {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: clip;
 }
 
 h1, .h1 {
@@ -499,6 +517,7 @@ img, svg { max-width: 100%; }
   margin: 0 auto;
   padding-left: var(--gutter);
   padding-right: var(--gutter);
+  overflow-x: clip;
 }
 
 .bce-catalog-header-inner {
@@ -871,22 +890,40 @@ img, svg { max-width: 100%; }
 @media (max-width: 720px) {
   :root { --gutter: 20px; }
   html { font-size: 15px; scroll-padding-top: 78px; }
+  body {
+    position: relative;
+  }
   section { padding-top: 88px !important; padding-bottom: 88px !important; }
-  section[id="accueil"] { min-height: 720px !important; }
+  section[id="accueil"] {
+    padding: 0 !important;
+    min-height: calc(100vh + 120px) !important;
+    min-height: calc(100svh + 120px) !important;
+    background: var(--ink) !important;
+    overflow: hidden !important;
+  }
+  section[id="accueil"] .bce-hero-photo {
+    width: 142vw !important;
+    max-width: none !important;
+    height: auto !important;
+    min-height: 0 !important;
+    top: 82px !important;
+    right: -34vw !important;
+    bottom: auto !important;
+    left: auto !important;
+    object-fit: contain !important;
+    object-position: center top !important;
+  }
   header a[aria-label="Retour à l'accueil"] img {
     width: auto !important;
     height: 86px !important;
-  }
-  section[id="accueil"] > div {
-    min-height: 720px !important;
-    padding-top: 132px !important;
-    padding-bottom: 92px !important;
   }
   section[id="accueil"] .bce-hero-layout {
     grid-template-columns: 1fr !important;
     gap: 28px !important;
     align-items: start !important;
-    padding: 132px var(--gutter) 88px !important;
+    min-height: calc(100vh + 120px) !important;
+    min-height: calc(100svh + 120px) !important;
+    padding: 124px var(--gutter) 72px !important;
   }
   section[id="accueil"] > div > div {
     min-width: 0;
@@ -910,7 +947,7 @@ img, svg { max-width: 100%; }
   }
   section[id="accueil"] h1 {
     max-width: 10.75ch !important;
-    font-size: clamp(2.35rem, 10vw, 2.75rem) !important;
+    font-size: clamp(2.25rem, 9.2vw, 2.75rem) !important;
   }
   section[id="accueil"] p {
     max-width: 30ch !important;
@@ -997,12 +1034,33 @@ img, svg { max-width: 100%; }
   }
   .bce-catalog-header-inner {
     min-height: 74px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
   .bce-catalog-nav {
     display: none;
   }
+  .bce-catalog-main {
+    width: 100vw;
+    max-width: 100vw;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   .bce-catalog-hero {
     padding-top: 44px;
+    padding-bottom: 32px;
+    gap: 32px;
+  }
+  .bce-catalog-hero h1 {
+    max-width: 11ch;
+  }
+  .bce-catalog-hero .lead {
+    width: min(100%, 310px);
+    max-width: 310px;
+    font-size: 1.08rem;
+    line-height: 1.62;
+    overflow-wrap: break-word;
+    word-break: normal;
   }
   .bce-catalog-toolbar {
     align-items: flex-start;
@@ -1036,6 +1094,12 @@ img, svg { max-width: 100%; }
 }
 
 @media (max-width: 480px) {
+  section[id="accueil"] .bce-hero-photo {
+    width: 156vw !important;
+    top: 92px !important;
+    right: -44vw !important;
+    object-position: center top !important;
+  }
   header a[aria-label="Retour à l'accueil"] img {
     height: 76px !important;
   }

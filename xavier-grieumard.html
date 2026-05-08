@@ -17,7 +17,13 @@
   <link rel="stylesheet" href="colors_and_type.css">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
-    body { margin: 0; }
+    html,
+    body {
+      width: 100%;
+      max-width: 100%;
+      margin: 0;
+      overflow-x: hidden;
+    }
     .founder-header {
       background: var(--ink);
       color: var(--bg);
@@ -218,7 +224,35 @@
         flex-direction: column;
       }
       .founder-logo { width: 132px; }
-      .founder-portrait { min-height: 340px; }
+      .founder-hero {
+        width: 100vw;
+        max-width: 100vw;
+        padding-top: 84px;
+        padding-bottom: 88px;
+      }
+      .founder-hero-inner {
+        width: 100%;
+        max-width: calc(100vw - 48px);
+      }
+      .founder-hero h1 {
+        font-size: clamp(2.35rem, 11vw, 3rem);
+      }
+      .founder-hero p {
+        width: min(100%, 315px);
+        max-width: 315px;
+        font-size: 1.08rem;
+        line-height: 1.62;
+      }
+      .founder-portrait {
+        min-height: 320px;
+        padding: 22px;
+      }
+      .founder-portrait strong {
+        font-size: clamp(1.75rem, 8vw, 2.25rem);
+      }
+      .founder-cta {
+        width: 100%;
+      }
     }
   </style>
 </head>

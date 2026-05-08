@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="fr">
 <head>
   <meta charset="utf-8">
@@ -71,7 +71,7 @@
     @media (max-width: 1024px) {
       .primary-nav { display: none !important; }
       section { padding-left: 24px !important; padding-right: 24px !important; }
-      section[id="accueil"] > div { grid-template-columns: 1fr !important; padding-top: 120px !important; }
+      section[id="accueil"] .bce-hero-layout { grid-template-columns: 1fr !important; padding-top: 120px !important; }
       section > div { grid-template-columns: 1fr !important; gap: 48px !important; }
     }
   </style>
@@ -669,13 +669,263 @@ function PartnersStrip() {
   );
 }
 
+const PROMO_PRODUCTS = [
+  {
+    id: 'supra-rockatan',
+    brand: 'Supra',
+    model: 'Rockatan',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/supra-rockatan.jpg',
+    price: 2095,
+    promoPrice: 1640,
+    highlight: 'Rotatif à 90 degrés',
+    intro: "Poêle à bois rotatif pensé pour offrir une grande vision du feu et accepter des bûches longues.",
+    specs: [
+      ['Puissance nominale', '10 kW'],
+      ['Rendement', '74 %'],
+      ['Émission de CO', '0,29 % à 13 % O2'],
+      ['Combustion', 'Double combustion'],
+      ['Vitre', 'Système vitre propre'],
+      ['Raccordement fumées', 'Dessus'],
+      ['Diamètre de buse', '150 mm'],
+      ['Longueur des bûches', '58 cm'],
+      ['Dimensions', 'L 70 x H 106 x P 44 cm'],
+      ['Poids brut', '193 kg'],
+      ['Label', 'Flamme Verte 4 étoiles'],
+    ],
+    features: ['Socle rotatif', 'Grand foyer', 'Bûches longues', 'Raccordement dessus'],
+  },
+  {
+    id: 'deville-castillon',
+    brand: 'Deville',
+    model: 'Castillon',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/deville-castillon.jpg',
+    price: 2295,
+    promoPrice: 1800,
+    highlight: 'Grande puissance',
+    intro: "Poêle contemporain en acier avec foyer raccordable, adapté aux volumes importants.",
+    specs: [
+      ['Puissance nominale', '11 kW'],
+      ['Modulation de puissance', '10 à 14 kW'],
+      ['Rendement', '75 %'],
+      ['Surface chauffée', '145 à 330 m2'],
+      ['Habillage', 'Acier'],
+      ['Foyer raccordable', 'Oui'],
+      ['Raccordement air frais', 'Diamètre 120 mm'],
+      ['Combustion', 'Post-combustion'],
+      ['Vitre', 'Système vitre propre'],
+      ['Évacuation des fumées', 'Dessus'],
+      ['Diamètre évacuation', '150 mm'],
+      ['Réglage', "Registre manuel"],
+      ['Taille des bûches', '60 à 69 cm'],
+      ['Taux de CO', '0,10 %'],
+      ['Dimensions', 'L 90 x P 43,5 x H 90 cm'],
+      ['Poids', '125 kg'],
+      ['Label', 'Flamme Verte 7 étoiles'],
+      ['Classe énergétique', 'A'],
+      ['Normes', 'EN 13240, Ecodesign 2022'],
+      ['Pays d’origine', 'France'],
+    ],
+    features: ['Foyer raccordable', 'Post-combustion', 'Grande capacité de bûches', 'Fabrication française'],
+  },
+  {
+    id: 'denia-elyps-eco',
+    brand: 'Denia',
+    model: 'Elyps Eco Design',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/denia-elyps-eco.webp',
+    price: 3460,
+    promoPrice: 2710,
+    highlight: 'Design panoramique',
+    intro: "Poêle à bois panoramique Denia avec trois faces vitrées, une ligne sobre et une grande vision du feu.",
+    specs: [
+      ['Puissance nominale', '7,8 kW'],
+      ['Rendement', '77 %'],
+      ['Émission de CO', '0,10 %'],
+      ['Température des fumées', '304 °C'],
+      ['Tirage nécessaire', '12 Pa'],
+      ['Débit massique des fumées', '7 g/s'],
+      ['Volume de chauffe indicatif', '250 m3'],
+      ['Classe énergétique', 'A'],
+      ['Combustible', 'Bûches'],
+      ['Bûches acceptées', "Jusqu'à 60 cm"],
+      ['Dimensions', 'H 882 x L 780 x P 451 mm'],
+      ['Porte du foyer', '570 x 390 mm'],
+      ['Poids', '110 kg'],
+      ['Diamètre de raccordement', '150 à 153 mm'],
+      ['Arrivée d’air extérieur', 'Oui'],
+      ['Corps de chauffe', 'Acier 5 mm'],
+      ['Foyer', 'Vermiculite'],
+      ['Grille', 'Fonte'],
+      ['Vitre', 'Vitrocéramique résistante jusqu’à 750 °C'],
+      ['Peinture', 'Résistance jusqu’à 800 °C'],
+      ['Distance minimale aux matériaux combustibles', '60 cm'],
+      ['Norme', 'EN 13240:2001 + A2:2004'],
+      ['Label', 'EcoDesign 2022'],
+    ],
+    features: ['Trois faces vitrées', 'Bûches de 60 cm', 'Air extérieur', 'EcoDesign 2022'],
+  },
+  {
+    id: 'denia-bench-banq-pano',
+    brand: 'Denia',
+    model: 'Bench + Banq. Pano',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/denia-bench-banq-pano.png',
+    price: 3040,
+    promoPrice: 2380,
+    highlight: 'Banc panoramique',
+    intro: "Version panoramique avec banc, adaptée aux projets où l'appareil devient un élément fort de la pièce.",
+    specs: [
+      ['Largeur', '1091 mm'],
+      ['Hauteur', '943 mm'],
+      ['Profondeur', '465 mm'],
+      ['Diamètre du tuyau', '150 mm'],
+      ['Sortie de fumée', 'Supérieure'],
+      ['Puissance déclarée', '8,9 kW'],
+      ['Rendement', '80,8 %'],
+      ['Intérieur', 'Vermiculite'],
+      ['Fabrication', 'Acier'],
+      ['Combustion scellée', 'Oui'],
+      ['Système vitre propre', 'Oui'],
+      ['Longueur des bûches', '80 cm'],
+      ['Taux de CO', '0,10 %'],
+      ['Double combustion', 'Oui'],
+      ['Poids', '160 kg'],
+    ],
+    features: ['Banc intégré', 'Très grande vision du feu', 'Double combustion', 'Bûches de 80 cm'],
+  },
+  {
+    id: 'insert-lacunza-adour-1000',
+    brand: 'Lacunza',
+    model: 'Adour 1000',
+    type: 'Insert bois',
+    image: '../../assets/promos/insert-lacunza-adour-1000.jpg',
+    price: 2085,
+    promoPrice: 1630,
+    highlight: 'Insert grand format',
+    intro: "Insert bois acier grand format avec foyer en vermiculite, adapté aux grandes ouvertures.",
+    specs: [
+      ['Gamme de puissance', '8 à 14 kW'],
+      ['Puissance nominale', '11 kW'],
+      ['Rendement', '78 %'],
+      ['Émissions de CO', '0,05 %'],
+      ['Volume de chauffage', '249 m3'],
+      ['Zone de chauffage', '100 m2'],
+      ['Dimensions totales', 'L 990 x H 490 x P 400 mm'],
+      ['Dimensions foyer', 'L 904 x H 235 x P 290 mm'],
+      ['Poids', '111 kg'],
+      ['Sortie des fumées', '150 mm'],
+      ['Longueur des bûches', '90 cm'],
+      ['Matériau extérieur', 'Acier'],
+      ['Matériau foyer', 'Vermiculite'],
+      ['Équipements', 'Double combustion, vitre propre, ramonage facile'],
+    ],
+    features: ['Grand vitrage', 'Bûches de 90 cm', 'Double combustion', 'Foyer vermiculite'],
+  },
+  {
+    id: 'lacunza-tarbes',
+    brand: 'Lacunza',
+    model: 'Tarbes',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/lacunza-tarbes.png',
+    price: 2015,
+    promoPrice: 1580,
+    highlight: 'Fonte compacte',
+    intro: "Poêle à bois en fonte au dessin arrondi, compact et efficace pour une ambiance chaleureuse.",
+    specs: [
+      ['Gamme de puissance', '4 à 8 kW'],
+      ['Puissance nominale', '6 kW'],
+      ['Rendement', '78 %'],
+      ['Émissions de CO', '0,08 %'],
+      ['Volume de chauffage', '136 m3'],
+      ['Zone de chauffage', '54 m2'],
+      ['Dimensions totales', 'L 700 x H 850 x P 400 mm'],
+      ['Dimensions foyer', 'L 540 x H 280 x P 210 mm'],
+      ['Poids', '145 kg'],
+      ['Sortie des fumées', '150 mm'],
+      ['Longueur des bûches', '50 cm'],
+      ['Matériau extérieur', 'Fonte'],
+      ['Matériau foyer', 'Vermiculite'],
+    ],
+    features: ['Corps fonte', 'Format compact', 'Bûches de 50 cm', 'Raccordement 150 mm'],
+  },
+  {
+    id: 'eguzki-c077bx-06',
+    brand: 'Deville',
+    model: 'Eguzki C077BX-06',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/eguzki-c077bx-06.webp',
+    price: 2400,
+    promoPrice: 1880,
+    highlight: 'Étanche RT2012',
+    intro: "Poêle étanche compatible maisons RT2012/BBC, avec chambre de combustion en fonte.",
+    specs: [
+      ['Puissance optimale', '6 kW'],
+      ['Modulation de puissance', '4 à 9 kW'],
+      ['Flamme Verte', '7 étoiles'],
+      ['Rendement', '75 %'],
+      ['Émission de CO', '< 0,12 % à 13 % O2'],
+      ['CO', '< 1500 mg/Nm3'],
+      ['Poussières', '< 40 mg/Nm3'],
+      ['COV/COG', '< 120 mg/Nm3'],
+      ['NOx', '< 200 mg/Nm3'],
+      ['Combustible', 'Bûches 25 cm et 33 cm'],
+      ['Largeur maximale des bûches', '40 cm'],
+      ['Chargement', 'Façade'],
+      ['Départ des fumées', 'Dessus'],
+      ['Diamètre de buse', '150 mm'],
+      ['Raccordement air frais', 'Oui, 80 mm'],
+      ['Dimensions', 'L 52,4 x P 52,2 x H 102,5 cm'],
+      ['Poids', '150 kg'],
+      ['Corps de chauffe', 'Acier'],
+      ['Couleur', 'Noir'],
+      ['Norme', 'EN 13240'],
+    ],
+    features: ['Appareil étanche', 'Foyer fonte', 'Post-combustion', 'Vitre grand angle'],
+  },
+  {
+    id: 'eguzki-mural-c077by-06',
+    brand: 'Deville',
+    model: 'Eguzki mural C077BY-06',
+    type: 'Poêle à bois',
+    image: '../../assets/promos/eguzki-mural-c077by-06.jpg',
+    price: 1860,
+    promoPrice: 1455,
+    highlight: 'Version murale',
+    intro: "Version murale suspendue de l'Eguzki, compacte et adaptée aux projets où l'emprise au sol doit rester légère.",
+    specs: [
+      ['Référence', 'C077BY-06'],
+      ['Puissance nominale', '6 kW'],
+      ['Surface de chauffe', '30 à 70 m2'],
+      ['Volume de chauffe', '80 à 180 m3'],
+      ['Rendement énergétique', '> 75 %'],
+      ['Classe énergétique', 'A'],
+      ['Étanchéité', 'Oui, compatible RT2012/BBC'],
+      ['Matériau', 'Corps en acier, foyer en fonte'],
+      ['Taille des bûches', '25 cm, 33 cm ou 40 cm selon configuration'],
+      ['Installation', 'Murale suspendue'],
+      ['Départ des fumées', 'Dessus'],
+      ['Diamètre de buse', '150 mm'],
+      ['Combustion', 'Post-combustion / double combustion'],
+      ['Finition', 'Cylindrique noire'],
+    ],
+    features: ['Installation murale', 'Étanche', 'Double combustion', 'Format compact'],
+  },
+];
+
+function formatPriceHT(value) {
+  return `${value.toLocaleString('fr-FR')} € HT`;
+}
+
+function savingPercent(product) {
+  return Math.round(((product.price - product.promoPrice) / product.price) * 100);
+}
+
 function PromoMarquee() {
-  const promos = [
-    'Grosses promos à venir',
-    'Modèles en déstockage bientôt disponibles',
-    'Offres limitées sur appareils sélectionnés',
-    'Demandez votre devis personnalisé',
-  ];
+  const promos = PROMO_PRODUCTS.map((product) => (
+    `${product.brand} ${product.model} - ${formatPriceHT(product.promoPrice)}`
+  ));
 
   return (
     <section aria-label="Promotions en cours" className="bce-promo-marquee-wrap">
@@ -801,6 +1051,474 @@ function PromoMarquee() {
   );
 }
 
+function PromoProductModal({ product, onClose }) {
+  React.useEffect(() => {
+    if (!product) return undefined;
+    const onKeyDown = (event) => {
+      if (event.key === 'Escape') onClose();
+    };
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  }, [product, onClose]);
+
+  if (!product) return null;
+
+  return (
+    <div className="promo-modal" role="dialog" aria-modal="true" aria-labelledby="promo-modal-title">
+      <button className="promo-modal__backdrop" type="button" aria-label="Fermer la fiche" onClick={onClose} />
+      <article className="promo-modal__panel">
+        <button className="promo-modal__close" type="button" onClick={onClose}>Fermer</button>
+        <div className="promo-modal__media">
+          <img src={product.image} alt={`${product.brand} ${product.model}`} />
+        </div>
+        <div className="promo-modal__content">
+          <p className="eyebrow">{product.type}</p>
+          <h3 id="promo-modal-title">{product.brand} {product.model}</h3>
+          <p>{product.intro}</p>
+          <div className="promo-modal__prices" aria-label="Prix">
+            <span>{formatPriceHT(product.price)}</span>
+            <strong>{formatPriceHT(product.promoPrice)}</strong>
+            <em>-{savingPercent(product)} %</em>
+          </div>
+          <div className="promo-modal__features">
+            {product.features.map((feature) => <span key={feature}>{feature}</span>)}
+          </div>
+          <div className="promo-modal__specs">
+            {product.specs.map(([label, value]) => (
+              <div className="promo-modal__spec" key={`${label}-${value}`}>
+                <dt>{label}</dt>
+                <dd>{value}</dd>
+              </div>
+            ))}
+          </div>
+          <a className="promo-modal__cta" href="index.html#contact">Demander un devis pour ce modèle</a>
+        </div>
+      </article>
+    </div>
+  );
+}
+
+function PromoProducts() {
+  const [expanded, setExpanded] = React.useState(false);
+  const [selected, setSelected] = React.useState(null);
+  const visibleProducts = expanded ? PROMO_PRODUCTS : PROMO_PRODUCTS.slice(0, 4);
+
+  return (
+    <section id="promotions" className="promo-products" aria-labelledby="promo-products-title">
+      <div className="promo-products__inner">
+        <div className="promo-products__heading">
+          <div>
+            <p className="eyebrow">Offres limitées</p>
+            <h2 id="promo-products-title">Grosses promos sur modèles sélectionnés</h2>
+          </div>
+          <p>
+            Découvrez les appareils actuellement en promotion. Chaque modèle ouvre une fiche technique claire avec le prix HT de départ, le prix promo HT et les caractéristiques utiles au choix.
+          </p>
+        </div>
+
+        <div className="promo-products__grid">
+          {visibleProducts.map((product) => (
+            <article className="promo-card" key={product.id}>
+              <button type="button" onClick={() => setSelected(product)} aria-label={`Voir la fiche ${product.brand} ${product.model}`}>
+                <span className="promo-card__media">
+                  <img src={product.image} alt={`${product.brand} ${product.model}`} loading="lazy" />
+                  <span className="promo-card__badge">-{savingPercent(product)} %</span>
+                </span>
+                <span className="promo-card__body">
+                  <span className="promo-card__type">{product.type}</span>
+                  <strong>{product.brand} {product.model}</strong>
+                  <span>{product.highlight}</span>
+                  <span className="promo-card__prices">
+                    <del>{formatPriceHT(product.price)}</del>
+                    <em>{formatPriceHT(product.promoPrice)}</em>
+                  </span>
+                  <span className="promo-card__link">Voir la fiche technique</span>
+                </span>
+              </button>
+            </article>
+          ))}
+        </div>
+
+        <div className="promo-products__actions">
+          <button type="button" onClick={() => setExpanded((value) => !value)}>
+            {expanded ? 'Réduire les promotions' : 'Voir les 8 modèles en promo'}
+          </button>
+        </div>
+      </div>
+      <PromoProductModal product={selected} onClose={() => setSelected(null)} />
+      <style>{`
+        .promo-products {
+          background: var(--bg);
+          padding: 28px var(--gutter) 72px;
+          overflow: hidden;
+        }
+        .promo-products__inner {
+          max-width: var(--container-wide);
+          margin: 0 auto;
+        }
+        .promo-products__heading {
+          display: grid;
+          grid-template-columns: minmax(0, 0.9fr) minmax(280px, 0.65fr);
+          gap: 32px;
+          align-items: end;
+          margin-bottom: 28px;
+        }
+        .promo-products__heading h2 {
+          max-width: 760px;
+          margin: 0;
+          color: var(--ink);
+        }
+        .promo-products__heading > p {
+          max-width: 620px;
+          margin: 0;
+          color: var(--fg-2);
+          font-weight: 600;
+        }
+        .promo-products__grid {
+          display: grid;
+          grid-template-columns: repeat(4, minmax(0, 1fr));
+          gap: 16px;
+        }
+        .promo-card {
+          min-width: 0;
+        }
+        .promo-card button {
+          width: 100%;
+          height: 100%;
+          display: grid;
+          grid-template-rows: 236px 1fr;
+          padding: 0;
+          overflow: hidden;
+          border: 1px solid rgba(20,20,20,0.14);
+          border-radius: var(--radius-md);
+          background: var(--surface);
+          color: var(--ink);
+          text-align: left;
+          cursor: pointer;
+          box-shadow: 0 20px 42px -34px rgba(20,20,20,0.38);
+          transition: transform var(--dur-base) var(--ease), border-color var(--dur-base) var(--ease), box-shadow var(--dur-base) var(--ease);
+        }
+        .promo-card button:hover,
+        .promo-card button:focus-visible {
+          transform: translateY(-3px);
+          border-color: rgba(70,130,27,0.52);
+          box-shadow: 0 22px 46px -28px rgba(70,130,27,0.45);
+          outline: none;
+        }
+        .promo-card__media {
+          position: relative;
+          display: block;
+          background: #f3f0ea;
+          overflow: hidden;
+        }
+        .promo-card__media img {
+          width: 100%;
+          height: 100%;
+          display: block;
+          object-fit: contain;
+          padding: 14px;
+          mix-blend-mode: multiply;
+        }
+        .promo-card__badge {
+          position: absolute;
+          top: 12px;
+          right: 12px;
+          display: inline-flex;
+          align-items: center;
+          min-height: 34px;
+          padding: 0 11px;
+          border-radius: var(--radius-pill);
+          background: var(--leaf);
+          color: var(--bg);
+          font-size: 12px;
+          font-weight: 900;
+          box-shadow: 0 12px 24px -16px rgba(70,130,27,0.8);
+        }
+        .promo-card__body {
+          display: flex;
+          flex-direction: column;
+          gap: 9px;
+          padding: 18px;
+        }
+        .promo-card__type {
+          color: var(--leaf);
+          font-size: 11px;
+          font-weight: 900;
+          text-transform: uppercase;
+          letter-spacing: 0.12em;
+        }
+        .promo-card__body strong {
+          font-family: var(--font-display);
+          font-size: 25px;
+          line-height: 1.05;
+          font-weight: 400;
+        }
+        .promo-card__body > span:not(.promo-card__type):not(.promo-card__prices):not(.promo-card__link) {
+          color: var(--fg-2);
+          font-size: 14px;
+          font-weight: 700;
+        }
+        .promo-card__prices {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: baseline;
+          gap: 8px 12px;
+          margin-top: auto;
+        }
+        .promo-card__prices del {
+          color: var(--fg-3);
+          font-size: 13px;
+          font-weight: 700;
+        }
+        .promo-card__prices em {
+          color: var(--ink);
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 900;
+        }
+        .promo-card__link {
+          color: var(--leaf);
+          font-size: 13px;
+          font-weight: 900;
+        }
+        .promo-products__actions {
+          display: flex;
+          justify-content: center;
+          margin-top: 26px;
+        }
+        .promo-products__actions button,
+        .promo-modal__cta,
+        .promo-modal__close {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          min-height: 46px;
+          padding: 0 18px;
+          border-radius: var(--radius-sm);
+          border: 1px solid rgba(20,20,20,0.16);
+          background: var(--ink);
+          color: var(--bg);
+          font-size: 13px;
+          font-weight: 900;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        .promo-products__actions button:hover,
+        .promo-modal__cta:hover,
+        .promo-modal__close:hover {
+          background: var(--leaf);
+          border-color: var(--leaf);
+        }
+        .promo-modal {
+          position: fixed;
+          inset: 0;
+          z-index: 90;
+          display: grid;
+          place-items: center;
+          padding: 24px;
+        }
+        .promo-modal__backdrop {
+          position: fixed;
+          inset: 0;
+          border: 0;
+          background: rgba(20,20,20,0.62);
+          backdrop-filter: blur(4px);
+          cursor: pointer;
+        }
+        .promo-modal__panel {
+          position: relative;
+          z-index: 1;
+          width: min(1120px, 100%);
+          max-height: min(840px, calc(100vh - 48px));
+          min-height: 0;
+          display: grid;
+          grid-template-columns: minmax(300px, 0.85fr) minmax(0, 1.15fr);
+          overflow-x: hidden;
+          overflow-y: auto;
+          overscroll-behavior: contain;
+          border-radius: var(--radius-md);
+          background: var(--surface);
+          box-shadow: 0 32px 80px -30px rgba(0,0,0,0.55);
+        }
+        .promo-modal__media {
+          min-height: 100%;
+          background: #f0ebe2;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 26px;
+        }
+        .promo-modal__media img {
+          width: 100%;
+          height: min(650px, 76vh);
+          object-fit: contain;
+          display: block;
+          mix-blend-mode: multiply;
+        }
+        .promo-modal__content {
+          min-height: 0;
+          padding: 34px;
+          overflow: visible;
+        }
+        .promo-modal__content h3 {
+          margin: 0 0 12px;
+          font-size: clamp(34px, 4vw, 58px);
+          line-height: 1;
+          color: var(--ink);
+        }
+        .promo-modal__content p {
+          margin: 0 0 18px;
+          color: var(--fg-2);
+          font-weight: 600;
+        }
+        .promo-modal__prices {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 10px;
+          margin: 20px 0 18px;
+        }
+        .promo-modal__prices span {
+          color: var(--fg-3);
+          font-weight: 800;
+          text-decoration: line-through;
+        }
+        .promo-modal__prices strong {
+          color: var(--leaf);
+          font-size: 30px;
+          line-height: 1;
+        }
+        .promo-modal__prices em {
+          display: inline-flex;
+          min-height: 34px;
+          align-items: center;
+          padding: 0 11px;
+          border-radius: var(--radius-pill);
+          background: rgba(70,130,27,0.12);
+          color: var(--leaf);
+          font-style: normal;
+          font-weight: 900;
+        }
+        .promo-modal__features {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 8px;
+          margin-bottom: 22px;
+        }
+        .promo-modal__features span {
+          display: inline-flex;
+          align-items: center;
+          min-height: 32px;
+          padding: 0 10px;
+          border: 1px solid rgba(20,20,20,0.12);
+          border-radius: var(--radius-pill);
+          background: rgba(245,241,234,0.74);
+          color: var(--ink);
+          font-size: 12px;
+          font-weight: 800;
+        }
+        .promo-modal__specs {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          border-top: 1px solid rgba(20,20,20,0.12);
+          border-left: 1px solid rgba(20,20,20,0.12);
+          margin-bottom: 24px;
+        }
+        .promo-modal__spec {
+          min-width: 0;
+          padding: 12px;
+          border-right: 1px solid rgba(20,20,20,0.12);
+          border-bottom: 1px solid rgba(20,20,20,0.12);
+        }
+        .promo-modal__spec dt {
+          color: var(--fg-3);
+          font-size: 11px;
+          font-weight: 900;
+          text-transform: uppercase;
+          letter-spacing: 0.08em;
+        }
+        .promo-modal__spec dd {
+          margin: 4px 0 0;
+          color: var(--ink);
+          font-size: 14px;
+          font-weight: 800;
+          overflow-wrap: anywhere;
+        }
+        .promo-modal__close {
+          position: absolute;
+          top: 14px;
+          right: 14px;
+          z-index: 2;
+          min-height: 38px;
+          background: rgba(20,20,20,0.86);
+        }
+        @media (max-width: 1100px) {
+          .promo-products__grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+          }
+        }
+        @media (max-width: 780px) {
+          .promo-products {
+            padding: 22px 16px 54px;
+          }
+          .promo-products__heading {
+            grid-template-columns: 1fr;
+            gap: 12px;
+          }
+          .promo-products__heading h2 {
+            font-size: clamp(36px, 11vw, 48px);
+          }
+          .promo-products__grid {
+            display: flex;
+            gap: 14px;
+            overflow-x: auto;
+            padding: 2px 2px 12px;
+            scroll-snap-type: x mandatory;
+            scrollbar-width: none;
+          }
+          .promo-products__grid::-webkit-scrollbar {
+            display: none;
+          }
+          .promo-card {
+            flex: 0 0 min(86vw, 340px);
+            scroll-snap-align: start;
+          }
+          .promo-card button {
+            grid-template-rows: 230px 1fr;
+          }
+          .promo-modal {
+            padding: 12px;
+            align-items: end;
+          }
+          .promo-modal__panel {
+            max-height: calc(100svh - 24px);
+            grid-template-columns: 1fr;
+            overflow: auto;
+          }
+          .promo-modal__media {
+            min-height: 260px;
+            padding: 18px;
+          }
+          .promo-modal__media img {
+            height: 260px;
+          }
+          .promo-modal__content {
+            padding: 24px 18px 22px;
+            overflow: visible;
+          }
+          .promo-modal__specs {
+            grid-template-columns: 1fr;
+          }
+          .promo-modal__close {
+            top: 10px;
+            right: 10px;
+          }
+        }
+      `}</style>
+    </section>
+  );
+}
+
 window.HeroEmbers = HeroEmbers;
 window.ScrollCue = ScrollCue;
 window.ProcessBand = ProcessBand;
@@ -811,6 +1529,7 @@ window.DeptMap = DeptMap;
 window.FAQ = FAQ;
 window.PartnersStrip = PartnersStrip;
 window.PromoMarquee = PromoMarquee;
+window.PromoProducts = PromoProducts;
 
   </script>
   <script type="text/babel">
@@ -932,9 +1651,9 @@ window.Header = Header;
 function Hero({ onCta }) {
   return (
     <section id="accueil" data-screen-label="01 Hero" style={{ position: 'relative', minHeight: 760, color: 'var(--bg)', overflow: 'hidden' }}>
-      <img src="../../assets/photography/hero-poele-flamme.png" alt=""
+      <img className="bce-hero-photo" src="../../assets/photography/hero-poele-flamme.png" alt=""
            fetchPriority="high"
-           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} />
+           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center center' }} />
       <div aria-hidden style={{
         position: 'absolute', inset: 0,
         background: 'linear-gradient(105deg, rgba(20,20,20,0.78) 0%, rgba(20,20,20,0.55) 45%, rgba(20,20,20,0.15) 100%)',
@@ -1728,6 +2447,7 @@ window.Footer = Footer;
             <Hero onCta={onNavigate} />
             <PartnersStrip />
             <PromoMarquee />
+            <PromoProducts />
             <ProductCatalogTeaser />
             <Services />
             <ProcessBand />
@@ -1746,4 +2466,3 @@ window.Footer = Footer;
   </script>
 </body>
 </html>
-
