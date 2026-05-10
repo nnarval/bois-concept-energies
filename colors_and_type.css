@@ -931,15 +931,31 @@ img, svg { max-width: 100%; }
   }
   section[id="accueil"] .bce-hero-cert {
     width: 100% !important;
-    align-items: flex-start !important;
+    max-width: 360px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    align-items: stretch !important;
     transform: none !important;
   }
   section[id="accueil"] .bce-hero-cert-card {
-    width: min(100%, 280px) !important;
-    padding: 16px !important;
+    width: fit-content !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding: 12px 14px 14px !important;
+    text-align: center !important;
+  }
+  section[id="accueil"] .bce-hero-cert-card > div {
+    justify-content: center !important;
   }
   section[id="accueil"] .bce-hero-rge-logo {
-    width: min(190px, 100%) !important;
+    width: min(236px, 100%) !important;
+    margin: 0 auto !important;
+  }
+  section[id="accueil"] .bce-hero-cert-card p {
+    width: min(236px, 100%) !important;
+    max-width: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
   section[id="accueil"] .eyebrow {
     max-width: 30ch;
@@ -958,7 +974,9 @@ img, svg { max-width: 100%; }
   }
   .bce-hero-actions {
     width: 100%;
-    max-width: 320px;
+    max-width: 360px;
+    margin-left: auto !important;
+    margin-right: auto !important;
     flex-direction: column;
     align-items: stretch;
   }

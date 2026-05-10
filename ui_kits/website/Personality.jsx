@@ -893,7 +893,7 @@ function PromoMarquee() {
         }
         @media (max-width: 700px) {
           .bce-promo-marquee-wrap {
-            padding: 14px 16px 20px;
+            padding: 14px 16px 10px;
           }
           .bce-promo-marquee-shell {
             border-radius: var(--radius-sm);
@@ -1333,7 +1333,7 @@ function PromoProducts() {
         }
         @media (max-width: 780px) {
           .promo-products {
-            padding: 22px 16px 54px;
+            padding: 18px 16px 54px !important;
           }
           .promo-products__heading {
             grid-template-columns: 1fr;
