@@ -74,6 +74,21 @@
       }, {});
     }
 
+    function initialCategory() {
+      const value = new URLSearchParams(window.location.search).get('category');
+      return FAMILY_ORDER.some(family => family.id === value) ? value : 'all';
+    }
+
+    function updateCategoryUrl(category) {
+      const url = new URL(window.location.href);
+      if (category === 'all') {
+        url.searchParams.delete('category');
+      } else {
+        url.searchParams.set('category', category);
+      }
+      window.history.replaceState({}, '', url);
+    }
+
     function compactSpec(value, suffix = '') {
       if (!value || value === 'non publiée') return 'Non publié';
       return `${value}${suffix}`;
@@ -174,7 +189,10 @@
               <option value="category">Famille</option>
             </select>
           </div>
-          <button className="bce-button" type="button" onClick={() => setState({ search: '', category: 'all', brand: 'all', manufacturer: 'all', combustible: 'all', sort: 'name' })}
+          <button className="bce-button" type="button" onClick={() => {
+            setState({ search: '', category: 'all', brand: 'all', manufacturer: 'all', combustible: 'all', sort: 'name' });
+            updateCategoryUrl('all');
+          }}
             style={{ width: '100%', marginTop: 4, background: 'transparent', border: '1px solid var(--ink)', color: 'var(--ink)' }}>
             Réinitialiser
           </button>
@@ -185,7 +203,7 @@
     function App() {
       const [state, setState] = React.useState({
         search: '',
-        category: 'all',
+        category: initialCategory(),
         brand: 'all',
         manufacturer: 'all',
         combustible: 'all',
@@ -243,7 +261,10 @@
                 return (
                   <button key={family.id} type="button"
                     className={`bce-category-tab ${state.category === family.id ? 'is-active' : ''} ${empty ? 'is-empty' : ''}`}
-                    onClick={() => setState(prev => ({ ...prev, category: family.id }))}
+                    onClick={() => {
+                      setState(prev => ({ ...prev, category: family.id }));
+                      updateCategoryUrl(family.id);
+                    }}
                     title={empty ? 'Aucun catalogue intégré pour le moment' : undefined}>
                     {family.label} · {count}
                   </button>

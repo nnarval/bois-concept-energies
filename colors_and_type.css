@@ -448,7 +448,7 @@ img, svg { max-width: 100%; }
 .bce-family-card figcaption {
   position: absolute;
   inset: auto 0 0;
-  padding: 18px;
+  padding: 18px 150px 18px 18px;
   color: var(--bg);
   background: linear-gradient(to top, rgba(20,20,20,0.78), rgba(20,20,20,0));
 }
@@ -467,6 +467,37 @@ img, svg { max-width: 100%; }
   font-size: 23px;
   font-weight: 400;
   line-height: 1.15;
+}
+
+.bce-family-card-link {
+  position: absolute;
+  right: 12px;
+  bottom: 14px;
+  z-index: 2;
+  min-height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 0 8px;
+  border: 1px solid rgba(245,241,234,0.42);
+  border-radius: var(--radius-sm);
+  background: rgba(245,241,234,0.92);
+  color: var(--ink);
+  font-size: 9px;
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: 0 14px 28px -22px rgba(0,0,0,0.65);
+}
+
+.bce-family-card-link:hover,
+.bce-family-card-link:focus-visible {
+  background: var(--leaf);
+  border-color: var(--leaf);
+  color: var(--bg);
+  outline: none;
 }
 
 .bce-products-entry-cta {
@@ -1049,6 +1080,13 @@ img, svg { max-width: 100%; }
   .bce-product-grid,
   .bce-catalog-stats {
     grid-template-columns: 1fr !important;
+  }
+  .bce-family-card figcaption {
+    padding: 18px 18px 62px !important;
+  }
+  .bce-family-card-link {
+    right: 14px;
+    bottom: 14px;
   }
   .bce-catalog-header-inner {
     min-height: 74px;

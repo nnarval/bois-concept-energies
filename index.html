@@ -2077,24 +2077,28 @@ function ProductCatalogTeaser() {
       count: '101 modèles',
       status: 'Catalogue disponible',
       src: 'assets/photography/catalogue-poele-bois.png',
+      href: 'nos-produits.html?category=poeles-a-bois',
     },
     {
       title: 'Poêles à granulés',
       count: '136 modèles',
       status: 'Catalogue disponible',
       src: 'assets/photography/catalogue-poele-granules.png',
+      href: 'nos-produits.html?category=poeles-a-granules',
     },
     {
       title: 'Inserts bois',
       count: '47 modèles',
       status: 'Catalogue disponible',
       src: 'assets/photography/catalogue-insert-bois.png',
+      href: 'nos-produits.html?category=inserts-bois',
     },
     {
       title: 'Inserts à granulés',
       count: '6 modèles',
       status: 'Catalogue disponible',
       src: 'assets/photography/catalogue-insert-granules.png',
+      href: 'nos-produits.html?category=inserts-granules',
     },
   ];
 
@@ -2117,6 +2121,9 @@ function ProductCatalogTeaser() {
               <strong>{family.title}</strong>
               <small>{family.count}</small>
             </figcaption>
+            <a className="bce-family-card-link" href={family.href} aria-label={`Voir le catalogue ${family.title}`}>
+              Voir ce catalogue <Icon name="arrow-right" size={14} />
+            </a>
           </figure>
         ))}
       </div>
