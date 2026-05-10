@@ -101,6 +101,14 @@ function Header({ active = 'accueil', onNavigate }) {
               {it.label}
             </a>
           ))}
+          <a href="#contact"
+            aria-current={active === 'contact' ? 'page' : undefined}
+            onClick={(e) => {
+              e.preventDefault();
+              navigate('contact');
+            }}>
+            Nous contacter
+          </a>
         </nav>
       )}
     </header>
